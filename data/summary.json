@@ -1,0 +1,1714 @@
+{
+ "generated": "2026-08-09T01:24:09+00:00",
+ "tz": "America/New_York",
+ "samples": 504,
+ "days_covered": 21.0,
+ "grid": [
+  {
+   "d": 0,
+   "h": 0,
+   "n": 3,
+   "shows": 6.0,
+   "viewers": 151.7,
+   "vps": 25.3
+  },
+  {
+   "d": 0,
+   "h": 1,
+   "n": 3,
+   "shows": 3.0,
+   "viewers": 50.3,
+   "vps": 16.8
+  },
+  {
+   "d": 0,
+   "h": 2,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 4.3,
+   "vps": 4.3
+  },
+  {
+   "d": 0,
+   "h": 3,
+   "n": 3,
+   "shows": 0.7,
+   "viewers": 3.7,
+   "vps": 5.3
+  },
+  {
+   "d": 0,
+   "h": 4,
+   "n": 3,
+   "shows": 0.3,
+   "viewers": 3.3,
+   "vps": 11.0
+  },
+  {
+   "d": 0,
+   "h": 5,
+   "n": 3,
+   "shows": 0.0,
+   "viewers": 0.0,
+   "vps": 0
+  },
+  {
+   "d": 0,
+   "h": 6,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 2.7,
+   "vps": 2.7
+  },
+  {
+   "d": 0,
+   "h": 7,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 16.0,
+   "vps": 16.0
+  },
+  {
+   "d": 0,
+   "h": 8,
+   "n": 3,
+   "shows": 2.0,
+   "viewers": 21.0,
+   "vps": 10.5
+  },
+  {
+   "d": 0,
+   "h": 9,
+   "n": 3,
+   "shows": 2.3,
+   "viewers": 20.0,
+   "vps": 8.7
+  },
+  {
+   "d": 0,
+   "h": 10,
+   "n": 3,
+   "shows": 3.3,
+   "viewers": 66.0,
+   "vps": 20.0
+  },
+  {
+   "d": 0,
+   "h": 11,
+   "n": 3,
+   "shows": 3.3,
+   "viewers": 64.7,
+   "vps": 19.6
+  },
+  {
+   "d": 0,
+   "h": 12,
+   "n": 3,
+   "shows": 4.0,
+   "viewers": 90.0,
+   "vps": 22.5
+  },
+  {
+   "d": 0,
+   "h": 13,
+   "n": 3,
+   "shows": 4.3,
+   "viewers": 145.3,
+   "vps": 33.8
+  },
+  {
+   "d": 0,
+   "h": 14,
+   "n": 3,
+   "shows": 5.7,
+   "viewers": 146.0,
+   "vps": 25.6
+  },
+  {
+   "d": 0,
+   "h": 15,
+   "n": 3,
+   "shows": 5.7,
+   "viewers": 212.0,
+   "vps": 37.2
+  },
+  {
+   "d": 0,
+   "h": 16,
+   "n": 3,
+   "shows": 6.3,
+   "viewers": 160.7,
+   "vps": 25.5
+  },
+  {
+   "d": 0,
+   "h": 17,
+   "n": 3,
+   "shows": 8.3,
+   "viewers": 368.0,
+   "vps": 44.3
+  },
+  {
+   "d": 0,
+   "h": 18,
+   "n": 3,
+   "shows": 9.3,
+   "viewers": 325.3,
+   "vps": 35.0
+  },
+  {
+   "d": 0,
+   "h": 19,
+   "n": 3,
+   "shows": 12.3,
+   "viewers": 544.0,
+   "vps": 44.2
+  },
+  {
+   "d": 0,
+   "h": 20,
+   "n": 3,
+   "shows": 15.7,
+   "viewers": 678.7,
+   "vps": 43.2
+  },
+  {
+   "d": 0,
+   "h": 21,
+   "n": 3,
+   "shows": 14.7,
+   "viewers": 804.0,
+   "vps": 54.7
+  },
+  {
+   "d": 0,
+   "h": 22,
+   "n": 3,
+   "shows": 13.7,
+   "viewers": 573.0,
+   "vps": 41.8
+  },
+  {
+   "d": 0,
+   "h": 23,
+   "n": 3,
+   "shows": 8.7,
+   "viewers": 379.0,
+   "vps": 43.6
+  },
+  {
+   "d": 1,
+   "h": 0,
+   "n": 3,
+   "shows": 5.0,
+   "viewers": 152.3,
+   "vps": 30.5
+  },
+  {
+   "d": 1,
+   "h": 1,
+   "n": 3,
+   "shows": 2.7,
+   "viewers": 52.7,
+   "vps": 19.5
+  },
+  {
+   "d": 1,
+   "h": 2,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 8.7,
+   "vps": 8.7
+  },
+  {
+   "d": 1,
+   "h": 3,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 6.7,
+   "vps": 6.7
+  },
+  {
+   "d": 1,
+   "h": 4,
+   "n": 3,
+   "shows": 0.3,
+   "viewers": 2.0,
+   "vps": 6.7
+  },
+  {
+   "d": 1,
+   "h": 5,
+   "n": 3,
+   "shows": 0.0,
+   "viewers": 0.0,
+   "vps": 0
+  },
+  {
+   "d": 1,
+   "h": 6,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 9.7,
+   "vps": 9.7
+  },
+  {
+   "d": 1,
+   "h": 7,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 10.3,
+   "vps": 10.3
+  },
+  {
+   "d": 1,
+   "h": 8,
+   "n": 3,
+   "shows": 2.0,
+   "viewers": 12.0,
+   "vps": 6.0
+  },
+  {
+   "d": 1,
+   "h": 9,
+   "n": 3,
+   "shows": 2.7,
+   "viewers": 34.3,
+   "vps": 12.7
+  },
+  {
+   "d": 1,
+   "h": 10,
+   "n": 3,
+   "shows": 3.3,
+   "viewers": 70.7,
+   "vps": 21.4
+  },
+  {
+   "d": 1,
+   "h": 11,
+   "n": 3,
+   "shows": 4.0,
+   "viewers": 76.0,
+   "vps": 19.0
+  },
+  {
+   "d": 1,
+   "h": 12,
+   "n": 3,
+   "shows": 4.3,
+   "viewers": 104.0,
+   "vps": 24.2
+  },
+  {
+   "d": 1,
+   "h": 13,
+   "n": 3,
+   "shows": 4.3,
+   "viewers": 110.3,
+   "vps": 25.7
+  },
+  {
+   "d": 1,
+   "h": 14,
+   "n": 3,
+   "shows": 5.3,
+   "viewers": 167.0,
+   "vps": 31.5
+  },
+  {
+   "d": 1,
+   "h": 15,
+   "n": 3,
+   "shows": 5.3,
+   "viewers": 233.0,
+   "vps": 44.0
+  },
+  {
+   "d": 1,
+   "h": 16,
+   "n": 3,
+   "shows": 6.3,
+   "viewers": 119.7,
+   "vps": 19.0
+  },
+  {
+   "d": 1,
+   "h": 17,
+   "n": 3,
+   "shows": 8.3,
+   "viewers": 300.3,
+   "vps": 36.2
+  },
+  {
+   "d": 1,
+   "h": 18,
+   "n": 3,
+   "shows": 10.7,
+   "viewers": 350.7,
+   "vps": 32.8
+  },
+  {
+   "d": 1,
+   "h": 19,
+   "n": 3,
+   "shows": 11.3,
+   "viewers": 580.3,
+   "vps": 51.4
+  },
+  {
+   "d": 1,
+   "h": 20,
+   "n": 3,
+   "shows": 13.3,
+   "viewers": 650.3,
+   "vps": 48.9
+  },
+  {
+   "d": 1,
+   "h": 21,
+   "n": 3,
+   "shows": 13.3,
+   "viewers": 638.7,
+   "vps": 48.0
+  },
+  {
+   "d": 1,
+   "h": 22,
+   "n": 3,
+   "shows": 13.0,
+   "viewers": 645.3,
+   "vps": 49.6
+  },
+  {
+   "d": 1,
+   "h": 23,
+   "n": 3,
+   "shows": 8.0,
+   "viewers": 257.3,
+   "vps": 32.2
+  },
+  {
+   "d": 2,
+   "h": 0,
+   "n": 3,
+   "shows": 5.0,
+   "viewers": 143.0,
+   "vps": 28.6
+  },
+  {
+   "d": 2,
+   "h": 1,
+   "n": 3,
+   "shows": 2.3,
+   "viewers": 29.0,
+   "vps": 12.6
+  },
+  {
+   "d": 2,
+   "h": 2,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 9.3,
+   "vps": 9.3
+  },
+  {
+   "d": 2,
+   "h": 3,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 2.3,
+   "vps": 2.3
+  },
+  {
+   "d": 2,
+   "h": 4,
+   "n": 3,
+   "shows": 0.3,
+   "viewers": 0.7,
+   "vps": 2.3
+  },
+  {
+   "d": 2,
+   "h": 5,
+   "n": 3,
+   "shows": 0.7,
+   "viewers": 1.7,
+   "vps": 2.4
+  },
+  {
+   "d": 2,
+   "h": 6,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 11.7,
+   "vps": 11.7
+  },
+  {
+   "d": 2,
+   "h": 7,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 9.3,
+   "vps": 9.3
+  },
+  {
+   "d": 2,
+   "h": 8,
+   "n": 3,
+   "shows": 2.0,
+   "viewers": 18.7,
+   "vps": 9.3
+  },
+  {
+   "d": 2,
+   "h": 9,
+   "n": 3,
+   "shows": 2.3,
+   "viewers": 32.0,
+   "vps": 13.9
+  },
+  {
+   "d": 2,
+   "h": 10,
+   "n": 3,
+   "shows": 3.0,
+   "viewers": 59.3,
+   "vps": 19.8
+  },
+  {
+   "d": 2,
+   "h": 11,
+   "n": 3,
+   "shows": 3.3,
+   "viewers": 59.7,
+   "vps": 18.1
+  },
+  {
+   "d": 2,
+   "h": 12,
+   "n": 3,
+   "shows": 4.7,
+   "viewers": 79.3,
+   "vps": 16.9
+  },
+  {
+   "d": 2,
+   "h": 13,
+   "n": 3,
+   "shows": 6.0,
+   "viewers": 101.3,
+   "vps": 16.9
+  },
+  {
+   "d": 2,
+   "h": 14,
+   "n": 3,
+   "shows": 5.0,
+   "viewers": 122.7,
+   "vps": 24.5
+  },
+  {
+   "d": 2,
+   "h": 15,
+   "n": 3,
+   "shows": 7.0,
+   "viewers": 226.7,
+   "vps": 32.4
+  },
+  {
+   "d": 2,
+   "h": 16,
+   "n": 3,
+   "shows": 7.3,
+   "viewers": 270.7,
+   "vps": 37.1
+  },
+  {
+   "d": 2,
+   "h": 17,
+   "n": 3,
+   "shows": 8.3,
+   "viewers": 188.7,
+   "vps": 22.7
+  },
+  {
+   "d": 2,
+   "h": 18,
+   "n": 3,
+   "shows": 10.0,
+   "viewers": 404.0,
+   "vps": 40.4
+  },
+  {
+   "d": 2,
+   "h": 19,
+   "n": 3,
+   "shows": 13.7,
+   "viewers": 597.7,
+   "vps": 43.6
+  },
+  {
+   "d": 2,
+   "h": 20,
+   "n": 3,
+   "shows": 14.7,
+   "viewers": 778.7,
+   "vps": 53.0
+  },
+  {
+   "d": 2,
+   "h": 21,
+   "n": 3,
+   "shows": 15.0,
+   "viewers": 680.7,
+   "vps": 45.4
+  },
+  {
+   "d": 2,
+   "h": 22,
+   "n": 3,
+   "shows": 13.7,
+   "viewers": 657.3,
+   "vps": 48.0
+  },
+  {
+   "d": 2,
+   "h": 23,
+   "n": 3,
+   "shows": 10.7,
+   "viewers": 351.7,
+   "vps": 32.9
+  },
+  {
+   "d": 3,
+   "h": 0,
+   "n": 3,
+   "shows": 5.0,
+   "viewers": 139.0,
+   "vps": 27.8
+  },
+  {
+   "d": 3,
+   "h": 1,
+   "n": 3,
+   "shows": 3.0,
+   "viewers": 51.0,
+   "vps": 17.0
+  },
+  {
+   "d": 3,
+   "h": 2,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 6.7,
+   "vps": 6.7
+  },
+  {
+   "d": 3,
+   "h": 3,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 4.3,
+   "vps": 4.3
+  },
+  {
+   "d": 3,
+   "h": 4,
+   "n": 3,
+   "shows": 0.7,
+   "viewers": 9.7,
+   "vps": 13.9
+  },
+  {
+   "d": 3,
+   "h": 5,
+   "n": 3,
+   "shows": 0.7,
+   "viewers": 2.0,
+   "vps": 2.9
+  },
+  {
+   "d": 3,
+   "h": 6,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 4.0,
+   "vps": 4.0
+  },
+  {
+   "d": 3,
+   "h": 7,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 7.0,
+   "vps": 7.0
+  },
+  {
+   "d": 3,
+   "h": 8,
+   "n": 3,
+   "shows": 2.0,
+   "viewers": 24.0,
+   "vps": 12.0
+  },
+  {
+   "d": 3,
+   "h": 9,
+   "n": 3,
+   "shows": 2.7,
+   "viewers": 36.3,
+   "vps": 13.4
+  },
+  {
+   "d": 3,
+   "h": 10,
+   "n": 3,
+   "shows": 3.0,
+   "viewers": 44.0,
+   "vps": 14.7
+  },
+  {
+   "d": 3,
+   "h": 11,
+   "n": 3,
+   "shows": 4.0,
+   "viewers": 92.7,
+   "vps": 23.2
+  },
+  {
+   "d": 3,
+   "h": 12,
+   "n": 3,
+   "shows": 5.0,
+   "viewers": 123.0,
+   "vps": 24.6
+  },
+  {
+   "d": 3,
+   "h": 13,
+   "n": 3,
+   "shows": 4.7,
+   "viewers": 100.7,
+   "vps": 21.4
+  },
+  {
+   "d": 3,
+   "h": 14,
+   "n": 3,
+   "shows": 5.3,
+   "viewers": 147.3,
+   "vps": 27.8
+  },
+  {
+   "d": 3,
+   "h": 15,
+   "n": 3,
+   "shows": 6.3,
+   "viewers": 145.0,
+   "vps": 23.0
+  },
+  {
+   "d": 3,
+   "h": 16,
+   "n": 3,
+   "shows": 6.0,
+   "viewers": 162.3,
+   "vps": 27.1
+  },
+  {
+   "d": 3,
+   "h": 17,
+   "n": 3,
+   "shows": 8.0,
+   "viewers": 194.3,
+   "vps": 24.3
+  },
+  {
+   "d": 3,
+   "h": 18,
+   "n": 3,
+   "shows": 9.0,
+   "viewers": 347.3,
+   "vps": 38.6
+  },
+  {
+   "d": 3,
+   "h": 19,
+   "n": 3,
+   "shows": 13.7,
+   "viewers": 569.7,
+   "vps": 41.6
+  },
+  {
+   "d": 3,
+   "h": 20,
+   "n": 3,
+   "shows": 15.0,
+   "viewers": 766.7,
+   "vps": 51.1
+  },
+  {
+   "d": 3,
+   "h": 21,
+   "n": 3,
+   "shows": 14.7,
+   "viewers": 731.3,
+   "vps": 49.7
+  },
+  {
+   "d": 3,
+   "h": 22,
+   "n": 3,
+   "shows": 14.0,
+   "viewers": 615.0,
+   "vps": 43.9
+  },
+  {
+   "d": 3,
+   "h": 23,
+   "n": 3,
+   "shows": 10.0,
+   "viewers": 414.3,
+   "vps": 41.4
+  },
+  {
+   "d": 4,
+   "h": 0,
+   "n": 3,
+   "shows": 5.3,
+   "viewers": 103.7,
+   "vps": 19.6
+  },
+  {
+   "d": 4,
+   "h": 1,
+   "n": 3,
+   "shows": 3.0,
+   "viewers": 50.3,
+   "vps": 16.8
+  },
+  {
+   "d": 4,
+   "h": 2,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 11.0,
+   "vps": 11.0
+  },
+  {
+   "d": 4,
+   "h": 3,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 8.0,
+   "vps": 8.0
+  },
+  {
+   "d": 4,
+   "h": 4,
+   "n": 3,
+   "shows": 0.3,
+   "viewers": 2.3,
+   "vps": 7.7
+  },
+  {
+   "d": 4,
+   "h": 5,
+   "n": 3,
+   "shows": 0.0,
+   "viewers": 0.0,
+   "vps": 0
+  },
+  {
+   "d": 4,
+   "h": 6,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 11.0,
+   "vps": 11.0
+  },
+  {
+   "d": 4,
+   "h": 7,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 5.7,
+   "vps": 5.7
+  },
+  {
+   "d": 4,
+   "h": 8,
+   "n": 3,
+   "shows": 2.0,
+   "viewers": 13.0,
+   "vps": 6.5
+  },
+  {
+   "d": 4,
+   "h": 9,
+   "n": 3,
+   "shows": 2.7,
+   "viewers": 36.3,
+   "vps": 13.4
+  },
+  {
+   "d": 4,
+   "h": 10,
+   "n": 3,
+   "shows": 3.0,
+   "viewers": 60.0,
+   "vps": 20.0
+  },
+  {
+   "d": 4,
+   "h": 11,
+   "n": 3,
+   "shows": 3.7,
+   "viewers": 110.0,
+   "vps": 29.7
+  },
+  {
+   "d": 4,
+   "h": 12,
+   "n": 3,
+   "shows": 5.0,
+   "viewers": 106.3,
+   "vps": 21.3
+  },
+  {
+   "d": 4,
+   "h": 13,
+   "n": 3,
+   "shows": 5.0,
+   "viewers": 119.0,
+   "vps": 23.8
+  },
+  {
+   "d": 4,
+   "h": 14,
+   "n": 3,
+   "shows": 5.3,
+   "viewers": 141.0,
+   "vps": 26.6
+  },
+  {
+   "d": 4,
+   "h": 15,
+   "n": 3,
+   "shows": 6.0,
+   "viewers": 117.0,
+   "vps": 19.5
+  },
+  {
+   "d": 4,
+   "h": 16,
+   "n": 3,
+   "shows": 6.7,
+   "viewers": 175.3,
+   "vps": 26.2
+  },
+  {
+   "d": 4,
+   "h": 17,
+   "n": 3,
+   "shows": 8.3,
+   "viewers": 288.7,
+   "vps": 34.8
+  },
+  {
+   "d": 4,
+   "h": 18,
+   "n": 3,
+   "shows": 11.0,
+   "viewers": 361.3,
+   "vps": 32.8
+  },
+  {
+   "d": 4,
+   "h": 19,
+   "n": 3,
+   "shows": 12.7,
+   "viewers": 517.3,
+   "vps": 40.7
+  },
+  {
+   "d": 4,
+   "h": 20,
+   "n": 3,
+   "shows": 15.7,
+   "viewers": 760.7,
+   "vps": 48.5
+  },
+  {
+   "d": 4,
+   "h": 21,
+   "n": 3,
+   "shows": 13.7,
+   "viewers": 578.7,
+   "vps": 42.2
+  },
+  {
+   "d": 4,
+   "h": 22,
+   "n": 3,
+   "shows": 14.7,
+   "viewers": 755.0,
+   "vps": 51.4
+  },
+  {
+   "d": 4,
+   "h": 23,
+   "n": 3,
+   "shows": 9.7,
+   "viewers": 339.3,
+   "vps": 35.0
+  },
+  {
+   "d": 5,
+   "h": 0,
+   "n": 3,
+   "shows": 6.0,
+   "viewers": 134.7,
+   "vps": 22.4
+  },
+  {
+   "d": 5,
+   "h": 1,
+   "n": 3,
+   "shows": 3.7,
+   "viewers": 59.3,
+   "vps": 16.0
+  },
+  {
+   "d": 5,
+   "h": 2,
+   "n": 3,
+   "shows": 1.7,
+   "viewers": 14.0,
+   "vps": 8.2
+  },
+  {
+   "d": 5,
+   "h": 3,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 7.7,
+   "vps": 7.7
+  },
+  {
+   "d": 5,
+   "h": 4,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 3.7,
+   "vps": 3.7
+  },
+  {
+   "d": 5,
+   "h": 5,
+   "n": 3,
+   "shows": 0.7,
+   "viewers": 3.0,
+   "vps": 4.3
+  },
+  {
+   "d": 5,
+   "h": 6,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 14.0,
+   "vps": 14.0
+  },
+  {
+   "d": 5,
+   "h": 7,
+   "n": 3,
+   "shows": 1.7,
+   "viewers": 18.0,
+   "vps": 10.6
+  },
+  {
+   "d": 5,
+   "h": 8,
+   "n": 3,
+   "shows": 2.3,
+   "viewers": 31.3,
+   "vps": 13.6
+  },
+  {
+   "d": 5,
+   "h": 9,
+   "n": 3,
+   "shows": 3.0,
+   "viewers": 39.7,
+   "vps": 13.2
+  },
+  {
+   "d": 5,
+   "h": 10,
+   "n": 3,
+   "shows": 3.7,
+   "viewers": 80.0,
+   "vps": 21.6
+  },
+  {
+   "d": 5,
+   "h": 11,
+   "n": 3,
+   "shows": 4.3,
+   "viewers": 60.7,
+   "vps": 14.1
+  },
+  {
+   "d": 5,
+   "h": 12,
+   "n": 3,
+   "shows": 5.7,
+   "viewers": 102.0,
+   "vps": 17.9
+  },
+  {
+   "d": 5,
+   "h": 13,
+   "n": 3,
+   "shows": 5.7,
+   "viewers": 148.3,
+   "vps": 26.0
+  },
+  {
+   "d": 5,
+   "h": 14,
+   "n": 3,
+   "shows": 6.3,
+   "viewers": 205.7,
+   "vps": 32.7
+  },
+  {
+   "d": 5,
+   "h": 15,
+   "n": 3,
+   "shows": 7.7,
+   "viewers": 193.0,
+   "vps": 25.1
+  },
+  {
+   "d": 5,
+   "h": 16,
+   "n": 3,
+   "shows": 7.7,
+   "viewers": 204.7,
+   "vps": 26.6
+  },
+  {
+   "d": 5,
+   "h": 17,
+   "n": 3,
+   "shows": 10.0,
+   "viewers": 463.3,
+   "vps": 46.3
+  },
+  {
+   "d": 5,
+   "h": 18,
+   "n": 3,
+   "shows": 12.3,
+   "viewers": 586.3,
+   "vps": 47.7
+  },
+  {
+   "d": 5,
+   "h": 19,
+   "n": 3,
+   "shows": 14.7,
+   "viewers": 769.0,
+   "vps": 52.3
+  },
+  {
+   "d": 5,
+   "h": 20,
+   "n": 3,
+   "shows": 15.7,
+   "viewers": 854.0,
+   "vps": 54.4
+  },
+  {
+   "d": 5,
+   "h": 21,
+   "n": 3,
+   "shows": 16.0,
+   "viewers": 858.7,
+   "vps": 53.7
+  },
+  {
+   "d": 5,
+   "h": 22,
+   "n": 3,
+   "shows": 14.3,
+   "viewers": 670.3,
+   "vps": 46.9
+  },
+  {
+   "d": 5,
+   "h": 23,
+   "n": 3,
+   "shows": 12.0,
+   "viewers": 524.0,
+   "vps": 43.7
+  },
+  {
+   "d": 6,
+   "h": 0,
+   "n": 3,
+   "shows": 6.0,
+   "viewers": 216.3,
+   "vps": 36.1
+  },
+  {
+   "d": 6,
+   "h": 1,
+   "n": 3,
+   "shows": 3.0,
+   "viewers": 42.0,
+   "vps": 14.0
+  },
+  {
+   "d": 6,
+   "h": 2,
+   "n": 3,
+   "shows": 1.7,
+   "viewers": 19.3,
+   "vps": 11.4
+  },
+  {
+   "d": 6,
+   "h": 3,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 8.3,
+   "vps": 8.3
+  },
+  {
+   "d": 6,
+   "h": 4,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 14.0,
+   "vps": 14.0
+  },
+  {
+   "d": 6,
+   "h": 5,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 3.7,
+   "vps": 3.7
+  },
+  {
+   "d": 6,
+   "h": 6,
+   "n": 3,
+   "shows": 1.0,
+   "viewers": 7.0,
+   "vps": 7.0
+  },
+  {
+   "d": 6,
+   "h": 7,
+   "n": 3,
+   "shows": 2.0,
+   "viewers": 17.3,
+   "vps": 8.7
+  },
+  {
+   "d": 6,
+   "h": 8,
+   "n": 3,
+   "shows": 2.3,
+   "viewers": 30.0,
+   "vps": 13.0
+  },
+  {
+   "d": 6,
+   "h": 9,
+   "n": 3,
+   "shows": 2.7,
+   "viewers": 48.0,
+   "vps": 17.8
+  },
+  {
+   "d": 6,
+   "h": 10,
+   "n": 3,
+   "shows": 4.0,
+   "viewers": 71.7,
+   "vps": 17.9
+  },
+  {
+   "d": 6,
+   "h": 11,
+   "n": 3,
+   "shows": 5.0,
+   "viewers": 104.3,
+   "vps": 20.9
+  },
+  {
+   "d": 6,
+   "h": 12,
+   "n": 3,
+   "shows": 5.0,
+   "viewers": 130.0,
+   "vps": 26.0
+  },
+  {
+   "d": 6,
+   "h": 13,
+   "n": 3,
+   "shows": 6.3,
+   "viewers": 182.3,
+   "vps": 28.9
+  },
+  {
+   "d": 6,
+   "h": 14,
+   "n": 3,
+   "shows": 6.7,
+   "viewers": 195.3,
+   "vps": 29.1
+  },
+  {
+   "d": 6,
+   "h": 15,
+   "n": 3,
+   "shows": 7.0,
+   "viewers": 168.3,
+   "vps": 24.0
+  },
+  {
+   "d": 6,
+   "h": 16,
+   "n": 3,
+   "shows": 8.7,
+   "viewers": 299.7,
+   "vps": 34.4
+  },
+  {
+   "d": 6,
+   "h": 17,
+   "n": 3,
+   "shows": 9.3,
+   "viewers": 361.7,
+   "vps": 38.9
+  },
+  {
+   "d": 6,
+   "h": 18,
+   "n": 3,
+   "shows": 10.3,
+   "viewers": 452.0,
+   "vps": 43.9
+  },
+  {
+   "d": 6,
+   "h": 19,
+   "n": 3,
+   "shows": 15.3,
+   "viewers": 769.7,
+   "vps": 50.3
+  },
+  {
+   "d": 6,
+   "h": 20,
+   "n": 3,
+   "shows": 16.0,
+   "viewers": 837.0,
+   "vps": 52.3
+  },
+  {
+   "d": 6,
+   "h": 21,
+   "n": 3,
+   "shows": 16.0,
+   "viewers": 895.7,
+   "vps": 56.0
+  },
+  {
+   "d": 6,
+   "h": 22,
+   "n": 3,
+   "shows": 16.0,
+   "viewers": 783.0,
+   "vps": 48.9
+  },
+  {
+   "d": 6,
+   "h": 23,
+   "n": 3,
+   "shows": 12.3,
+   "viewers": 599.7,
+   "vps": 48.8
+  }
+ ],
+ "by_hour": [
+  {
+   "h": 0,
+   "n": 21,
+   "shows": 5.5,
+   "viewers": 148.7,
+   "vps": 27.0
+  },
+  {
+   "h": 1,
+   "n": 21,
+   "shows": 3.0,
+   "viewers": 47.8,
+   "vps": 15.9
+  },
+  {
+   "h": 2,
+   "n": 21,
+   "shows": 1.2,
+   "viewers": 10.5,
+   "vps": 8.8
+  },
+  {
+   "h": 3,
+   "n": 21,
+   "shows": 1.0,
+   "viewers": 5.9,
+   "vps": 5.9
+  },
+  {
+   "h": 4,
+   "n": 21,
+   "shows": 0.6,
+   "viewers": 5.1,
+   "vps": 8.5
+  },
+  {
+   "h": 5,
+   "n": 21,
+   "shows": 0.4,
+   "viewers": 1.5,
+   "vps": 3.8
+  },
+  {
+   "h": 6,
+   "n": 21,
+   "shows": 1.0,
+   "viewers": 8.6,
+   "vps": 8.6
+  },
+  {
+   "h": 7,
+   "n": 21,
+   "shows": 1.2,
+   "viewers": 12.0,
+   "vps": 10.0
+  },
+  {
+   "h": 8,
+   "n": 21,
+   "shows": 2.1,
+   "viewers": 21.4,
+   "vps": 10.2
+  },
+  {
+   "h": 9,
+   "n": 21,
+   "shows": 2.6,
+   "viewers": 35.2,
+   "vps": 13.5
+  },
+  {
+   "h": 10,
+   "n": 21,
+   "shows": 3.3,
+   "viewers": 64.5,
+   "vps": 19.5
+  },
+  {
+   "h": 11,
+   "n": 21,
+   "shows": 4.0,
+   "viewers": 81.1,
+   "vps": 20.3
+  },
+  {
+   "h": 12,
+   "n": 21,
+   "shows": 4.8,
+   "viewers": 105.0,
+   "vps": 21.9
+  },
+  {
+   "h": 13,
+   "n": 21,
+   "shows": 5.2,
+   "viewers": 129.6,
+   "vps": 24.9
+  },
+  {
+   "h": 14,
+   "n": 21,
+   "shows": 5.7,
+   "viewers": 160.7,
+   "vps": 28.2
+  },
+  {
+   "h": 15,
+   "n": 21,
+   "shows": 6.4,
+   "viewers": 185.0,
+   "vps": 28.9
+  },
+  {
+   "h": 16,
+   "n": 21,
+   "shows": 7.0,
+   "viewers": 199.0,
+   "vps": 28.4
+  },
+  {
+   "h": 17,
+   "n": 21,
+   "shows": 8.7,
+   "viewers": 309.3,
+   "vps": 35.6
+  },
+  {
+   "h": 18,
+   "n": 21,
+   "shows": 10.4,
+   "viewers": 403.9,
+   "vps": 38.8
+  },
+  {
+   "h": 19,
+   "n": 21,
+   "shows": 13.4,
+   "viewers": 621.1,
+   "vps": 46.4
+  },
+  {
+   "h": 20,
+   "n": 21,
+   "shows": 15.1,
+   "viewers": 760.9,
+   "vps": 50.4
+  },
+  {
+   "h": 21,
+   "n": 21,
+   "shows": 14.8,
+   "viewers": 741.1,
+   "vps": 50.1
+  },
+  {
+   "h": 22,
+   "n": 21,
+   "shows": 14.2,
+   "viewers": 671.3,
+   "vps": 47.3
+  },
+  {
+   "h": 23,
+   "n": 21,
+   "shows": 10.2,
+   "viewers": 409.3,
+   "vps": 40.1
+  }
+ ],
+ "top_streamers": [
+  {
+   "name": "charizardcorner",
+   "category": "Pokemon",
+   "peak": 294,
+   "avg": 38.1,
+   "shows": 193
+  },
+  {
+   "name": "ripcityrips",
+   "category": "Trading Cards",
+   "peak": 254,
+   "avg": 35.4,
+   "shows": 198
+  },
+  {
+   "name": "funkofinds",
+   "category": "Pop Culture",
+   "peak": 253,
+   "avg": 39.0,
+   "shows": 185
+  },
+  {
+   "name": "pristinepulls",
+   "category": "Sports Cards",
+   "peak": 253,
+   "avg": 38.6,
+   "shows": 179
+  },
+  {
+   "name": "thehobbyhouse",
+   "category": "Trading Cards",
+   "peak": 237,
+   "avg": 35.2,
+   "shows": 165
+  },
+  {
+   "name": "vintagevault614",
+   "category": "Sports Cards",
+   "peak": 231,
+   "avg": 36.7,
+   "shows": 188
+  },
+  {
+   "name": "pokeprospector",
+   "category": "Pokemon",
+   "peak": 227,
+   "avg": 38.6,
+   "shows": 175
+  },
+  {
+   "name": "sneakerstacks",
+   "category": "Sneakers",
+   "peak": 215,
+   "avg": 34.2,
+   "shows": 176
+  },
+  {
+   "name": "midwestmemorabilia",
+   "category": "Sports Cards",
+   "peak": 196,
+   "avg": 35.6,
+   "shows": 198
+  },
+  {
+   "name": "comiccryptllc",
+   "category": "Comics",
+   "peak": 194,
+   "avg": 37.9,
+   "shows": 188
+  },
+  {
+   "name": "cardvaultbreaks",
+   "category": "Trading Cards",
+   "peak": 189,
+   "avg": 37.8,
+   "shows": 175
+  },
+  {
+   "name": "coinsbykyle",
+   "category": "Coins",
+   "peak": 185,
+   "avg": 36.0,
+   "shows": 186
+  },
+  {
+   "name": "buckeyebreaks",
+   "category": "Sports Cards",
+   "peak": 182,
+   "avg": 37.2,
+   "shows": 189
+  },
+  {
+   "name": "slabsanddabs",
+   "category": "Trading Cards",
+   "peak": 147,
+   "avg": 34.8,
+   "shows": 195
+  },
+  {
+   "name": "gradedgoods",
+   "category": "Pokemon",
+   "peak": 119,
+   "avg": 30.6,
+   "shows": 197
+  }
+ ],
+ "categories": [
+  {
+   "name": "Trading Cards",
+   "viewers": 32805
+  },
+  {
+   "name": "Sports Cards",
+   "viewers": 27892
+  },
+  {
+   "name": "Pokemon",
+   "viewers": 20141
+  },
+  {
+   "name": "Pop Culture",
+   "viewers": 7219
+  },
+  {
+   "name": "Comics",
+   "viewers": 7123
+  },
+  {
+   "name": "Coins",
+   "viewers": 6702
+  },
+  {
+   "name": "Sneakers",
+   "viewers": 6023
+  }
+ ],
+ "best_slots": [
+  {
+   "label": "Sun 9pm",
+   "d": 6,
+   "h": 21,
+   "n": 3,
+   "shows": 16.0,
+   "viewers": 895.7,
+   "vps": 56.0
+  },
+  {
+   "label": "Mon 9pm",
+   "d": 0,
+   "h": 21,
+   "n": 3,
+   "shows": 14.7,
+   "viewers": 804.0,
+   "vps": 54.7
+  },
+  {
+   "label": "Sat 8pm",
+   "d": 5,
+   "h": 20,
+   "n": 3,
+   "shows": 15.7,
+   "viewers": 854.0,
+   "vps": 54.4
+  },
+  {
+   "label": "Sat 9pm",
+   "d": 5,
+   "h": 21,
+   "n": 3,
+   "shows": 16.0,
+   "viewers": 858.7,
+   "vps": 53.7
+  },
+  {
+   "label": "Wed 8pm",
+   "d": 2,
+   "h": 20,
+   "n": 3,
+   "shows": 14.7,
+   "viewers": 778.7,
+   "vps": 53.0
+  }
+ ],
+ "busiest_hour": {
+  "label": "8pm",
+  "h": 20,
+  "n": 21,
+  "shows": 15.1,
+  "viewers": 760.9,
+  "vps": 50.4
+ }
+}

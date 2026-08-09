@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Whatnot Show Tracker</title>
+<style>
+  :root {
+    color-scheme: light;
+    --page:      #f9f9f7;
+    --surface:   #fcfcfb;
+    --ink:       #0b0b0b;
+    --ink-2:     #52514e;
+    --muted:     #898781;
+    --grid:      #e1e0d9;
+    --baseline:  #c3c2b7;
+    --series-1:  #2a78d6;
+    --ring:      rgba(11,11,11,0.10);
+    --empty:     #efeee9;
+    --s100:#cde2fb; --s200:#9ec5f4; --s300:#6da7ec; --s400:#3987e5;
+    --s500:#256abf; --s600:#184f95; --s700:#0d366b;
+  }
+  /* Dark mode re-steps the sequential ramp rather than flipping the theme:
+     the step nearest the surface must always mean "near zero", so on a dark
+     surface the ramp runs dark -> light. Same seven steps, reversed. */
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) {
+      color-scheme: dark;
+      --page:#0d0d0d; --surface:#1a1a19; --ink:#fff; --ink-2:#c3c2b7;
+      --muted:#898781; --grid:#2c2c2a; --baseline:#383835; --series-1:#3987e5;
+      --ring:rgba(255,255,255,0.10); --empty:#232322;
+      --s100:#0d366b; --s200:#184f95; --s300:#256abf; --s400:#3987e5;
+      --s500:#6da7ec; --s600:#9ec5f4; --s700:#cde2fb;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page:#0d0d0d; --surface:#1a1a19; --ink:#fff; --ink-2:#c3c2b7;
+    --muted:#898781; --grid:#2c2c2a; --baseline:#383835; --series-1:#3987e5;
+    --ring:rgba(255,255,255,0.10); --empty:#232322;
+    --s100:#0d366b; --s200:#184f95; --s300:#256abf; --s400:#3987e5;
+    --s500:#6da7ec; --s600:#9ec5f4; --s700:#cde2fb;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 32px 20px 64px;
+    background: var(--page); color: var(--ink);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  .wrap { max-width: 1040px; margin: 0 auto; }
+
+  header { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap;
+           margin-bottom: 4px; }
+  h1 { font-size: 22px; margin: 0; letter-spacing: -0.01em; }
+  .sub { color: var(--muted); font-size: 13px; }
+  #themeBtn {
+    margin-left: auto; background: var(--surface); color: var(--ink-2);
+    border: 1px solid var(--ring); border-radius: 6px; padding: 5px 10px;
+    font: inherit; font-size: 13px; cursor: pointer;
+  }
+
+  .card {
+    background: var(--surface); border: 1px solid var(--ring);
+    border-radius: 10px; padding: 20px; margin-top: 20px;
+  }
+  h2 { font-size: 15px; margin: 0 0 2px; }
+  .note { color: var(--muted); font-size: 13px; margin: 0 0 18px; }
+
+  /* stat tiles */
+  .tiles { display: grid; gap: 12px; margin-top: 20px;
+           grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+  .tile { background: var(--surface); border: 1px solid var(--ring);
+          border-radius: 10px; padding: 16px 18px; }
+  .tile .k { color: var(--muted); font-size: 12px; text-transform: uppercase;
+             letter-spacing: .05em; }
+  .tile .v { font-size: 30px; font-weight: 650; letter-spacing: -0.02em;
+             margin: 4px 0 2px; }
+  .tile .d { color: var(--ink-2); font-size: 13px; }
+
+  /* heatmap */
+  .hm { display: grid; grid-template-columns: 34px repeat(24, 1fr); gap: 2px; }
+  .hm .hd { font-size: 10px; color: var(--muted); text-align: center;
+            padding-bottom: 4px; font-variant-numeric: tabular-nums; }
+  .hm .rl { font-size: 11px; color: var(--ink-2); display: flex;
+            align-items: center; }
+  .cell { aspect-ratio: 1; border-radius: 2px; background: var(--empty);
+          cursor: default; }
+  .cell:hover { outline: 2px solid var(--ink); outline-offset: 1px; }
+  .scale { display: flex; align-items: center; gap: 6px; margin-top: 14px;
+           font-size: 11px; color: var(--muted); }
+  .scale i { width: 22px; height: 10px; border-radius: 2px; display: block; }
+
+  /* bars */
+  .bars { display: grid; gap: 2px; }
+  .row { display: grid; grid-template-columns: 132px 1fr 62px; gap: 10px;
+         align-items: center; }
+  .row .lb { font-size: 12px; color: var(--ink-2); text-align: right;
+             overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .track { height: 16px; position: relative; }
+  .bar { height: 16px; background: var(--series-1);
+         border-radius: 0 4px 4px 0; min-width: 2px; }
+  .row .vl { font-size: 12px; color: var(--ink-2);
+             font-variant-numeric: tabular-nums; }
+  .row:hover .lb, .row:hover .vl { color: var(--ink); }
+  .hbars { display: grid; grid-template-columns: repeat(24, 1fr); gap: 2px;
+           align-items: end; height: 160px; }
+  .hcol { display: flex; flex-direction: column; justify-content: flex-end;
+          height: 100%; }
+  .peak { font-size: 11px; color: var(--ink-2); text-align: center;
+          margin-bottom: 3px; font-variant-numeric: tabular-nums; }
+  .hb { background: var(--series-1); border-radius: 4px 4px 0 0; min-height: 2px; }
+  .hb:hover { outline: 2px solid var(--ink); outline-offset: 1px; }
+  .hx { display: grid; grid-template-columns: repeat(24, 1fr); gap: 2px;
+        margin-top: 6px; font-size: 10px; color: var(--muted);
+        text-align: center; font-variant-numeric: tabular-nums; }
+  .axis { border-top: 1px solid var(--baseline); margin-top: 0; }
+
+  details { margin-top: 16px; }
+  summary { cursor: pointer; font-size: 13px; color: var(--ink-2); }
+  table { border-collapse: collapse; margin-top: 10px; font-size: 13px;
+          width: 100%; }
+  th, td { text-align: left; padding: 5px 10px 5px 0;
+           border-bottom: 1px solid var(--grid); }
+  th { color: var(--muted); font-weight: 500; }
+  td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
+
+  #tip {
+    position: fixed; pointer-events: none; opacity: 0; transition: opacity .1s;
+    background: var(--ink); color: var(--page); padding: 7px 10px;
+    border-radius: 6px; font-size: 12px; line-height: 1.45; z-index: 9;
+    white-space: nowrap; box-shadow: 0 4px 14px rgba(0,0,0,.18);
+  }
+  .err { color: var(--ink-2); }
+  .err code { background: var(--empty); padding: 2px 6px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Whatnot Show Tracker</h1>
+    <span class="sub" id="meta"></span>
+    <button id="themeBtn">Theme</button>
+  </header>
+  <div id="app"></div>
+</div>
+<div id="tip"></div>
+
+<script>
+const DAYS = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"];
+const RAMP = ["--s100","--s200","--s300","--s400","--s500","--s600","--s700"];
+const hr = h => (h % 12 || 12) + (h < 12 ? "am" : "pm");
+const el = (t, c, h) => { const n = document.createElement(t);
+  if (c) n.className = c; if (h != null) n.innerHTML = h; return n; };
+
+/* tooltip ------------------------------------------------------------- */
+const tip = document.getElementById("tip");
+function bindTip(node, html) {
+  node.addEventListener("mouseenter", e => {
+    tip.innerHTML = html; tip.style.opacity = 1; move(e);
+  });
+  node.addEventListener("mousemove", move);
+  node.addEventListener("mouseleave", () => tip.style.opacity = 0);
+  function move(e) {
+    const p = 14;
+    tip.style.left = Math.min(e.clientX + p, innerWidth - tip.offsetWidth - 8) + "px";
+    tip.style.top  = Math.max(e.clientY - tip.offsetHeight - p, 8) + "px";
+  }
+}
+
+/* theme --------------------------------------------------------------- */
+document.getElementById("themeBtn").onclick = () => {
+  const cur = document.documentElement.getAttribute("data-theme");
+  const dark = cur ? cur === "dark"
+    : matchMedia("(prefers-color-scheme: dark)").matches;
+  document.documentElement.setAttribute("data-theme", dark ? "light" : "dark");
+};
+
+/* render -------------------------------------------------------------- */
+function render(d) {
+  const app = document.getElementById("app");
+  if (d.error) {
+    app.innerHTML = `<div class="card err"><h2>No data yet</h2>
+      <p class="note">${d.error}</p>
+      <p>Run <code>python run.py --seed 21</code> to fill it with demo data,
+         or <code>python run.py</code> to take your first real sample.</p></div>`;
+    return;
+  }
+  document.getElementById("meta").textContent =
+    `${d.samples} samples over ${d.days_covered} days · times in ${d.tz.split("/")[1].replace("_"," ")}`;
+
+  const best = d.best_slots[0];
+
+  /* --- stat tiles --- */
+  const tiles = el("div", "tiles");
+  const crowded = d.by_hour.reduce((a, b) => b.shows > a.shows ? b : a);
+  [
+    ["Best time to go live", best.label, `${best.vps} viewers per competing show`],
+    ["Biggest audience", d.busiest_hour.label,
+      `${Math.round(d.busiest_hour.viewers)} viewers on the platform`],
+    ["Most competition", hr(crowded.h), `${crowded.shows} shows live at once`],
+    ["Streamers tracked", String(d.top_streamers.length),
+      `top ${d.top_streamers.length} by peak audience`],
+  ].forEach(([k, v, s]) => {
+    const t = el("div", "tile");
+    t.append(el("div", "k", k), el("div", "v", v), el("div", "d", s));
+    tiles.append(t);
+  });
+  app.append(tiles);
+
+  /* --- heatmap --- */
+  const c1 = el("div", "card");
+  c1.append(el("h2", null, "When to stream"),
+            el("p", "note", "Viewers per competing show, by day and hour. "
+              + "Stronger colour means more audience for every stream that's "
+              + "live — that's the gap you want to fill."));
+  const max = Math.max(...d.grid.map(c => c.vps)) || 1;
+  const hm = el("div", "hm");
+  hm.append(el("div"));
+  for (let h = 0; h < 24; h++)
+    hm.append(el("div", "hd", h % 3 === 0 ? hr(h).replace("am","a").replace("pm","p") : ""));
+  DAYS.forEach((name, di) => {
+    hm.append(el("div", "rl", name));
+    for (let h = 0; h < 24; h++) {
+      const cell = d.grid.find(g => g.d === di && g.h === h) || {n:0, vps:0};
+      const box = el("div", "cell");
+      if (cell.n > 0 && cell.vps > 0) {
+        const step = Math.min(6, Math.floor((cell.vps / max) * 6.99));
+        box.style.background = `var(${RAMP[step]})`;
+        bindTip(box, `<b>${name} ${hr(h)}</b><br>`
+          + `${cell.vps} viewers per show<br>`
+          + `${cell.shows} shows · ${Math.round(cell.viewers)} viewers<br>`
+          + `<span style="opacity:.6">${cell.n} samples</span>`);
+      } else {
+        bindTip(box, `<b>${name} ${hr(h)}</b><br>`
+          + `<span style="opacity:.6">no samples yet</span>`);
+      }
+      hm.append(box);
+    }
+  });
+  c1.append(hm);
+  const sc = el("div", "scale");
+  sc.append(el("span", null, "fewer viewers per show"));
+  RAMP.forEach(v => { const i = el("i"); i.style.background = `var(${v})`; sc.append(i); });
+  sc.append(el("span", null, "more"));
+  c1.append(sc);
+  c1.append(tableFor(
+    ["Slot", "Viewers/show", "Shows live", "Viewers", "Samples"],
+    d.best_slots.map(s => [s.label, s.vps, s.shows, Math.round(s.viewers), s.n]),
+    "Top 5 slots as a table"));
+  app.append(c1);
+
+  /* --- viewers per show by hour --- */
+  const c2 = el("div", "card");
+  c2.append(el("h2", null, "Viewers per show, by hour"),
+            el("p", "note", "Averaged across all days. Peaks here are where "
+              + "demand outruns supply."));
+  c2.append(hourBars(d.by_hour, "vps", v => `${v} per show`));
+  app.append(c2);
+
+  /* --- competition by hour --- */
+  const c3 = el("div", "card");
+  c3.append(el("h2", null, "Shows live at once, by hour"),
+            el("p", "note", "How many streams you'd be competing against."));
+  c3.append(hourBars(d.by_hour, "shows", v => `${v} shows live`));
+  app.append(c3);
+
+  /* --- top streamers --- */
+  const c4 = el("div", "card");
+  c4.append(el("h2", null, "Top streamers"),
+            el("p", "note", "Ranked by the largest audience seen in any sample."));
+  const mx = Math.max(...d.top_streamers.map(s => s.peak)) || 1;
+  const bars = el("div", "bars");
+  d.top_streamers.forEach(s => {
+    const row = el("div", "row");
+    const track = el("div", "track"), bar = el("div", "bar");
+    bar.style.width = (s.peak / mx * 100) + "%";
+    track.append(bar);
+    row.append(el("div", "lb", s.name), track, el("div", "vl", s.peak));
+    bindTip(row, `<b>${s.name}</b><br>${s.category}<br>`
+      + `peak ${s.peak} · avg ${s.avg}<br>`
+      + `<span style="opacity:.6">seen in ${s.shows} samples</span>`);
+    bars.append(row);
+  });
+  c4.append(bars);
+  c4.append(tableFor(["Streamer", "Category", "Peak", "Avg", "Samples"],
+    d.top_streamers.map(s => [s.name, s.category, s.peak, s.avg, s.shows]),
+    "Streamers as a table"));
+  app.append(c4);
+
+  /* --- categories --- */
+  const c5 = el("div", "card");
+  c5.append(el("h2", null, "Where the audience is"),
+            el("p", "note", "Total viewer-samples by category."));
+  const cmx = Math.max(...d.categories.map(c => c.viewers)) || 1;
+  const cb = el("div", "bars");
+  d.categories.forEach(c => {
+    const row = el("div", "row");
+    const track = el("div", "track"), bar = el("div", "bar");
+    bar.style.width = (c.viewers / cmx * 100) + "%";
+    track.append(bar);
+    row.append(el("div", "lb", c.name), track,
+               el("div", "vl", c.viewers.toLocaleString()));
+    bindTip(row, `<b>${c.name}</b><br>${c.viewers.toLocaleString()} viewer-samples`);
+    cb.append(row);
+  });
+  c5.append(cb);
+  app.append(c5);
+}
+
+function hourBars(rows, key, fmt) {
+  const wrap = el("div");
+  const max = Math.max(...rows.map(r => r[key])) || 1;
+  const peak = rows.find(r => r[key] === max);
+  const bars = el("div", "hbars");
+  rows.forEach(r => {
+    const col = el("div", "hcol");
+    // selective direct labels: only the peak carries a printed value
+    if (r === peak) col.append(el("div", "peak", String(max)));
+    const b = el("div", "hb");
+    b.style.height = Math.max(2, r[key] / max * 100) + "%";
+    bindTip(b, `<b>${hr(r.h)}</b><br>${fmt(r[key])}<br>`
+      + `<span style="opacity:.6">${r.n} samples</span>`);
+    col.append(b);
+    bars.append(col);
+  });
+  wrap.append(bars);
+  wrap.append(el("div", "axis"));
+  const x = el("div", "hx");
+  rows.forEach(r => x.append(el("div", null,
+    r.h % 3 === 0 ? hr(r.h).replace("am","a").replace("pm","p") : "")));
+  wrap.append(x);
+  return wrap;
+}
+
+function tableFor(head, rows, label) {
+  const d = el("details");
+  d.append(el("summary", null, label));
+  const t = el("table");
+  const tr = el("tr");
+  head.forEach((h, i) => tr.append(el("th", i ? "n" : null, h)));
+  t.append(tr);
+  rows.forEach(r => {
+    const row = el("tr");
+    r.forEach((v, i) => row.append(el("td", i ? "n" : null, v)));
+    t.append(row);
+  });
+  d.append(t);
+  return d;
+}
+
+/* load ---------------------------------------------------------------- */
+if (window.__DATA__) render(window.__DATA__);
+else fetch("data/summary.json?" + Date.now())
+  .then(r => r.json()).then(render)
+  .catch(() => render({ error: "Could not load data/summary.json." }));
+</script>
+</body>
+</html>
