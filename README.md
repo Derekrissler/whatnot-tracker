@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **508** over 22.2 days |
+| Samples collected | **509** over 22.3 days |
 
 ## When to stream
 
@@ -16,7 +16,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 
 ```
      12a   3a    6a    9a    12p   3p    6p    9p
-Mon  ▒▒░░······  ··░░····░░░░▒▒▓▓▒▒▓▓▒▒▓▓▓▓▓▓▓▓██▓▓▓▓
+Mon  ▒▒░░····░░  ··░░····░░░░▒▒▓▓▒▒▓▓▒▒▓▓▓▓▓▓▓▓██▓▓▓▓
 Tue  ▒▒░░······  ······░░░░░░▒▒▒▒▒▒▓▓░░▓▓▒▒████████▒▒
 Wed  ▒▒░░········░░····░░░░░░░░░░▒▒▒▒▓▓▒▒▓▓▓▓██████▒▒
 Thu  ▒▒░░····░░······░░░░░░▒▒▒▒░░▒▒▒▒▒▒▒▒▓▓▓▓████▓▓▓▓
@@ -42,7 +42,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
  1am  ███████                16.0
  2am  ████                   8.8
  3am  ███                    5.9
- 4am  ████                   8.5
+ 4am  ████                   9.8
  5am  ██                     3.8
  6am  ████                   8.6
  7am  ████                   10.0
@@ -98,4 +98,4 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 ---
 
-<sub>Updated 2026-08-10 05:42 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-10 08:02 UTC · times shown in America/New_York · demo data</sub>
