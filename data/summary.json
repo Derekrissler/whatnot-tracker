@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-10T15:15:21+00:00",
+ "generated": "2026-08-10T17:06:59+00:00",
  "tz": "America/New_York",
- "samples": 513,
- "days_covered": 22.6,
+ "samples": 514,
+ "days_covered": 22.7,
  "grid": [
   {
    "d": 0,
@@ -111,10 +111,10 @@
   {
    "d": 0,
    "h": 13,
-   "n": 3,
-   "shows": 4.3,
-   "viewers": 145.3,
-   "vps": 33.8
+   "n": 4,
+   "shows": 4.5,
+   "viewers": 144.8,
+   "vps": 32.2
   },
   {
    "d": 0,
@@ -1443,10 +1443,10 @@
   },
   {
    "h": 13,
-   "n": 21,
+   "n": 22,
    "shows": 5.2,
-   "viewers": 129.6,
-   "vps": 24.9
+   "viewers": 130.2,
+   "vps": 25.0
   },
   {
    "h": 14,
@@ -1531,15 +1531,15 @@
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 254,
-   "avg": 35.5,
-   "shows": 201
+   "avg": 35.3,
+   "shows": 202
   },
   {
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 253,
-   "avg": 38.9,
-   "shows": 190
+   "avg": 39.0,
+   "shows": 191
   },
   {
    "name": "pristinepulls",
@@ -1580,8 +1580,8 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 196,
-   "avg": 35.6,
-   "shows": 201
+   "avg": 35.5,
+   "shows": 202
   },
   {
    "name": "comiccryptllc",
@@ -1622,26 +1622,26 @@
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 119,
-   "avg": 31.0,
-   "shows": 201
+   "avg": 30.9,
+   "shows": 202
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 33442
+   "viewers": 33511
   },
   {
    "name": "Sports Cards",
-   "viewers": 28284
+   "viewers": 28295
   },
   {
    "name": "Pokemon",
-   "viewers": 20511
+   "viewers": 20522
   },
   {
    "name": "Pop Culture",
-   "viewers": 7388
+   "viewers": 7440
   },
   {
    "name": "Comics",
