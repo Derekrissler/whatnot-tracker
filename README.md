@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **507** over 22.1 days |
+| Samples collected | **508** over 22.2 days |
 
 ## When to stream
 
@@ -39,7 +39,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 ```
 12am  ████████████           27.0
- 1am  ███████                15.9
+ 1am  ███████                16.0
  2am  ████                   8.8
  3am  ███                    5.9
  4am  ████                   8.5
@@ -70,14 +70,14 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 |--:|---|---|--:|--:|---|
 | 1 | `charizardcorner` | Pokemon | 294 | 38.1 | `████████████████` |
 | 2 | `ripcityrips` | Trading Cards | 254 | 35.5 | `██████████████` |
-| 3 | `funkofinds` | Pop Culture | 253 | 39.2 | `██████████████` |
+| 3 | `funkofinds` | Pop Culture | 253 | 39.0 | `██████████████` |
 | 4 | `pristinepulls` | Sports Cards | 253 | 38.6 | `██████████████` |
 | 5 | `thehobbyhouse` | Trading Cards | 237 | 35.8 | `█████████████` |
 | 6 | `vintagevault614` | Sports Cards | 231 | 36.6 | `█████████████` |
 | 7 | `pokeprospector` | Pokemon | 227 | 38.5 | `████████████` |
 | 8 | `sneakerstacks` | Sneakers | 215 | 34.9 | `████████████` |
 | 9 | `midwestmemorabilia` | Sports Cards | 196 | 35.6 | `███████████` |
-| 10 | `comiccryptllc` | Comics | 194 | 37.7 | `███████████` |
+| 10 | `comiccryptllc` | Comics | 194 | 37.5 | `███████████` |
 | 11 | `cardvaultbreaks` | Trading Cards | 189 | 37.8 | `██████████` |
 | 12 | `coinsbykyle` | Coins | 185 | 36.1 | `██████████` |
 | 13 | `buckeyebreaks` | Sports Cards | 182 | 37.4 | `██████████` |
@@ -90,12 +90,12 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 |---|--:|---|
 | Trading Cards | 33,420 | `██████████████████` |
 | Sports Cards | 28,232 | `███████████████` |
-| Pokemon | 20,410 | `███████████` |
-| Pop Culture | 7,368 | `████` |
-| Comics | 7,154 | `████` |
+| Pokemon | 20,447 | `███████████` |
+| Pop Culture | 7,375 | `████` |
+| Comics | 7,163 | `████` |
 | Coins | 6,780 | `████` |
 | Sneakers | 6,244 | `███` |
 
 ---
 
-<sub>Updated 2026-08-10 02:31 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-10 05:42 UTC · times shown in America/New_York · demo data</sub>

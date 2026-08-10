@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-10T02:31:42+00:00",
+ "generated": "2026-08-10T05:42:53+00:00",
  "tz": "America/New_York",
- "samples": 507,
- "days_covered": 22.1,
+ "samples": 508,
+ "days_covered": 22.2,
  "grid": [
   {
    "d": 0,
@@ -15,10 +15,10 @@
   {
    "d": 0,
    "h": 1,
-   "n": 3,
+   "n": 4,
    "shows": 3.0,
-   "viewers": 50.3,
-   "vps": 16.8
+   "viewers": 51.0,
+   "vps": 17.0
   },
   {
    "d": 0,
@@ -1359,10 +1359,10 @@
   },
   {
    "h": 1,
-   "n": 21,
+   "n": 22,
    "shows": 3.0,
-   "viewers": 47.8,
-   "vps": 15.9
+   "viewers": 48.0,
+   "vps": 16.0
   },
   {
    "h": 2,
@@ -1538,8 +1538,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 253,
-   "avg": 39.2,
-   "shows": 188
+   "avg": 39.0,
+   "shows": 189
   },
   {
    "name": "pristinepulls",
@@ -1587,8 +1587,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 194,
-   "avg": 37.7,
-   "shows": 190
+   "avg": 37.5,
+   "shows": 191
   },
   {
    "name": "cardvaultbreaks",
@@ -1623,7 +1623,7 @@
    "category": "Pokemon",
    "peak": 119,
    "avg": 31.0,
-   "shows": 199
+   "shows": 200
   }
  ],
  "categories": [
@@ -1637,15 +1637,15 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 20410
+   "viewers": 20447
   },
   {
    "name": "Pop Culture",
-   "viewers": 7368
+   "viewers": 7375
   },
   {
    "name": "Comics",
-   "viewers": 7154
+   "viewers": 7163
   },
   {
    "name": "Coins",
