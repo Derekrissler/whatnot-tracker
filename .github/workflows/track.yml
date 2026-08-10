@@ -42,8 +42,11 @@ jobs:
 
       - name: Commit the new data and the refreshed README
         run: |
-          git config user.name  "show-tracker-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Author commits as the repo owner (not the Actions bot) so each
+          # push counts toward the contribution graph. The ID+username
+          # noreply address is always linked to the account.
+          git config user.name  "Derekrissler"
+          git config user.email "180601668+Derekrissler@users.noreply.github.com"
           git add data README.md
           git diff --staged --quiet || git commit -m "update: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
