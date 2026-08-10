@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **509** over 22.3 days |
+| Samples collected | **510** over 22.4 days |
 
 ## When to stream
 
@@ -16,7 +16,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 
 ```
      12a   3a    6a    9a    12p   3p    6p    9p
-Mon  ▒▒░░····░░  ··░░····░░░░▒▒▓▓▒▒▓▓▒▒▓▓▓▓▓▓▓▓██▓▓▓▓
+Mon  ▒▒░░····░░····░░····░░░░▒▒▓▓▒▒▓▓▒▒▓▓▓▓▓▓▓▓██▓▓▓▓
 Tue  ▒▒░░······  ······░░░░░░▒▒▒▒▒▒▓▓░░▓▓▒▒████████▒▒
 Wed  ▒▒░░········░░····░░░░░░░░░░▒▒▒▒▓▓▒▒▓▓▓▓██████▒▒
 Thu  ▒▒░░····░░······░░░░░░▒▒▒▒░░▒▒▒▒▒▒▒▒▓▓▓▓████▓▓▓▓
@@ -43,7 +43,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
  2am  ████                   8.8
  3am  ███                    5.9
  4am  ████                   9.8
- 5am  ██                     3.8
+ 5am  ██                     3.6
  6am  ████                   8.6
  7am  ████                   10.0
  8am  ████                   10.2
@@ -80,7 +80,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 | 10 | `comiccryptllc` | Comics | 194 | 37.5 | `███████████` |
 | 11 | `cardvaultbreaks` | Trading Cards | 189 | 37.8 | `██████████` |
 | 12 | `coinsbykyle` | Coins | 185 | 36.1 | `██████████` |
-| 13 | `buckeyebreaks` | Sports Cards | 182 | 37.4 | `██████████` |
+| 13 | `buckeyebreaks` | Sports Cards | 182 | 37.2 | `██████████` |
 | 14 | `slabsanddabs` | Trading Cards | 147 | 34.7 | `████████` |
 | 15 | `gradedgoods` | Pokemon | 119 | 31.0 | `██████` |
 
@@ -89,7 +89,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 | Category | Viewer-samples | |
 |---|--:|---|
 | Trading Cards | 33,420 | `██████████████████` |
-| Sports Cards | 28,232 | `███████████████` |
+| Sports Cards | 28,240 | `███████████████` |
 | Pokemon | 20,447 | `███████████` |
 | Pop Culture | 7,375 | `████` |
 | Comics | 7,163 | `████` |
@@ -98,4 +98,4 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 ---
 
-<sub>Updated 2026-08-10 08:02 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-10 09:46 UTC · times shown in America/New_York · demo data</sub>
