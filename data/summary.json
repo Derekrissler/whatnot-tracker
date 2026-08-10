@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-10T09:46:27+00:00",
+ "generated": "2026-08-10T11:20:04+00:00",
  "tz": "America/New_York",
- "samples": 510,
+ "samples": 511,
  "days_covered": 22.4,
  "grid": [
   {
@@ -63,10 +63,10 @@
   {
    "d": 0,
    "h": 7,
-   "n": 3,
+   "n": 4,
    "shows": 1.0,
-   "viewers": 16.0,
-   "vps": 16.0
+   "viewers": 15.2,
+   "vps": 15.2
   },
   {
    "d": 0,
@@ -1401,7 +1401,7 @@
   },
   {
    "h": 7,
-   "n": 21,
+   "n": 22,
    "shows": 1.2,
    "viewers": 12.0,
    "vps": 10.0
@@ -1538,8 +1538,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 253,
-   "avg": 39.0,
-   "shows": 189
+   "avg": 38.9,
+   "shows": 190
   },
   {
    "name": "pristinepulls",
@@ -1641,7 +1641,7 @@
   },
   {
    "name": "Pop Culture",
-   "viewers": 7375
+   "viewers": 7388
   },
   {
    "name": "Comics",
