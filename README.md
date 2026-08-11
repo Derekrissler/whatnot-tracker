@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **522** over 23.3 days |
+| Samples collected | **523** over 23.4 days |
 
 ## When to stream
 
@@ -45,7 +45,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
  4am  ████                   9.8
  5am  ██                     4.2
  6am  ████                   8.6
- 7am  ████                   10.0
+ 7am  ████                   9.8
  8am  ████                   10.2
  9am  ██████                 14.1
 10am  █████████              19.5
@@ -74,7 +74,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 | 4 | `pristinepulls` | Sports Cards | 253 | 38.3 | `██████████████` |
 | 5 | `thehobbyhouse` | Trading Cards | 237 | 35.8 | `█████████████` |
 | 6 | `vintagevault614` | Sports Cards | 231 | 37.0 | `█████████████` |
-| 7 | `pokeprospector` | Pokemon | 227 | 38.5 | `████████████` |
+| 7 | `pokeprospector` | Pokemon | 227 | 38.3 | `████████████` |
 | 8 | `sneakerstacks` | Sneakers | 215 | 34.9 | `████████████` |
 | 9 | `midwestmemorabilia` | Sports Cards | 196 | 35.4 | `███████████` |
 | 10 | `comiccryptllc` | Comics | 194 | 37.9 | `███████████` |
@@ -90,7 +90,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 |---|--:|---|
 | Trading Cards | 34,119 | `██████████████████` |
 | Sports Cards | 28,856 | `███████████████` |
-| Pokemon | 20,765 | `███████████` |
+| Pokemon | 20,770 | `███████████` |
 | Pop Culture | 7,518 | `████` |
 | Comics | 7,314 | `████` |
 | Coins | 6,852 | `████` |
@@ -98,4 +98,4 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 ---
 
-<sub>Updated 2026-08-11 09:12 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-11 11:03 UTC · times shown in America/New_York · demo data</sub>
