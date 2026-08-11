@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-11T15:14:56+00:00",
+ "generated": "2026-08-11T17:11:02+00:00",
  "tz": "America/New_York",
- "samples": 525,
- "days_covered": 23.6,
+ "samples": 526,
+ "days_covered": 23.7,
  "grid": [
   {
    "d": 0,
@@ -303,10 +303,10 @@
   {
    "d": 1,
    "h": 13,
-   "n": 3,
-   "shows": 4.3,
-   "viewers": 110.3,
-   "vps": 25.7
+   "n": 4,
+   "shows": 4.2,
+   "viewers": 105.5,
+   "vps": 25.1
   },
   {
    "d": 1,
@@ -1443,10 +1443,10 @@
   },
   {
    "h": 13,
-   "n": 22,
-   "shows": 5.2,
-   "viewers": 130.2,
-   "vps": 25.0
+   "n": 23,
+   "shows": 5.1,
+   "viewers": 128.5,
+   "vps": 25.2
   },
   {
    "h": 14,
@@ -1580,29 +1580,29 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 196,
-   "avg": 35.4,
-   "shows": 205
+   "avg": 35.3,
+   "shows": 206
   },
   {
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 194,
-   "avg": 37.9,
-   "shows": 193
+   "avg": 37.7,
+   "shows": 194
   },
   {
    "name": "cardvaultbreaks",
    "category": "Trading Cards",
    "peak": 189,
-   "avg": 38.0,
-   "shows": 180
+   "avg": 37.8,
+   "shows": 181
   },
   {
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 185,
    "avg": 36.2,
-   "shows": 191
+   "shows": 192
   },
   {
    "name": "buckeyebreaks",
@@ -1629,11 +1629,11 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 34170
+   "viewers": 34181
   },
   {
    "name": "Sports Cards",
-   "viewers": 28967
+   "viewers": 28992
   },
   {
    "name": "Pokemon",
@@ -1645,11 +1645,11 @@
   },
   {
    "name": "Comics",
-   "viewers": 7314
+   "viewers": 7321
   },
   {
    "name": "Coins",
-   "viewers": 6906
+   "viewers": 6954
   },
   {
    "name": "Sneakers",
