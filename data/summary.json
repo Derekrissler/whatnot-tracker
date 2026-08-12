@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-12T02:42:10+00:00",
+ "generated": "2026-08-12T05:44:57+00:00",
  "tz": "America/New_York",
- "samples": 530,
- "days_covered": 24.1,
+ "samples": 531,
+ "days_covered": 24.2,
  "grid": [
   {
    "d": 0,
@@ -399,10 +399,10 @@
   {
    "d": 2,
    "h": 1,
-   "n": 3,
-   "shows": 2.3,
-   "viewers": 29.0,
-   "vps": 12.6
+   "n": 4,
+   "shows": 2.2,
+   "viewers": 26.2,
+   "vps": 11.9
   },
   {
    "d": 2,
@@ -1359,10 +1359,10 @@
   },
   {
    "h": 1,
-   "n": 23,
-   "shows": 3.0,
-   "viewers": 47.8,
-   "vps": 15.9
+   "n": 24,
+   "shows": 2.9,
+   "viewers": 46.6,
+   "vps": 16.1
   },
   {
    "h": 2,
@@ -1538,8 +1538,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 253,
-   "avg": 38.8,
-   "shows": 199
+   "avg": 38.6,
+   "shows": 200
   },
   {
    "name": "pristinepulls",
@@ -1587,8 +1587,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 194,
-   "avg": 38.2,
-   "shows": 197
+   "avg": 38.0,
+   "shows": 198
   },
   {
    "name": "cardvaultbreaks",
@@ -1641,11 +1641,11 @@
   },
   {
    "name": "Pop Culture",
-   "viewers": 7714
+   "viewers": 7726
   },
   {
    "name": "Comics",
-   "viewers": 7521
+   "viewers": 7527
   },
   {
    "name": "Coins",
