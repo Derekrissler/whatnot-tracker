@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-12T15:13:07+00:00",
+ "generated": "2026-08-12T17:10:24+00:00",
  "tz": "America/New_York",
- "samples": 536,
- "days_covered": 24.6,
+ "samples": 537,
+ "days_covered": 24.7,
  "grid": [
   {
    "d": 0,
@@ -495,10 +495,10 @@
   {
    "d": 2,
    "h": 13,
-   "n": 3,
+   "n": 4,
    "shows": 6.0,
-   "viewers": 101.3,
-   "vps": 16.9
+   "viewers": 118.8,
+   "vps": 19.8
   },
   {
    "d": 2,
@@ -1443,10 +1443,10 @@
   },
   {
    "h": 13,
-   "n": 23,
-   "shows": 5.1,
-   "viewers": 128.5,
-   "vps": 25.2
+   "n": 24,
+   "shows": 5.2,
+   "viewers": 130.3,
+   "vps": 25.1
   },
   {
    "h": 14,
@@ -1524,15 +1524,15 @@
    "name": "charizardcorner",
    "category": "Pokemon",
    "peak": 294,
-   "avg": 37.8,
-   "shows": 200
+   "avg": 37.6,
+   "shows": 201
   },
   {
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 254,
-   "avg": 35.5,
-   "shows": 206
+   "avg": 35.4,
+   "shows": 207
   },
   {
    "name": "funkofinds",
@@ -1552,8 +1552,8 @@
    "name": "thehobbyhouse",
    "category": "Trading Cards",
    "peak": 237,
-   "avg": 35.7,
-   "shows": 174
+   "avg": 35.6,
+   "shows": 175
   },
   {
    "name": "vintagevault614",
@@ -1594,15 +1594,15 @@
    "name": "cardvaultbreaks",
    "category": "Trading Cards",
    "peak": 189,
-   "avg": 37.6,
-   "shows": 184
+   "avg": 37.5,
+   "shows": 185
   },
   {
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 185,
-   "avg": 35.9,
-   "shows": 196
+   "avg": 35.8,
+   "shows": 197
   },
   {
    "name": "buckeyebreaks",
@@ -1615,8 +1615,8 @@
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 147,
-   "avg": 34.6,
-   "shows": 205
+   "avg": 35.0,
+   "shows": 206
   },
   {
    "name": "gradedgoods",
@@ -1629,7 +1629,7 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 34642
+   "viewers": 34790
   },
   {
    "name": "Sports Cards",
@@ -1637,7 +1637,7 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 21032
+   "viewers": 21037
   },
   {
    "name": "Pop Culture",
@@ -1649,7 +1649,7 @@
   },
   {
    "name": "Coins",
-   "viewers": 7029
+   "viewers": 7047
   },
   {
    "name": "Sneakers",
