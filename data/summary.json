@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-12T07:49:55+00:00",
+ "generated": "2026-08-12T09:30:45+00:00",
  "tz": "America/New_York",
- "samples": 532,
- "days_covered": 24.3,
+ "samples": 533,
+ "days_covered": 24.4,
  "grid": [
   {
    "d": 0,
@@ -431,9 +431,9 @@
   {
    "d": 2,
    "h": 5,
-   "n": 3,
-   "shows": 0.7,
-   "viewers": 1.7,
+   "n": 4,
+   "shows": 0.5,
+   "viewers": 1.2,
    "vps": 2.4
   },
   {
@@ -1387,10 +1387,10 @@
   },
   {
    "h": 5,
-   "n": 23,
+   "n": 24,
    "shows": 0.4,
-   "viewers": 1.7,
-   "vps": 4.2
+   "viewers": 1.6,
+   "vps": 4.0
   },
   {
    "h": 6,
