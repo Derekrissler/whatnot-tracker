@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **535** over 24.5 days |
+| Samples collected | **536** over 24.6 days |
 
 ## When to stream
 
@@ -49,7 +49,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
  8am  ████                   10.2
  9am  ██████                 14.8
 10am  █████████              19.5
-11am  █████████              21.2
+11am  █████████              21.4
 12pm  ██████████             21.9
  1pm  ███████████            25.2
  2pm  ████████████           28.2
@@ -74,13 +74,13 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 | 4 | `pristinepulls` | Sports Cards | 253 | 38.3 | `██████████████` |
 | 5 | `thehobbyhouse` | Trading Cards | 237 | 35.7 | `█████████████` |
 | 6 | `vintagevault614` | Sports Cards | 231 | 37.0 | `█████████████` |
-| 7 | `pokeprospector` | Pokemon | 227 | 38.3 | `████████████` |
+| 7 | `pokeprospector` | Pokemon | 227 | 38.2 | `████████████` |
 | 8 | `sneakerstacks` | Sneakers | 215 | 34.9 | `████████████` |
 | 9 | `midwestmemorabilia` | Sports Cards | 196 | 35.6 | `███████████` |
 | 10 | `comiccryptllc` | Comics | 194 | 38.0 | `███████████` |
 | 11 | `cardvaultbreaks` | Trading Cards | 189 | 37.6 | `██████████` |
 | 12 | `coinsbykyle` | Coins | 185 | 35.9 | `██████████` |
-| 13 | `buckeyebreaks` | Sports Cards | 182 | 36.8 | `██████████` |
+| 13 | `buckeyebreaks` | Sports Cards | 182 | 36.7 | `██████████` |
 | 14 | `slabsanddabs` | Trading Cards | 147 | 34.6 | `████████` |
 | 15 | `gradedgoods` | Pokemon | 119 | 30.7 | `██████` |
 
@@ -88,9 +88,9 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 34,623 | `██████████████████` |
-| Sports Cards | 29,396 | `███████████████` |
-| Pokemon | 21,025 | `███████████` |
+| Trading Cards | 34,642 | `██████████████████` |
+| Sports Cards | 29,415 | `███████████████` |
+| Pokemon | 21,032 | `███████████` |
 | Pop Culture | 7,740 | `████` |
 | Comics | 7,527 | `████` |
 | Coins | 7,029 | `████` |
@@ -98,4 +98,4 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 ---
 
-<sub>Updated 2026-08-12 13:43 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-12 15:13 UTC · times shown in America/New_York · demo data</sub>

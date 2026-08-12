@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-12T13:43:58+00:00",
+ "generated": "2026-08-12T15:13:07+00:00",
  "tz": "America/New_York",
- "samples": 535,
- "days_covered": 24.5,
+ "samples": 536,
+ "days_covered": 24.6,
  "grid": [
   {
    "d": 0,
@@ -479,10 +479,10 @@
   {
    "d": 2,
    "h": 11,
-   "n": 3,
-   "shows": 3.3,
-   "viewers": 59.7,
-   "vps": 18.1
+   "n": 4,
+   "shows": 3.2,
+   "viewers": 56.0,
+   "vps": 17.5
   },
   {
    "d": 2,
@@ -1429,10 +1429,10 @@
   },
   {
    "h": 11,
-   "n": 23,
-   "shows": 3.9,
-   "viewers": 82.8,
-   "vps": 21.2
+   "n": 24,
+   "shows": 3.8,
+   "viewers": 81.2,
+   "vps": 21.4
   },
   {
    "h": 12,
@@ -1566,8 +1566,8 @@
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 227,
-   "avg": 38.3,
-   "shows": 186
+   "avg": 38.2,
+   "shows": 187
   },
   {
    "name": "sneakerstacks",
@@ -1608,8 +1608,8 @@
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 182,
-   "avg": 36.8,
-   "shows": 201
+   "avg": 36.7,
+   "shows": 202
   },
   {
    "name": "slabsanddabs",
@@ -1629,15 +1629,15 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 34623
+   "viewers": 34642
   },
   {
    "name": "Sports Cards",
-   "viewers": 29396
+   "viewers": 29415
   },
   {
    "name": "Pokemon",
-   "viewers": 21025
+   "viewers": 21032
   },
   {
    "name": "Pop Culture",
