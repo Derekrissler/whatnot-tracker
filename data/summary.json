@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-12T09:30:45+00:00",
+ "generated": "2026-08-12T11:09:20+00:00",
  "tz": "America/New_York",
- "samples": 533,
+ "samples": 534,
  "days_covered": 24.4,
  "grid": [
   {
@@ -447,10 +447,10 @@
   {
    "d": 2,
    "h": 7,
-   "n": 3,
+   "n": 4,
    "shows": 1.0,
-   "viewers": 9.3,
-   "vps": 9.3
+   "viewers": 7.8,
+   "vps": 7.8
   },
   {
    "d": 2,
@@ -1401,10 +1401,10 @@
   },
   {
    "h": 7,
-   "n": 23,
+   "n": 24,
    "shows": 1.2,
-   "viewers": 11.7,
-   "vps": 9.8
+   "viewers": 11.3,
+   "vps": 9.4
   },
   {
    "h": 8,
@@ -1608,8 +1608,8 @@
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 182,
-   "avg": 37.0,
-   "shows": 200
+   "avg": 36.8,
+   "shows": 201
   },
   {
    "name": "slabsanddabs",
@@ -1633,7 +1633,7 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 29393
+   "viewers": 29396
   },
   {
    "name": "Pokemon",
