@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **544** over 25.4 days |
+| Samples collected | **545** over 25.4 days |
 
 ## When to stream
 
@@ -45,7 +45,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
  4am  ████                   9.8
  5am  ██                     4.0
  6am  ████                   8.6
- 7am  ████                   9.4
+ 7am  ████                   9.2
  8am  ████                   10.2
  9am  ██████                 14.8
 10am  █████████              19.5
@@ -68,7 +68,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `charizardcorner` | Pokemon | 294 | 37.7 | `████████████████` |
+| 1 | `charizardcorner` | Pokemon | 294 | 37.6 | `████████████████` |
 | 2 | `ripcityrips` | Trading Cards | 254 | 35.4 | `██████████████` |
 | 3 | `funkofinds` | Pop Culture | 253 | 38.2 | `██████████████` |
 | 4 | `pristinepulls` | Sports Cards | 253 | 38.1 | `██████████████` |
@@ -90,7 +90,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 |---|--:|---|
 | Trading Cards | 35,497 | `██████████████████` |
 | Sports Cards | 29,620 | `███████████████` |
-| Pokemon | 21,219 | `███████████` |
+| Pokemon | 21,223 | `███████████` |
 | Pop Culture | 7,800 | `████` |
 | Comics | 7,545 | `████` |
 | Coins | 7,074 | `████` |
@@ -98,4 +98,4 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 ---
 
-<sub>Updated 2026-08-13 09:32 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-13 11:10 UTC · times shown in America/New_York · demo data</sub>

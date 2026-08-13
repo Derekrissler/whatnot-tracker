@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-13T09:32:22+00:00",
+ "generated": "2026-08-13T11:10:00+00:00",
  "tz": "America/New_York",
- "samples": 544,
+ "samples": 545,
  "days_covered": 25.4,
  "grid": [
   {
@@ -639,10 +639,10 @@
   {
    "d": 3,
    "h": 7,
-   "n": 3,
+   "n": 4,
    "shows": 1.0,
-   "viewers": 7.0,
-   "vps": 7.0
+   "viewers": 6.2,
+   "vps": 6.2
   },
   {
    "d": 3,
@@ -1401,10 +1401,10 @@
   },
   {
    "h": 7,
-   "n": 24,
+   "n": 25,
    "shows": 1.2,
-   "viewers": 11.3,
-   "vps": 9.4
+   "viewers": 11.0,
+   "vps": 9.2
   },
   {
    "h": 8,
@@ -1524,8 +1524,8 @@
    "name": "charizardcorner",
    "category": "Pokemon",
    "peak": 294,
-   "avg": 37.7,
-   "shows": 203
+   "avg": 37.6,
+   "shows": 204
   },
   {
    "name": "ripcityrips",
@@ -1637,7 +1637,7 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 21219
+   "viewers": 21223
   },
   {
    "name": "Pop Culture",
