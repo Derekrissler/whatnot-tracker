@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **543** over 25.3 days |
+| Samples collected | **544** over 25.4 days |
 
 ## When to stream
 
@@ -98,4 +98,4 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 ---
 
-<sub>Updated 2026-08-13 07:50 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-13 09:32 UTC · times shown in America/New_York · demo data</sub>
