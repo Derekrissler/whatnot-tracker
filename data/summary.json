@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-14T11:07:18+00:00",
+ "generated": "2026-08-14T13:39:25+00:00",
  "tz": "America/New_York",
- "samples": 556,
- "days_covered": 26.4,
+ "samples": 557,
+ "days_covered": 26.5,
  "grid": [
   {
    "d": 0,
@@ -847,10 +847,10 @@
   {
    "d": 4,
    "h": 9,
-   "n": 3,
-   "shows": 2.7,
-   "viewers": 36.3,
-   "vps": 13.4
+   "n": 4,
+   "shows": 2.8,
+   "viewers": 43.0,
+   "vps": 15.4
   },
   {
    "d": 4,
@@ -1415,10 +1415,10 @@
   },
   {
    "h": 9,
-   "n": 25,
+   "n": 26,
    "shows": 2.6,
-   "viewers": 37.5,
-   "vps": 14.4
+   "viewers": 38.5,
+   "vps": 14.8
   },
   {
    "h": 10,
@@ -1552,8 +1552,8 @@
    "name": "thehobbyhouse",
    "category": "Trading Cards",
    "peak": 237,
-   "avg": 35.7,
-   "shows": 183
+   "avg": 35.6,
+   "shows": 184
   },
   {
    "name": "vintagevault614",
@@ -1588,7 +1588,7 @@
    "category": "Comics",
    "peak": 194,
    "avg": 38.1,
-   "shows": 200
+   "shows": 201
   },
   {
    "name": "cardvaultbreaks",
@@ -1615,8 +1615,8 @@
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 147,
-   "avg": 34.9,
-   "shows": 213
+   "avg": 34.8,
+   "shows": 214
   },
   {
    "name": "gradedgoods",
@@ -1629,7 +1629,7 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 36095
+   "viewers": 36128
   },
   {
    "name": "Sports Cards",
@@ -1645,7 +1645,7 @@
   },
   {
    "name": "Comics",
-   "viewers": 7623
+   "viewers": 7653
   },
   {
    "name": "Coins",
