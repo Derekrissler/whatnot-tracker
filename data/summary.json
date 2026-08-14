@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-14T17:09:27+00:00",
+ "generated": "2026-08-14T19:11:59+00:00",
  "tz": "America/New_York",
- "samples": 559,
- "days_covered": 26.7,
+ "samples": 560,
+ "days_covered": 26.8,
  "grid": [
   {
    "d": 0,
@@ -895,10 +895,10 @@
   {
    "d": 4,
    "h": 15,
-   "n": 3,
-   "shows": 6.0,
-   "viewers": 117.0,
-   "vps": 19.5
+   "n": 4,
+   "shows": 6.2,
+   "viewers": 131.2,
+   "vps": 21.2
   },
   {
    "d": 4,
@@ -1457,9 +1457,9 @@
   },
   {
    "h": 15,
-   "n": 25,
+   "n": 26,
    "shows": 6.3,
-   "viewers": 178.3,
+   "viewers": 178.1,
    "vps": 28.3
   },
   {
@@ -1525,7 +1525,7 @@
    "category": "Pokemon",
    "peak": 294,
    "avg": 37.5,
-   "shows": 206
+   "shows": 207
   },
   {
    "name": "ripcityrips",
@@ -1553,7 +1553,7 @@
    "category": "Trading Cards",
    "peak": 237,
    "avg": 35.6,
-   "shows": 184
+   "shows": 185
   },
   {
    "name": "vintagevault614",
@@ -1566,8 +1566,8 @@
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 227,
-   "avg": 37.8,
-   "shows": 192
+   "avg": 37.7,
+   "shows": 193
   },
   {
    "name": "sneakerstacks",
@@ -1580,8 +1580,8 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 196,
-   "avg": 35.2,
-   "shows": 215
+   "avg": 35.1,
+   "shows": 216
   },
   {
    "name": "comiccryptllc",
@@ -1608,36 +1608,36 @@
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 182,
-   "avg": 36.7,
-   "shows": 210
+   "avg": 36.6,
+   "shows": 211
   },
   {
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 147,
-   "avg": 34.8,
-   "shows": 214
+   "avg": 34.7,
+   "shows": 215
   },
   {
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 119,
    "avg": 30.3,
-   "shows": 214
+   "shows": 215
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 36172
+   "viewers": 36222
   },
   {
    "name": "Sports Cards",
-   "viewers": 30250
+   "viewers": 30290
   },
   {
    "name": "Pokemon",
-   "viewers": 21468
+   "viewers": 21552
   },
   {
    "name": "Pop Culture",

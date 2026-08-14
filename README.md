@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **559** over 26.7 days |
+| Samples collected | **560** over 26.8 days |
 
 ## When to stream
 
@@ -74,23 +74,23 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 | 4 | `pristinepulls` | Sports Cards | 253 | 37.9 | `██████████████` |
 | 5 | `thehobbyhouse` | Trading Cards | 237 | 35.6 | `█████████████` |
 | 6 | `vintagevault614` | Sports Cards | 231 | 36.5 | `█████████████` |
-| 7 | `pokeprospector` | Pokemon | 227 | 37.8 | `████████████` |
+| 7 | `pokeprospector` | Pokemon | 227 | 37.7 | `████████████` |
 | 8 | `sneakerstacks` | Sneakers | 215 | 34.9 | `████████████` |
-| 9 | `midwestmemorabilia` | Sports Cards | 196 | 35.2 | `███████████` |
+| 9 | `midwestmemorabilia` | Sports Cards | 196 | 35.1 | `███████████` |
 | 10 | `comiccryptllc` | Comics | 194 | 38.1 | `███████████` |
 | 11 | `cardvaultbreaks` | Trading Cards | 189 | 38.2 | `██████████` |
 | 12 | `coinsbykyle` | Coins | 185 | 35.9 | `██████████` |
-| 13 | `buckeyebreaks` | Sports Cards | 182 | 36.7 | `██████████` |
-| 14 | `slabsanddabs` | Trading Cards | 147 | 34.8 | `████████` |
+| 13 | `buckeyebreaks` | Sports Cards | 182 | 36.6 | `██████████` |
+| 14 | `slabsanddabs` | Trading Cards | 147 | 34.7 | `████████` |
 | 15 | `gradedgoods` | Pokemon | 119 | 30.3 | `██████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 36,172 | `██████████████████` |
-| Sports Cards | 30,250 | `███████████████` |
-| Pokemon | 21,468 | `███████████` |
+| Trading Cards | 36,222 | `██████████████████` |
+| Sports Cards | 30,290 | `███████████████` |
+| Pokemon | 21,552 | `███████████` |
 | Pop Culture | 7,903 | `████` |
 | Comics | 7,653 | `████` |
 | Coins | 7,245 | `████` |
@@ -98,4 +98,4 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 ---
 
-<sub>Updated 2026-08-14 17:09 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-14 19:11 UTC · times shown in America/New_York · demo data</sub>
