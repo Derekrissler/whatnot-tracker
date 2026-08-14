@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-14T02:43:46+00:00",
+ "generated": "2026-08-14T05:44:46+00:00",
  "tz": "America/New_York",
- "samples": 552,
- "days_covered": 26.1,
+ "samples": 553,
+ "days_covered": 26.2,
  "grid": [
   {
    "d": 0,
@@ -783,10 +783,10 @@
   {
    "d": 4,
    "h": 1,
-   "n": 3,
+   "n": 4,
    "shows": 3.0,
-   "viewers": 50.3,
-   "vps": 16.8
+   "viewers": 45.2,
+   "vps": 15.1
   },
   {
    "d": 4,
@@ -1359,10 +1359,10 @@
   },
   {
    "h": 1,
-   "n": 25,
+   "n": 26,
    "shows": 2.9,
-   "viewers": 46.9,
-   "vps": 16.2
+   "viewers": 46.3,
+   "vps": 16.0
   },
   {
    "h": 2,
@@ -1545,8 +1545,8 @@
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 253,
-   "avg": 38.1,
-   "shows": 193
+   "avg": 37.9,
+   "shows": 194
   },
   {
    "name": "thehobbyhouse",
@@ -1580,8 +1580,8 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 196,
-   "avg": 35.4,
-   "shows": 212
+   "avg": 35.2,
+   "shows": 213
   },
   {
    "name": "comiccryptllc",
@@ -1622,8 +1622,8 @@
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 119,
-   "avg": 30.6,
-   "shows": 211
+   "avg": 30.5,
+   "shows": 212
   }
  ],
  "categories": [
@@ -1633,11 +1633,11 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 30143
+   "viewers": 30157
   },
   {
    "name": "Pokemon",
-   "viewers": 21426
+   "viewers": 21442
   },
   {
    "name": "Pop Culture",
