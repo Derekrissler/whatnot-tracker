@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-14T05:44:46+00:00",
+ "generated": "2026-08-14T07:47:51+00:00",
  "tz": "America/New_York",
- "samples": 553,
- "days_covered": 26.2,
+ "samples": 554,
+ "days_covered": 26.3,
  "grid": [
   {
    "d": 0,
@@ -799,10 +799,10 @@
   {
    "d": 4,
    "h": 3,
-   "n": 3,
+   "n": 4,
    "shows": 1.0,
-   "viewers": 8.0,
-   "vps": 8.0
+   "viewers": 7.5,
+   "vps": 7.5
   },
   {
    "d": 4,
@@ -1373,7 +1373,7 @@
   },
   {
    "h": 3,
-   "n": 24,
+   "n": 25,
    "shows": 1.0,
    "viewers": 6.1,
    "vps": 6.1
@@ -1531,8 +1531,8 @@
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 254,
-   "avg": 35.5,
-   "shows": 213
+   "avg": 35.4,
+   "shows": 214
   },
   {
    "name": "funkofinds",
@@ -1629,7 +1629,7 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 36089
+   "viewers": 36095
   },
   {
    "name": "Sports Cards",
