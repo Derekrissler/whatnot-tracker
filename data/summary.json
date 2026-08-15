@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-15T16:39:21+00:00",
+ "generated": "2026-08-15T18:46:07+00:00",
  "tz": "America/New_York",
- "samples": 571,
+ "samples": 572,
  "days_covered": 27.7,
  "grid": [
   {
@@ -1079,10 +1079,10 @@
   {
    "d": 5,
    "h": 14,
-   "n": 3,
-   "shows": 6.3,
-   "viewers": 205.7,
-   "vps": 32.7
+   "n": 4,
+   "shows": 6.2,
+   "viewers": 188.0,
+   "vps": 30.3
   },
   {
    "d": 5,
@@ -1450,10 +1450,10 @@
   },
   {
    "h": 14,
-   "n": 21,
+   "n": 22,
    "shows": 5.7,
-   "viewers": 160.7,
-   "vps": 28.2
+   "viewers": 159.5,
+   "vps": 28.0
   },
   {
    "h": 15,
@@ -1539,7 +1539,7 @@
    "category": "Pop Culture",
    "peak": 253,
    "avg": 37.9,
-   "shows": 210
+   "shows": 211
   },
   {
    "name": "pristinepulls",
@@ -1574,7 +1574,7 @@
    "category": "Sneakers",
    "peak": 215,
    "avg": 35.6,
-   "shows": 196
+   "shows": 197
   },
   {
    "name": "midwestmemorabilia",
@@ -1587,8 +1587,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 194,
-   "avg": 38.2,
-   "shows": 206
+   "avg": 38.1,
+   "shows": 207
   },
   {
    "name": "cardvaultbreaks",
@@ -1601,8 +1601,8 @@
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 185,
-   "avg": 35.4,
-   "shows": 209
+   "avg": 35.3,
+   "shows": 210
   },
   {
    "name": "buckeyebreaks",
@@ -1616,20 +1616,20 @@
    "category": "Trading Cards",
    "peak": 147,
    "avg": 34.7,
-   "shows": 221
+   "shows": 222
   },
   {
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 119,
    "avg": 30.5,
-   "shows": 218
+   "shows": 219
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 36817
+   "viewers": 36837
   },
   {
    "name": "Sports Cards",
@@ -1637,23 +1637,23 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 22076
+   "viewers": 22104
   },
   {
    "name": "Pop Culture",
-   "viewers": 7955
+   "viewers": 7991
   },
   {
    "name": "Comics",
-   "viewers": 7877
+   "viewers": 7884
   },
   {
    "name": "Coins",
-   "viewers": 7406
+   "viewers": 7422
   },
   {
    "name": "Sneakers",
-   "viewers": 6979
+   "viewers": 7007
   }
  ],
  "best_slots": [

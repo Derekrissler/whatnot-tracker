@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **571** over 27.7 days |
+| Samples collected | **572** over 27.7 days |
 
 ## When to stream
 
@@ -52,7 +52,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 11am  █████████              20.7
 12pm  ██████████             22.2
  1pm  ███████████            25.7
- 2pm  ████████████           28.2
+ 2pm  ████████████           28.0
  3pm  ████████████           28.3
  4pm  █████████████          30.1
  5pm  ████████████████       35.9
@@ -77,9 +77,9 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 | 7 | `pokeprospector` | Pokemon | 227 | 38.1 | `████████████` |
 | 8 | `sneakerstacks` | Sneakers | 215 | 35.6 | `████████████` |
 | 9 | `midwestmemorabilia` | Sports Cards | 196 | 35.0 | `███████████` |
-| 10 | `comiccryptllc` | Comics | 194 | 38.2 | `███████████` |
+| 10 | `comiccryptllc` | Comics | 194 | 38.1 | `███████████` |
 | 11 | `cardvaultbreaks` | Trading Cards | 189 | 38.2 | `██████████` |
-| 12 | `coinsbykyle` | Coins | 185 | 35.4 | `██████████` |
+| 12 | `coinsbykyle` | Coins | 185 | 35.3 | `██████████` |
 | 13 | `buckeyebreaks` | Sports Cards | 182 | 36.5 | `██████████` |
 | 14 | `slabsanddabs` | Trading Cards | 147 | 34.7 | `████████` |
 | 15 | `gradedgoods` | Pokemon | 119 | 30.5 | `██████` |
@@ -88,14 +88,14 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 36,817 | `██████████████████` |
+| Trading Cards | 36,837 | `██████████████████` |
 | Sports Cards | 30,809 | `███████████████` |
-| Pokemon | 22,076 | `███████████` |
-| Pop Culture | 7,955 | `████` |
-| Comics | 7,877 | `████` |
-| Coins | 7,406 | `████` |
-| Sneakers | 6,979 | `███` |
+| Pokemon | 22,104 | `███████████` |
+| Pop Culture | 7,991 | `████` |
+| Comics | 7,884 | `████` |
+| Coins | 7,422 | `████` |
+| Sneakers | 7,007 | `███` |
 
 ---
 
-<sub>Updated 2026-08-15 16:39 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-15 18:46 UTC · times shown in America/New_York · demo data</sub>
