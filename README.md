@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **567** over 27.3 days |
+| Samples collected | **568** over 27.4 days |
 
 ## When to stream
 
@@ -44,7 +44,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
  3am  ███                    6.1
  4am  ███                    8.0
  5am  ██                     3.8
- 6am  ████                   8.6
+ 6am  ████                   8.5
  7am  ████                   9.0
  8am  ████                   10.2
  9am  ██████                 14.8
@@ -79,7 +79,7 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 | 9 | `midwestmemorabilia` | Sports Cards | 196 | 35.1 | `███████████` |
 | 10 | `comiccryptllc` | Comics | 194 | 38.2 | `███████████` |
 | 11 | `cardvaultbreaks` | Trading Cards | 189 | 38.2 | `██████████` |
-| 12 | `coinsbykyle` | Coins | 185 | 35.8 | `██████████` |
+| 12 | `coinsbykyle` | Coins | 185 | 35.7 | `██████████` |
 | 13 | `buckeyebreaks` | Sports Cards | 182 | 36.6 | `██████████` |
 | 14 | `slabsanddabs` | Trading Cards | 147 | 34.8 | `████████` |
 | 15 | `gradedgoods` | Pokemon | 119 | 30.5 | `██████` |
@@ -93,9 +93,9 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 | Pokemon | 21,943 | `███████████` |
 | Pop Culture | 7,955 | `████` |
 | Comics | 7,877 | `████` |
-| Coins | 7,376 | `████` |
+| Coins | 7,384 | `████` |
 | Sneakers | 6,972 | `███` |
 
 ---
 
-<sub>Updated 2026-08-15 08:44 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-15 10:37 UTC · times shown in America/New_York · demo data</sub>
