@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-15T03:03:20+00:00",
+ "generated": "2026-08-15T04:45:01+00:00",
  "tz": "America/New_York",
- "samples": 564,
- "days_covered": 27.1,
+ "samples": 565,
+ "days_covered": 27.2,
  "grid": [
   {
    "d": 0,
@@ -967,10 +967,10 @@
   {
    "d": 5,
    "h": 0,
-   "n": 3,
-   "shows": 6.0,
-   "viewers": 134.7,
-   "vps": 22.4
+   "n": 4,
+   "shows": 6.5,
+   "viewers": 162.2,
+   "vps": 25.0
   },
   {
    "d": 5,
@@ -1352,10 +1352,10 @@
  "by_hour": [
   {
    "h": 0,
-   "n": 21,
-   "shows": 5.5,
-   "viewers": 148.7,
-   "vps": 27.0
+   "n": 22,
+   "shows": 5.6,
+   "viewers": 153.0,
+   "vps": 27.3
   },
   {
    "h": 1,
@@ -1525,14 +1525,14 @@
    "category": "Pokemon",
    "peak": 294,
    "avg": 37.7,
-   "shows": 209
+   "shows": 210
   },
   {
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 254,
-   "avg": 35.3,
-   "shows": 217
+   "avg": 35.1,
+   "shows": 218
   },
   {
    "name": "funkofinds",
@@ -1545,8 +1545,8 @@
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 253,
-   "avg": 37.7,
-   "shows": 198
+   "avg": 37.8,
+   "shows": 199
   },
   {
    "name": "thehobbyhouse",
@@ -1566,8 +1566,8 @@
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 227,
-   "avg": 37.8,
-   "shows": 195
+   "avg": 37.7,
+   "shows": 196
   },
   {
    "name": "sneakerstacks",
@@ -1587,8 +1587,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 194,
-   "avg": 38.1,
-   "shows": 205
+   "avg": 38.2,
+   "shows": 206
   },
   {
    "name": "cardvaultbreaks",
@@ -1602,21 +1602,21 @@
    "category": "Coins",
    "peak": 185,
    "avg": 35.8,
-   "shows": 205
+   "shows": 206
   },
   {
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 182,
    "avg": 36.6,
-   "shows": 213
+   "shows": 214
   },
   {
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 147,
    "avg": 34.8,
-   "shows": 219
+   "shows": 220
   },
   {
    "name": "gradedgoods",
@@ -1629,15 +1629,15 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 36721
+   "viewers": 36758
   },
   {
    "name": "Sports Cards",
-   "viewers": 30605
+   "viewers": 30681
   },
   {
    "name": "Pokemon",
-   "viewers": 21872
+   "viewers": 21914
   },
   {
    "name": "Pop Culture",
@@ -1645,11 +1645,11 @@
   },
   {
    "name": "Comics",
-   "viewers": 7815
+   "viewers": 7877
   },
   {
    "name": "Coins",
-   "viewers": 7348
+   "viewers": 7376
   },
   {
    "name": "Sneakers",
