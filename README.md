@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **572** over 27.7 days |
+| Samples collected | **573** over 27.8 days |
 
 ## When to stream
 
@@ -68,17 +68,17 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `charizardcorner` | Pokemon | 294 | 37.7 | `████████████████` |
+| 1 | `charizardcorner` | Pokemon | 294 | 37.8 | `████████████████` |
 | 2 | `ripcityrips` | Trading Cards | 254 | 35.1 | `██████████████` |
 | 3 | `funkofinds` | Pop Culture | 253 | 37.9 | `██████████████` |
 | 4 | `pristinepulls` | Sports Cards | 253 | 37.7 | `██████████████` |
-| 5 | `thehobbyhouse` | Trading Cards | 237 | 35.5 | `█████████████` |
+| 5 | `thehobbyhouse` | Trading Cards | 237 | 35.3 | `█████████████` |
 | 6 | `vintagevault614` | Sports Cards | 231 | 36.4 | `█████████████` |
 | 7 | `pokeprospector` | Pokemon | 227 | 38.1 | `████████████` |
-| 8 | `sneakerstacks` | Sneakers | 215 | 35.6 | `████████████` |
-| 9 | `midwestmemorabilia` | Sports Cards | 196 | 35.0 | `███████████` |
+| 8 | `sneakerstacks` | Sneakers | 215 | 35.5 | `████████████` |
+| 9 | `midwestmemorabilia` | Sports Cards | 196 | 34.9 | `███████████` |
 | 10 | `comiccryptllc` | Comics | 194 | 38.1 | `███████████` |
-| 11 | `cardvaultbreaks` | Trading Cards | 189 | 38.2 | `██████████` |
+| 11 | `cardvaultbreaks` | Trading Cards | 189 | 38.1 | `██████████` |
 | 12 | `coinsbykyle` | Coins | 185 | 35.3 | `██████████` |
 | 13 | `buckeyebreaks` | Sports Cards | 182 | 36.5 | `██████████` |
 | 14 | `slabsanddabs` | Trading Cards | 147 | 34.7 | `████████` |
@@ -88,14 +88,14 @@ Sun  ▓▓░░░░··░░······░░░░░░░░▒▒▒�
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 36,837 | `██████████████████` |
-| Sports Cards | 30,809 | `███████████████` |
-| Pokemon | 22,104 | `███████████` |
-| Pop Culture | 7,991 | `████` |
+| Trading Cards | 36,865 | `██████████████████` |
+| Sports Cards | 30,846 | `███████████████` |
+| Pokemon | 22,170 | `███████████` |
+| Pop Culture | 8,039 | `████` |
 | Comics | 7,884 | `████` |
 | Coins | 7,422 | `████` |
-| Sneakers | 7,007 | `███` |
+| Sneakers | 7,036 | `███` |
 
 ---
 
-<sub>Updated 2026-08-15 18:46 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-15 20:36 UTC · times shown in America/New_York · demo data</sub>
