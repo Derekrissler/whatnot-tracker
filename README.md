@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (761 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **572** over 28.0 days |
+| Samples collected | **571** over 28.0 days |
 
 ## When to stream
 
@@ -41,8 +41,8 @@ Sun  ▒▒░░░░··░░······░░░░░░░░▒▒▒�
 12am  ███████████            26.0
  1am  ███████                16.1
  2am  █████                  10.6
- 3am  ███                    6.1
- 4am  ███                    8.0
+ 3am  ███                    6.2
+ 4am  ███                    7.5
  5am  ██                     3.8
  6am  ████                   8.5
  7am  ████                   9.0
@@ -79,18 +79,18 @@ Sun  ▒▒░░░░··░░······░░░░░░░░▒▒▒�
 | 9 | `midwestmemorabilia` | Sports Cards | 196 | 35.1 | `███████████` |
 | 10 | `cardvaultbreaks` | Trading Cards | 189 | 38.5 | `██████████` |
 | 11 | `coinsbykyle` | Coins | 185 | 35.2 | `██████████` |
-| 12 | `buckeyebreaks` | Sports Cards | 182 | 36.4 | `██████████` |
+| 12 | `buckeyebreaks` | Sports Cards | 182 | 36.6 | `██████████` |
 | 13 | `comiccryptllc` | Comics | 172 | 37.5 | `█████████` |
-| 14 | `slabsanddabs` | Trading Cards | 147 | 35.3 | `████████` |
-| 15 | `gradedgoods` | Pokemon | 119 | 30.5 | `██████` |
+| 14 | `slabsanddabs` | Trading Cards | 147 | 35.1 | `████████` |
+| 15 | `gradedgoods` | Pokemon | 119 | 30.6 | `██████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 36,984 | `██████████████████` |
-| Sports Cards | 30,524 | `███████████████` |
-| Pokemon | 22,345 | `███████████` |
+| Trading Cards | 36,989 | `██████████████████` |
+| Sports Cards | 30,519 | `███████████████` |
+| Pokemon | 22,334 | `███████████` |
 | Pop Culture | 8,237 | `████` |
 | Comics | 7,758 | `████` |
 | Coins | 7,430 | `████` |
@@ -98,4 +98,4 @@ Sun  ▒▒░░░░··░░······░░░░░░░░▒▒▒�
 
 ---
 
-<sub>Updated 2026-08-16 06:57 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-16 08:44 UTC · times shown in America/New_York · demo data</sub>
