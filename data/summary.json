@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-16T04:48:23+00:00",
+ "generated": "2026-08-16T06:57:09+00:00",
  "tz": "America/New_York",
- "samples": 573,
+ "samples": 572,
  "days_covered": 28.0,
  "grid": [
   {
@@ -1167,18 +1167,18 @@
   {
    "d": 6,
    "h": 1,
-   "n": 3,
+   "n": 2,
    "shows": 3.0,
-   "viewers": 42.0,
-   "vps": 14.0
+   "viewers": 45.0,
+   "vps": 15.0
   },
   {
    "d": 6,
    "h": 2,
    "n": 3,
    "shows": 1.7,
-   "viewers": 19.3,
-   "vps": 11.4
+   "viewers": 22.7,
+   "vps": 13.4
   },
   {
    "d": 6,
@@ -1359,17 +1359,17 @@
   },
   {
    "h": 1,
-   "n": 26,
+   "n": 25,
    "shows": 2.9,
-   "viewers": 46.3,
-   "vps": 16.0
+   "viewers": 46.7,
+   "vps": 16.1
   },
   {
    "h": 2,
    "n": 22,
    "shows": 1.2,
-   "viewers": 12.2,
-   "vps": 10.2
+   "viewers": 12.7,
+   "vps": 10.6
   },
   {
    "h": 3,
@@ -1545,15 +1545,15 @@
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 253,
-   "avg": 37.7,
-   "shows": 200
+   "avg": 37.6,
+   "shows": 201
   },
   {
    "name": "thehobbyhouse",
    "category": "Trading Cards",
    "peak": 237,
-   "avg": 35.3,
-   "shows": 189
+   "avg": 35.2,
+   "shows": 190
   },
   {
    "name": "vintagevault614",
@@ -1566,8 +1566,8 @@
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 227,
-   "avg": 38.2,
-   "shows": 197
+   "avg": 38.4,
+   "shows": 196
   },
   {
    "name": "sneakerstacks",
@@ -1580,15 +1580,15 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 196,
-   "avg": 34.8,
-   "shows": 220
+   "avg": 35.1,
+   "shows": 218
   },
   {
    "name": "cardvaultbreaks",
    "category": "Trading Cards",
    "peak": 189,
-   "avg": 38.4,
-   "shows": 195
+   "avg": 38.5,
+   "shows": 194
   },
   {
    "name": "coinsbykyle",
@@ -1601,8 +1601,8 @@
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 182,
-   "avg": 36.3,
-   "shows": 216
+   "avg": 36.4,
+   "shows": 215
   },
   {
    "name": "comiccryptllc",
@@ -1629,15 +1629,15 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 36992
+   "viewers": 36984
   },
   {
    "name": "Sports Cards",
-   "viewers": 30538
+   "viewers": 30524
   },
   {
    "name": "Pokemon",
-   "viewers": 22349
+   "viewers": 22345
   },
   {
    "name": "Pop Culture",
