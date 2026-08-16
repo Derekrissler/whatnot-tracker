@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-16T08:44:55+00:00",
+ "generated": "2026-08-16T10:37:39+00:00",
  "tz": "America/New_York",
- "samples": 571,
+ "samples": 570,
  "days_covered": 28.0,
  "grid": [
   {
@@ -1199,18 +1199,18 @@
   {
    "d": 6,
    "h": 5,
-   "n": 3,
+   "n": 2,
    "shows": 1.0,
-   "viewers": 3.7,
-   "vps": 3.7
+   "viewers": 3.0,
+   "vps": 3.0
   },
   {
    "d": 6,
    "h": 6,
    "n": 3,
    "shows": 1.0,
-   "viewers": 7.0,
-   "vps": 7.0
+   "viewers": 4.3,
+   "vps": 4.3
   },
   {
    "d": 6,
@@ -1387,17 +1387,17 @@
   },
   {
    "h": 5,
-   "n": 26,
+   "n": 25,
    "shows": 0.4,
-   "viewers": 1.5,
-   "vps": 3.8
+   "viewers": 1.4,
+   "vps": 3.5
   },
   {
    "h": 6,
    "n": 22,
    "shows": 1.0,
-   "viewers": 8.5,
-   "vps": 8.5
+   "viewers": 8.2,
+   "vps": 8.2
   },
   {
    "h": 7,
@@ -1535,18 +1535,18 @@
    "shows": 218
   },
   {
-   "name": "funkofinds",
-   "category": "Pop Culture",
-   "peak": 253,
-   "avg": 38.7,
-   "shows": 213
-  },
-  {
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 253,
    "avg": 37.6,
    "shows": 201
+  },
+  {
+   "name": "funkofinds",
+   "category": "Pop Culture",
+   "peak": 253,
+   "avg": 38.8,
+   "shows": 212
   },
   {
    "name": "thehobbyhouse",
@@ -1641,7 +1641,7 @@
   },
   {
    "name": "Pop Culture",
-   "viewers": 8237
+   "viewers": 8224
   },
   {
    "name": "Comics",
