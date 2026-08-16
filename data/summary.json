@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-16T10:37:39+00:00",
+ "generated": "2026-08-16T12:58:44+00:00",
  "tz": "America/New_York",
- "samples": 570,
+ "samples": 569,
  "days_covered": 28.0,
  "grid": [
   {
@@ -1215,18 +1215,18 @@
   {
    "d": 6,
    "h": 7,
-   "n": 3,
+   "n": 2,
    "shows": 2.0,
-   "viewers": 17.3,
-   "vps": 8.7
+   "viewers": 18.5,
+   "vps": 9.2
   },
   {
    "d": 6,
    "h": 8,
    "n": 3,
    "shows": 2.3,
-   "viewers": 30.0,
-   "vps": 13.0
+   "viewers": 24.3,
+   "vps": 10.6
   },
   {
    "d": 6,
@@ -1401,17 +1401,17 @@
   },
   {
    "h": 7,
-   "n": 26,
+   "n": 25,
    "shows": 1.2,
-   "viewers": 10.8,
-   "vps": 9.0
+   "viewers": 10.6,
+   "vps": 8.8
   },
   {
    "h": 8,
    "n": 22,
    "shows": 2.1,
-   "viewers": 21.3,
-   "vps": 10.1
+   "viewers": 20.5,
+   "vps": 9.8
   },
   {
    "h": 9,
@@ -1580,8 +1580,8 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 196,
-   "avg": 35.1,
-   "shows": 218
+   "avg": 34.9,
+   "shows": 219
   },
   {
    "name": "cardvaultbreaks",
@@ -1601,8 +1601,8 @@
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 182,
-   "avg": 36.6,
-   "shows": 214
+   "avg": 36.7,
+   "shows": 213
   },
   {
    "name": "comiccryptllc",
@@ -1622,8 +1622,8 @@
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 119,
-   "avg": 30.6,
-   "shows": 218
+   "avg": 30.7,
+   "shows": 216
   }
  ],
  "categories": [
@@ -1633,11 +1633,11 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 30519
+   "viewers": 30518
   },
   {
    "name": "Pokemon",
-   "viewers": 22334
+   "viewers": 22303
   },
   {
    "name": "Pop Culture",
