@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T07:14:27+00:00",
+ "generated": "2026-08-17T08:58:56+00:00",
  "tz": "America/New_York",
  "samples": 559,
  "days_covered": 28.0,
@@ -40,9 +40,9 @@
    "d": 0,
    "h": 4,
    "n": 4,
-   "shows": 0.2,
-   "viewers": 2.5,
-   "vps": 12.5
+   "shows": 0.5,
+   "viewers": 4.5,
+   "vps": 9.0
   },
   {
    "d": 0,
@@ -1382,8 +1382,8 @@
    "h": 4,
    "n": 23,
    "shows": 0.6,
-   "viewers": 4.5,
-   "vps": 7.5
+   "viewers": 4.9,
+   "vps": 8.2
   },
   {
    "h": 5,
@@ -1622,8 +1622,8 @@
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 119,
-   "avg": 30.7,
-   "shows": 209
+   "avg": 30.6,
+   "shows": 210
   }
  ],
  "categories": [
@@ -1637,7 +1637,7 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 21640
+   "viewers": 21648
   },
   {
    "name": "Pop Culture",

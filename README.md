@@ -16,7 +16,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 
 ```
      12a   3a    6a    9a    12p   3p    6p    9p
-Mon  ░░░░····░░····░░··░░░░░░▒▒▒▒▒▒▓▓▒▒██▓▓██▓▓████▓▓
+Mon  ░░░░··········░░··░░░░░░▒▒▒▒▒▒▓▓▒▒██▓▓██▓▓████▓▓
 Tue  ▒▒░░······  ······░░░░▒▒▒▒▒▒▒▒▓▓░░▓▓▒▒████████▒▒
 Wed  ▒▒░░········░░····░░░░░░░░░░▒▒▒▒▓▓▒▒▓▓▓▓██████▓▓
 Thu  ▒▒░░····░░······░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓██████▓▓
@@ -42,7 +42,7 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▓▓�
  1am  ███████                16.3
  2am  █████                  11.0
  3am  ███                    5.8
- 4am  ███                    7.5
+ 4am  ████                   8.2
  5am  ██                     3.5
  6am  ████                   8.2
  7am  ████                   8.8
@@ -82,7 +82,7 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▓▓�
 | 12 | `comiccryptllc` | Comics | 172 | 37.0 | `█████████` |
 | 13 | `buckeyebreaks` | Sports Cards | 167 | 35.0 | `█████████` |
 | 14 | `slabsanddabs` | Trading Cards | 147 | 34.7 | `████████` |
-| 15 | `gradedgoods` | Pokemon | 119 | 30.7 | `██████` |
+| 15 | `gradedgoods` | Pokemon | 119 | 30.6 | `██████` |
 
 ## Where the audience is
 
@@ -90,7 +90,7 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▓▓�
 |---|--:|---|
 | Trading Cards | 36,240 | `██████████████████` |
 | Sports Cards | 29,115 | `██████████████` |
-| Pokemon | 21,640 | `███████████` |
+| Pokemon | 21,648 | `███████████` |
 | Pop Culture | 7,970 | `████` |
 | Comics | 7,437 | `████` |
 | Coins | 7,310 | `████` |
@@ -98,4 +98,4 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▓▓�
 
 ---
 
-<sub>Updated 2026-08-17 07:14 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-17 08:58 UTC · times shown in America/New_York · demo data</sub>
