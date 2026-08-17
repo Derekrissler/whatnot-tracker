@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-17T08:58:56+00:00",
+ "generated": "2026-08-17T10:47:21+00:00",
  "tz": "America/New_York",
- "samples": 559,
+ "samples": 558,
  "days_covered": 28.0,
  "grid": [
   {
@@ -47,18 +47,18 @@
   {
    "d": 0,
    "h": 5,
-   "n": 4,
-   "shows": 0.2,
-   "viewers": 2.0,
-   "vps": 10.0
+   "n": 3,
+   "shows": 0.3,
+   "viewers": 2.7,
+   "vps": 9.0
   },
   {
    "d": 0,
    "h": 6,
    "n": 3,
    "shows": 1.0,
-   "viewers": 2.7,
-   "vps": 2.7
+   "viewers": 6.7,
+   "vps": 6.7
   },
   {
    "d": 0,
@@ -1387,7 +1387,7 @@
   },
   {
    "h": 5,
-   "n": 25,
+   "n": 24,
    "shows": 0.4,
    "viewers": 1.4,
    "vps": 3.5
@@ -1396,8 +1396,8 @@
    "h": 6,
    "n": 22,
    "shows": 1.0,
-   "viewers": 8.2,
-   "vps": 8.2
+   "viewers": 8.7,
+   "vps": 8.7
   },
   {
    "h": 7,
@@ -1531,8 +1531,8 @@
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 254,
-   "avg": 34.4,
-   "shows": 213
+   "avg": 34.3,
+   "shows": 214
   },
   {
    "name": "funkofinds",
@@ -1580,8 +1580,8 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 196,
-   "avg": 34.7,
-   "shows": 213
+   "avg": 34.9,
+   "shows": 212
   },
   {
    "name": "cardvaultbreaks",
@@ -1629,11 +1629,11 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 36240
+   "viewers": 36254
   },
   {
    "name": "Sports Cards",
-   "viewers": 29115
+   "viewers": 29113
   },
   {
    "name": "Pokemon",
