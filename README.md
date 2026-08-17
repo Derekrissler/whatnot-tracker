@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (750 viewers platform-wide) |
 | Most competition | **8pm** (15.1 shows live at once) |
-| Samples collected | **561** over 28.0 days |
+| Samples collected | **559** over 28.0 days |
 
 ## When to stream
 
@@ -39,9 +39,9 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▓▓�
 
 ```
 12am  ███████████            25.3
- 1am  ███████                16.1
- 2am  █████                  10.6
- 3am  ███                    6.2
+ 1am  ███████                16.3
+ 2am  █████                  11.0
+ 3am  ███                    5.8
  4am  ███                    7.5
  5am  ██                     3.5
  6am  ████                   8.2
@@ -68,17 +68,17 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▓▓�
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `charizardcorner` | Pokemon | 294 | 38.1 | `████████████████` |
+| 1 | `charizardcorner` | Pokemon | 294 | 38.3 | `████████████████` |
 | 2 | `ripcityrips` | Trading Cards | 254 | 34.4 | `██████████████` |
 | 3 | `funkofinds` | Pop Culture | 253 | 38.5 | `██████████████` |
 | 4 | `pristinepulls` | Sports Cards | 253 | 37.4 | `██████████████` |
 | 5 | `thehobbyhouse` | Trading Cards | 237 | 36.2 | `█████████████` |
 | 6 | `vintagevault614` | Sports Cards | 231 | 34.9 | `█████████████` |
 | 7 | `pokeprospector` | Pokemon | 227 | 38.3 | `████████████` |
-| 8 | `sneakerstacks` | Sneakers | 215 | 35.0 | `████████████` |
-| 9 | `midwestmemorabilia` | Sports Cards | 196 | 34.6 | `███████████` |
+| 8 | `sneakerstacks` | Sneakers | 215 | 35.2 | `████████████` |
+| 9 | `midwestmemorabilia` | Sports Cards | 196 | 34.7 | `███████████` |
 | 10 | `cardvaultbreaks` | Trading Cards | 189 | 38.6 | `██████████` |
-| 11 | `coinsbykyle` | Coins | 185 | 35.2 | `██████████` |
+| 11 | `coinsbykyle` | Coins | 185 | 35.3 | `██████████` |
 | 12 | `comiccryptllc` | Comics | 172 | 37.0 | `█████████` |
 | 13 | `buckeyebreaks` | Sports Cards | 167 | 35.0 | `█████████` |
 | 14 | `slabsanddabs` | Trading Cards | 147 | 34.7 | `████████` |
@@ -89,13 +89,13 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▓▓�
 | Category | Viewer-samples | |
 |---|--:|---|
 | Trading Cards | 36,240 | `██████████████████` |
-| Sports Cards | 29,127 | `██████████████` |
-| Pokemon | 21,641 | `███████████` |
+| Sports Cards | 29,115 | `██████████████` |
+| Pokemon | 21,640 | `███████████` |
 | Pop Culture | 7,970 | `████` |
 | Comics | 7,437 | `████` |
-| Coins | 7,327 | `████` |
-| Sneakers | 6,694 | `███` |
+| Coins | 7,310 | `████` |
+| Sneakers | 6,684 | `███` |
 
 ---
 
-<sub>Updated 2026-08-17 04:55 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-17 07:14 UTC · times shown in America/New_York · demo data</sub>
