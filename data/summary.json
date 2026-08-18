@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-18T08:51:49+00:00",
+ "generated": "2026-08-18T10:44:48+00:00",
  "tz": "America/New_York",
- "samples": 547,
+ "samples": 546,
  "days_covered": 28.0,
  "grid": [
   {
@@ -239,7 +239,7 @@
   {
    "d": 1,
    "h": 5,
-   "n": 4,
+   "n": 3,
    "shows": 0.0,
    "viewers": 0.0,
    "vps": 0
@@ -249,8 +249,8 @@
    "h": 6,
    "n": 3,
    "shows": 1.0,
-   "viewers": 9.7,
-   "vps": 9.7
+   "viewers": 10.0,
+   "vps": 10.0
   },
   {
    "d": 1,
@@ -1387,17 +1387,17 @@
   },
   {
    "h": 5,
-   "n": 24,
+   "n": 23,
    "shows": 0.4,
-   "viewers": 1.4,
-   "vps": 3.5
+   "viewers": 1.5,
+   "vps": 3.8
   },
   {
    "h": 6,
    "n": 22,
    "shows": 1.0,
-   "viewers": 8.7,
-   "vps": 8.7
+   "viewers": 8.8,
+   "vps": 8.8
   },
   {
    "h": 7,
@@ -1531,8 +1531,8 @@
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 254,
-   "avg": 34.3,
-   "shows": 211
+   "avg": 34.5,
+   "shows": 210
   },
   {
    "name": "pristinepulls",
@@ -1545,8 +1545,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 253,
-   "avg": 39.0,
-   "shows": 200
+   "avg": 38.8,
+   "shows": 201
   },
   {
    "name": "thehobbyhouse",
@@ -1629,7 +1629,7 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 35890
+   "viewers": 35888
   },
   {
    "name": "Sports Cards",
@@ -1641,7 +1641,7 @@
   },
   {
    "name": "Pop Culture",
-   "viewers": 7803
+   "viewers": 7806
   },
   {
    "name": "Comics",
