@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-19T08:52:40+00:00",
+ "generated": "2026-08-19T10:44:36+00:00",
  "tz": "America/New_York",
- "samples": 535,
+ "samples": 534,
  "days_covered": 28.0,
  "grid": [
   {
@@ -431,18 +431,18 @@
   {
    "d": 2,
    "h": 5,
-   "n": 4,
-   "shows": 0.5,
-   "viewers": 1.2,
-   "vps": 2.4
+   "n": 3,
+   "shows": 0.3,
+   "viewers": 1.3,
+   "vps": 4.3
   },
   {
    "d": 2,
    "h": 6,
    "n": 3,
    "shows": 1.0,
-   "viewers": 11.7,
-   "vps": 11.7
+   "viewers": 3.7,
+   "vps": 3.7
   },
   {
    "d": 2,
@@ -1387,7 +1387,7 @@
   },
   {
    "h": 5,
-   "n": 23,
+   "n": 22,
    "shows": 0.4,
    "viewers": 1.5,
    "vps": 3.8
@@ -1396,8 +1396,8 @@
    "h": 6,
    "n": 22,
    "shows": 1.0,
-   "viewers": 8.8,
-   "vps": 8.8
+   "viewers": 7.7,
+   "vps": 7.7
   },
   {
    "h": 7,
@@ -1539,7 +1539,7 @@
    "category": "Pop Culture",
    "peak": 253,
    "avg": 39.6,
-   "shows": 191
+   "shows": 190
   },
   {
    "name": "pristinepulls",
@@ -1566,8 +1566,8 @@
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 227,
-   "avg": 37.5,
-   "shows": 183
+   "avg": 37.3,
+   "shows": 184
   },
   {
    "name": "sneakerstacks",
@@ -1629,7 +1629,7 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 34982
+   "viewers": 34981
   },
   {
    "name": "Sports Cards",
@@ -1637,11 +1637,11 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 20743
+   "viewers": 20746
   },
   {
    "name": "Pop Culture",
-   "viewers": 7555
+   "viewers": 7528
   },
   {
    "name": "Comics",
