@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-19T14:51:31+00:00",
+ "generated": "2026-08-19T16:45:08+00:00",
  "tz": "America/New_York",
- "samples": 532,
+ "samples": 531,
  "days_covered": 28.0,
  "grid": [
   {
@@ -479,18 +479,18 @@
   {
    "d": 2,
    "h": 11,
-   "n": 4,
-   "shows": 3.2,
-   "viewers": 56.0,
-   "vps": 17.5
+   "n": 3,
+   "shows": 3.3,
+   "viewers": 62.0,
+   "vps": 18.8
   },
   {
    "d": 2,
    "h": 12,
    "n": 3,
-   "shows": 4.7,
-   "viewers": 79.3,
-   "vps": 16.9
+   "shows": 4.3,
+   "viewers": 74.0,
+   "vps": 17.2
   },
   {
    "d": 2,
@@ -1429,17 +1429,17 @@
   },
   {
    "h": 11,
-   "n": 23,
-   "shows": 3.8,
-   "viewers": 79.9,
+   "n": 22,
+   "shows": 3.9,
+   "viewers": 81.8,
    "vps": 21.0
   },
   {
    "h": 12,
    "n": 22,
-   "shows": 4.9,
-   "viewers": 114.0,
-   "vps": 23.3
+   "shows": 4.8,
+   "viewers": 113.3,
+   "vps": 23.6
   },
   {
    "h": 13,
@@ -1524,8 +1524,8 @@
    "name": "charizardcorner",
    "category": "Pokemon",
    "peak": 294,
-   "avg": 39.5,
-   "shows": 196
+   "avg": 39.6,
+   "shows": 194
   },
   {
    "name": "ripcityrips",
@@ -1538,8 +1538,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 253,
-   "avg": 39.6,
-   "shows": 190
+   "avg": 39.8,
+   "shows": 189
   },
   {
    "name": "pristinepulls",
@@ -1559,8 +1559,8 @@
    "name": "vintagevault614",
    "category": "Sports Cards",
    "peak": 231,
-   "avg": 34.9,
-   "shows": 195
+   "avg": 34.8,
+   "shows": 196
   },
   {
    "name": "pokeprospector",
@@ -1608,40 +1608,40 @@
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 167,
-   "avg": 35.9,
+   "avg": 35.8,
    "shows": 197
   },
   {
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 147,
-   "avg": 34.7,
-   "shows": 207
+   "avg": 34.8,
+   "shows": 205
   },
   {
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 119,
-   "avg": 30.3,
-   "shows": 202
+   "avg": 30.4,
+   "shows": 203
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 35010
+   "viewers": 34957
   },
   {
    "name": "Sports Cards",
-   "viewers": 27993
+   "viewers": 28007
   },
   {
    "name": "Pokemon",
-   "viewers": 20669
+   "viewers": 20665
   },
   {
    "name": "Pop Culture",
-   "viewers": 7528
+   "viewers": 7517
   },
   {
    "name": "Comics",
