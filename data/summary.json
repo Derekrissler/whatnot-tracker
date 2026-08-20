@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T13:09:13+00:00",
+ "generated": "2026-08-20T14:53:21+00:00",
  "tz": "America/New_York",
  "samples": 520,
  "days_covered": 28.0,
@@ -665,8 +665,8 @@
    "h": 10,
    "n": 3,
    "shows": 3.0,
-   "viewers": 44.0,
-   "vps": 14.7
+   "viewers": 37.7,
+   "vps": 12.6
   },
   {
    "d": 3,
@@ -1424,8 +1424,8 @@
    "h": 10,
    "n": 22,
    "shows": 3.4,
-   "viewers": 70.6,
-   "vps": 20.8
+   "viewers": 69.7,
+   "vps": 20.5
   },
   {
    "h": 11,
@@ -1538,8 +1538,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 253,
-   "avg": 39.9,
-   "shows": 187
+   "avg": 39.8,
+   "shows": 188
   },
   {
    "name": "pristinepulls",
@@ -1588,7 +1588,7 @@
    "category": "Trading Cards",
    "peak": 189,
    "avg": 38.2,
-   "shows": 182
+   "shows": 181
   },
   {
    "name": "coinsbykyle",
@@ -1601,8 +1601,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 172,
-   "avg": 36.8,
-   "shows": 192
+   "avg": 36.7,
+   "shows": 193
   },
   {
    "name": "buckeyebreaks",
@@ -1623,29 +1623,29 @@
    "category": "Pokemon",
    "peak": 119,
    "avg": 30.5,
-   "shows": 197
+   "shows": 196
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 34240
+   "viewers": 34209
   },
   {
    "name": "Sports Cards",
-   "viewers": 27520
+   "viewers": 27513
   },
   {
    "name": "Pokemon",
-   "viewers": 20391
+   "viewers": 20369
   },
   {
    "name": "Pop Culture",
-   "viewers": 7458
+   "viewers": 7482
   },
   {
    "name": "Comics",
-   "viewers": 7074
+   "viewers": 7091
   },
   {
    "name": "Coins",
