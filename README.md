@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (768 viewers platform-wide) |
 | Most competition | **8pm** (15.2 shows live at once) |
-| Samples collected | **525** over 28.0 days |
+| Samples collected | **523** over 28.0 days |
 
 ## When to stream
 
@@ -39,9 +39,9 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒�
 
 ```
 12am  ███████████            26.1
- 1am  ███████                16.7
- 2am  █████                  10.8
- 3am  ██                     5.7
+ 1am  ███████                16.8
+ 2am  █████                  11.2
+ 3am  ███                    6.2
  4am  ███                    8.0
  5am  ██                     3.8
  6am  ███                    7.7
@@ -75,27 +75,27 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒�
 | 5 | `thehobbyhouse` | Trading Cards | 237 | 37.5 | `█████████████` |
 | 6 | `vintagevault614` | Sports Cards | 231 | 34.5 | `█████████████` |
 | 7 | `pokeprospector` | Pokemon | 227 | 37.2 | `████████████` |
-| 8 | `sneakerstacks` | Sneakers | 215 | 34.5 | `████████████` |
-| 9 | `midwestmemorabilia` | Sports Cards | 196 | 33.7 | `███████████` |
+| 8 | `sneakerstacks` | Sneakers | 215 | 34.7 | `████████████` |
+| 9 | `midwestmemorabilia` | Sports Cards | 196 | 33.8 | `███████████` |
 | 10 | `cardvaultbreaks` | Trading Cards | 189 | 38.2 | `██████████` |
 | 11 | `coinsbykyle` | Coins | 185 | 36.0 | `██████████` |
 | 12 | `comiccryptllc` | Comics | 172 | 36.8 | `█████████` |
 | 13 | `buckeyebreaks` | Sports Cards | 167 | 35.8 | `█████████` |
-| 14 | `slabsanddabs` | Trading Cards | 147 | 35.1 | `████████` |
+| 14 | `slabsanddabs` | Trading Cards | 147 | 35.3 | `████████` |
 | 15 | `gradedgoods` | Pokemon | 119 | 30.5 | `██████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 34,284 | `██████████████████` |
-| Sports Cards | 27,524 | `██████████████` |
+| Trading Cards | 34,250 | `██████████████████` |
+| Sports Cards | 27,517 | `██████████████` |
 | Pokemon | 20,391 | `███████████` |
 | Pop Culture | 7,458 | `████` |
 | Comics | 7,074 | `████` |
 | Coins | 7,026 | `████` |
-| Sneakers | 6,352 | `███` |
+| Sneakers | 6,350 | `███` |
 
 ---
 
-<sub>Updated 2026-08-20 04:51 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-20 07:04 UTC · times shown in America/New_York · demo data</sub>
