@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (768 viewers platform-wide) |
 | Most competition | **8pm** (15.2 shows live at once) |
-| Samples collected | **517** over 28.0 days |
+| Samples collected | **516** over 28.0 days |
 
 ## When to stream
 
@@ -55,8 +55,8 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒�
  2pm  ████████████           27.7
  3pm  ████████████           28.7
  4pm  █████████████          30.2
- 5pm  ████████████████       37.0
- 6pm  █████████████████      39.8
+ 5pm  ████████████████       37.5
+ 6pm  █████████████████      39.6
  7pm  ████████████████████   46.0
  8pm  ██████████████████████ 50.5
  9pm  ██████████████████████ 50.7
@@ -69,33 +69,33 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒�
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
 | 1 | `charizardcorner` | Pokemon | 294 | 39.9 | `████████████████` |
-| 2 | `ripcityrips` | Trading Cards | 254 | 35.4 | `██████████████` |
-| 3 | `pristinepulls` | Sports Cards | 253 | 38.7 | `██████████████` |
-| 4 | `funkofinds` | Pop Culture | 253 | 40.2 | `██████████████` |
+| 2 | `ripcityrips` | Trading Cards | 254 | 35.5 | `██████████████` |
+| 3 | `funkofinds` | Pop Culture | 253 | 40.3 | `██████████████` |
+| 4 | `pristinepulls` | Sports Cards | 253 | 38.9 | `██████████████` |
 | 5 | `thehobbyhouse` | Trading Cards | 237 | 37.9 | `█████████████` |
-| 6 | `vintagevault614` | Sports Cards | 231 | 34.5 | `█████████████` |
+| 6 | `vintagevault614` | Sports Cards | 231 | 34.3 | `█████████████` |
 | 7 | `pokeprospector` | Pokemon | 227 | 36.9 | `████████████` |
 | 8 | `sneakerstacks` | Sneakers | 215 | 34.9 | `████████████` |
-| 9 | `midwestmemorabilia` | Sports Cards | 196 | 33.8 | `███████████` |
+| 9 | `midwestmemorabilia` | Sports Cards | 196 | 33.7 | `███████████` |
 | 10 | `cardvaultbreaks` | Trading Cards | 189 | 38.2 | `██████████` |
 | 11 | `coinsbykyle` | Coins | 185 | 36.6 | `██████████` |
-| 12 | `comiccryptllc` | Comics | 172 | 36.6 | `█████████` |
+| 12 | `comiccryptllc` | Comics | 172 | 36.5 | `█████████` |
 | 13 | `buckeyebreaks` | Sports Cards | 167 | 36.0 | `█████████` |
-| 14 | `slabsanddabs` | Trading Cards | 147 | 35.4 | `████████` |
-| 15 | `gradedgoods` | Pokemon | 119 | 30.5 | `██████` |
+| 14 | `slabsanddabs` | Trading Cards | 147 | 35.6 | `████████` |
+| 15 | `gradedgoods` | Pokemon | 119 | 30.6 | `██████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 34,208 | `██████████████████` |
-| Sports Cards | 27,488 | `██████████████` |
-| Pokemon | 20,260 | `███████████` |
-| Pop Culture | 7,512 | `████` |
-| Comics | 6,993 | `████` |
-| Coins | 6,983 | `████` |
-| Sneakers | 6,250 | `███` |
+| Trading Cards | 34,193 | `██████████████████` |
+| Sports Cards | 27,380 | `██████████████` |
+| Pokemon | 20,301 | `███████████` |
+| Pop Culture | 7,574 | `████` |
+| Coins | 6,990 | `████` |
+| Comics | 6,942 | `████` |
+| Sneakers | 6,247 | `███` |
 
 ---
 
-<sub>Updated 2026-08-20 20:44 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-20 22:42 UTC · times shown in America/New_York · demo data</sub>
