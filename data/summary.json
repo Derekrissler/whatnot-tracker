@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-20T08:54:40+00:00",
+ "generated": "2026-08-20T10:45:37+00:00",
  "tz": "America/New_York",
- "samples": 523,
+ "samples": 522,
  "days_covered": 28.0,
  "grid": [
   {
@@ -623,18 +623,18 @@
   {
    "d": 3,
    "h": 5,
-   "n": 4,
-   "shows": 0.5,
-   "viewers": 1.5,
-   "vps": 3.0
+   "n": 3,
+   "shows": 0.3,
+   "viewers": 0.3,
+   "vps": 1.0
   },
   {
    "d": 3,
    "h": 6,
    "n": 3,
    "shows": 1.0,
-   "viewers": 4.0,
-   "vps": 4.0
+   "viewers": 3.7,
+   "vps": 3.7
   },
   {
    "d": 3,
@@ -1387,17 +1387,17 @@
   },
   {
    "h": 5,
-   "n": 22,
-   "shows": 0.4,
-   "viewers": 1.5,
-   "vps": 3.8
+   "n": 21,
+   "shows": 0.3,
+   "viewers": 1.3,
+   "vps": 4.3
   },
   {
    "h": 6,
    "n": 22,
    "shows": 1.0,
-   "viewers": 7.7,
-   "vps": 7.7
+   "viewers": 7.6,
+   "vps": 7.6
   },
   {
    "h": 7,
@@ -1531,15 +1531,8 @@
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 254,
-   "avg": 35.1,
-   "shows": 198
-  },
-  {
-   "name": "pristinepulls",
-   "category": "Sports Cards",
-   "peak": 253,
-   "avg": 38.8,
-   "shows": 185
+   "avg": 35.2,
+   "shows": 197
   },
   {
    "name": "funkofinds",
@@ -1547,6 +1540,13 @@
    "peak": 253,
    "avg": 39.9,
    "shows": 187
+  },
+  {
+   "name": "pristinepulls",
+   "category": "Sports Cards",
+   "peak": 253,
+   "avg": 39.0,
+   "shows": 184
   },
   {
    "name": "thehobbyhouse",
@@ -1580,8 +1580,8 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 196,
-   "avg": 33.8,
-   "shows": 199
+   "avg": 33.7,
+   "shows": 200
   },
   {
    "name": "cardvaultbreaks",
@@ -1629,11 +1629,11 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 34250
+   "viewers": 34246
   },
   {
    "name": "Sports Cards",
-   "viewers": 27517
+   "viewers": 27515
   },
   {
    "name": "Pokemon",
