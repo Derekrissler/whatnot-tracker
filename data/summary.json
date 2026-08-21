@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T07:05:43+00:00",
+ "generated": "2026-08-21T08:56:03+00:00",
  "tz": "America/New_York",
  "samples": 511,
  "days_covered": 28.0,
@@ -809,8 +809,8 @@
    "h": 4,
    "n": 3,
    "shows": 0.3,
-   "viewers": 2.3,
-   "vps": 7.7
+   "viewers": 4.0,
+   "vps": 13.3
   },
   {
    "d": 4,
@@ -1382,8 +1382,8 @@
    "h": 4,
    "n": 23,
    "shows": 0.6,
-   "viewers": 4.8,
-   "vps": 8.0
+   "viewers": 5.0,
+   "vps": 8.3
   },
   {
    "h": 5,
@@ -1538,8 +1538,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 253,
-   "avg": 40.7,
-   "shows": 184
+   "avg": 40.9,
+   "shows": 183
   },
   {
    "name": "pristinepulls",
@@ -1629,7 +1629,7 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 33534
+   "viewers": 33546
   },
   {
    "name": "Sports Cards",
@@ -1641,7 +1641,7 @@
   },
   {
    "name": "Pop Culture",
-   "viewers": 7484
+   "viewers": 7477
   },
   {
    "name": "Coins",
