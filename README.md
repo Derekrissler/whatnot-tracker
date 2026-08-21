@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (771 viewers platform-wide) |
 | Most competition | **8pm** (15.2 shows live at once) |
-| Samples collected | **511** over 28.0 days |
+| Samples collected | **510** over 28.0 days |
 
 ## When to stream
 
@@ -20,7 +20,7 @@ Mon  ░░░░··········░░░░░░░░░░▓▓▒▒�
 Tue  ▒▒░░······  ······░░░░▒▒░░▒▒▒▒▓▓░░▓▓▒▒▓▓██▓▓▓▓▓▓
 Wed  ▒▒░░░░··  ········░░░░░░░░░░▒▒▒▒▓▓▒▒▒▒██████▓▓▒▒
 Thu  ▒▒░░····░░······░░··░░░░░░▒▒▒▒▒▒░░▒▒▓▓▓▓██▓▓▓▓▓▓
-Fri  ▒▒░░····░░  ······░░░░░░░░▒▒▒▒░░▒▒▒▒▓▓▓▓██▓▓██▒▒
+Fri  ▒▒░░····░░  ░░····░░░░░░░░▒▒▒▒░░▒▒▒▒▓▓▓▓██▓▓██▒▒
 Sat  ▒▒░░░░······░░··░░░░▒▒░░░░▒▒▒▒▒▒▒▒▓▓████████████
 Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒▒▒▒▒▒▒▓▓▓▓██████▓▓▓▓
 
@@ -43,8 +43,8 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒�
  2am  █████                  11.1
  3am  ██                     5.7
  4am  ████                   8.3
- 5am  ██                     4.3
- 6am  ███                    7.6
+ 5am  ██                     4.7
+ 6am  ████                   8.3
  7am  ████                   9.4
  8am  █████                  10.8
  9am  ██████                 14.6
@@ -76,7 +76,7 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒�
 | 6 | `vintagevault614` | Sports Cards | 231 | 34.3 | `█████████████` |
 | 7 | `pokeprospector` | Pokemon | 227 | 37.1 | `████████████` |
 | 8 | `sneakerstacks` | Sneakers | 215 | 34.2 | `████████████` |
-| 9 | `cardvaultbreaks` | Trading Cards | 189 | 37.8 | `██████████` |
+| 9 | `cardvaultbreaks` | Trading Cards | 189 | 38.0 | `██████████` |
 | 10 | `coinsbykyle` | Coins | 185 | 36.5 | `██████████` |
 | 11 | `comiccryptllc` | Comics | 172 | 36.2 | `█████████` |
 | 12 | `buckeyebreaks` | Sports Cards | 167 | 36.2 | `█████████` |
@@ -88,14 +88,14 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒�
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 33,546 | `██████████████████` |
+| Trading Cards | 33,543 | `██████████████████` |
 | Sports Cards | 26,768 | `██████████████` |
 | Pokemon | 20,104 | `███████████` |
 | Pop Culture | 7,477 | `████` |
 | Coins | 6,819 | `████` |
 | Comics | 6,763 | `████` |
-| Sneakers | 6,028 | `███` |
+| Sneakers | 6,046 | `███` |
 
 ---
 
-<sub>Updated 2026-08-21 08:56 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-21 10:45 UTC · times shown in America/New_York · demo data</sub>
