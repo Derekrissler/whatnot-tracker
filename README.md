@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (771 viewers platform-wide) |
 | Most competition | **8pm** (15.2 shows live at once) |
-| Samples collected | **513** over 28.0 days |
+| Samples collected | **511** over 28.0 days |
 
 ## When to stream
 
@@ -39,9 +39,9 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒�
 
 ```
 12am  ████████████           27.1
- 1am  ███████                16.8
- 2am  █████                  11.2
- 3am  ███                    6.2
+ 1am  ███████                16.9
+ 2am  █████                  11.1
+ 3am  ██                     5.7
  4am  ███                    8.0
  5am  ██                     4.3
  6am  ███                    7.6
@@ -68,10 +68,10 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒�
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `charizardcorner` | Pokemon | 294 | 39.2 | `████████████████` |
+| 1 | `charizardcorner` | Pokemon | 294 | 39.4 | `████████████████` |
 | 2 | `ripcityrips` | Trading Cards | 254 | 34.3 | `██████████████` |
-| 3 | `pristinepulls` | Sports Cards | 253 | 38.8 | `██████████████` |
-| 4 | `funkofinds` | Pop Culture | 253 | 40.7 | `██████████████` |
+| 3 | `funkofinds` | Pop Culture | 253 | 40.7 | `██████████████` |
+| 4 | `pristinepulls` | Sports Cards | 253 | 39.0 | `██████████████` |
 | 5 | `thehobbyhouse` | Trading Cards | 237 | 38.5 | `█████████████` |
 | 6 | `vintagevault614` | Sports Cards | 231 | 34.3 | `█████████████` |
 | 7 | `pokeprospector` | Pokemon | 227 | 37.1 | `████████████` |
@@ -79,18 +79,18 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒�
 | 9 | `cardvaultbreaks` | Trading Cards | 189 | 37.8 | `██████████` |
 | 10 | `coinsbykyle` | Coins | 185 | 36.5 | `██████████` |
 | 11 | `comiccryptllc` | Comics | 172 | 36.2 | `█████████` |
-| 12 | `buckeyebreaks` | Sports Cards | 167 | 36.0 | `█████████` |
-| 13 | `midwestmemorabilia` | Sports Cards | 163 | 32.7 | `█████████` |
-| 14 | `slabsanddabs` | Trading Cards | 147 | 35.5 | `████████` |
+| 12 | `buckeyebreaks` | Sports Cards | 167 | 36.2 | `█████████` |
+| 13 | `midwestmemorabilia` | Sports Cards | 163 | 32.5 | `█████████` |
+| 14 | `slabsanddabs` | Trading Cards | 147 | 35.6 | `████████` |
 | 15 | `gradedgoods` | Pokemon | 119 | 30.9 | `██████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 33,560 | `██████████████████` |
-| Sports Cards | 26,783 | `██████████████` |
-| Pokemon | 20,138 | `███████████` |
+| Trading Cards | 33,534 | `██████████████████` |
+| Sports Cards | 26,768 | `██████████████` |
+| Pokemon | 20,104 | `███████████` |
 | Pop Culture | 7,484 | `████` |
 | Coins | 6,819 | `████` |
 | Comics | 6,763 | `████` |
@@ -98,4 +98,4 @@ Sun  ▒▒░░░░··░░········░░░░░░▒▒▒▒�
 
 ---
 
-<sub>Updated 2026-08-21 04:52 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-21 07:05 UTC · times shown in America/New_York · demo data</sub>
