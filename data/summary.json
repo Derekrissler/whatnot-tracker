@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T13:00:28+00:00",
+ "generated": "2026-08-23T14:36:25+00:00",
  "tz": "America/New_York",
  "samples": 484,
  "days_covered": 28.0,
@@ -1240,9 +1240,9 @@
    "d": 6,
    "h": 10,
    "n": 3,
-   "shows": 4.0,
-   "viewers": 76.0,
-   "vps": 19.0
+   "shows": 3.7,
+   "viewers": 53.7,
+   "vps": 14.5
   },
   {
    "d": 6,
@@ -1424,8 +1424,8 @@
    "h": 10,
    "n": 22,
    "shows": 3.4,
-   "viewers": 67.1,
-   "vps": 19.7
+   "viewers": 64.1,
+   "vps": 18.9
   },
   {
    "h": 11,
@@ -1524,8 +1524,8 @@
    "name": "charizardcorner",
    "category": "Pokemon",
    "peak": 294,
-   "avg": 40.0,
-   "shows": 182
+   "avg": 40.2,
+   "shows": 181
   },
   {
    "name": "funkofinds",
@@ -1573,15 +1573,15 @@
    "name": "cardvaultbreaks",
    "category": "Trading Cards",
    "peak": 189,
-   "avg": 37.0,
-   "shows": 166
+   "avg": 36.9,
+   "shows": 167
   },
   {
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 185,
-   "avg": 34.9,
-   "shows": 178
+   "avg": 35.0,
+   "shows": 177
   },
   {
    "name": "ripcityrips",
@@ -1601,15 +1601,15 @@
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 167,
-   "avg": 37.7,
-   "shows": 174
+   "avg": 37.5,
+   "shows": 175
   },
   {
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 163,
-   "avg": 32.6,
-   "shows": 186
+   "avg": 32.4,
+   "shows": 185
   },
   {
    "name": "slabsanddabs",
@@ -1629,15 +1629,15 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 31478
+   "viewers": 31500
   },
   {
    "name": "Sports Cards",
-   "viewers": 25650
+   "viewers": 25582
   },
   {
    "name": "Pokemon",
-   "viewers": 19000
+   "viewers": 18993
   },
   {
    "name": "Pop Culture",
@@ -1649,7 +1649,7 @@
   },
   {
    "name": "Coins",
-   "viewers": 6207
+   "viewers": 6193
   },
   {
    "name": "Sneakers",
