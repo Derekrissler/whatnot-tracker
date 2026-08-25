@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-25T08:57:52+00:00",
+ "generated": "2026-08-25T10:48:05+00:00",
  "tz": "America/New_York",
- "samples": 463,
+ "samples": 462,
  "days_covered": 28.0,
  "grid": [
   {
@@ -239,7 +239,7 @@
   {
    "d": 1,
    "h": 5,
-   "n": 3,
+   "n": 2,
    "shows": 0.0,
    "viewers": 0.0,
    "vps": 0
@@ -249,8 +249,8 @@
    "h": 6,
    "n": 3,
    "shows": 1.0,
-   "viewers": 10.0,
-   "vps": 10.0
+   "viewers": 8.7,
+   "vps": 8.7
   },
   {
    "d": 1,
@@ -1387,17 +1387,17 @@
   },
   {
    "h": 5,
-   "n": 18,
+   "n": 17,
    "shows": 0.3,
-   "viewers": 1.3,
-   "vps": 4.3
+   "viewers": 1.4,
+   "vps": 4.7
   },
   {
    "h": 6,
    "n": 22,
    "shows": 1.0,
-   "viewers": 7.4,
-   "vps": 7.4
+   "viewers": 7.2,
+   "vps": 7.2
   },
   {
    "h": 7,
@@ -1594,8 +1594,8 @@
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 181,
-   "avg": 34.7,
-   "shows": 166
+   "avg": 34.5,
+   "shows": 167
   },
   {
    "name": "cardvaultbreaks",
@@ -1615,8 +1615,8 @@
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 147,
-   "avg": 35.4,
-   "shows": 171
+   "avg": 35.5,
+   "shows": 170
   },
   {
    "name": "midwestmemorabilia",
@@ -1629,7 +1629,7 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 30217
+   "viewers": 30213
   },
   {
    "name": "Sports Cards",
