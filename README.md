@@ -70,32 +70,32 @@ Sun  ▒▒··░░░░··········░░░░░░░░▒▒▒
 |--:|---|---|--:|--:|---|
 | 1 | `charizardcorner` | Pokemon | 294 | 39.4 | `████████████████` |
 | 2 | `thecardcave` | Trading Cards | 283 | 38.6 | `███████████████` |
-| 3 | `comiccryptllc` | Comics | 254 | 36.2 | `██████████████` |
-| 4 | `pristinepulls` | Sports Cards | 253 | 38.5 | `██████████████` |
-| 5 | `funkofinds` | Pop Culture | 253 | 40.1 | `██████████████` |
+| 3 | `comiccryptllc` | Comics | 254 | 36.3 | `██████████████` |
+| 4 | `funkofinds` | Pop Culture | 253 | 40.1 | `██████████████` |
+| 5 | `pristinepulls` | Sports Cards | 253 | 38.5 | `██████████████` |
 | 6 | `thehobbyhouse` | Trading Cards | 237 | 39.2 | `█████████████` |
 | 7 | `vintagevault614` | Sports Cards | 231 | 36.6 | `█████████████` |
 | 8 | `pokeprospector` | Pokemon | 227 | 37.0 | `████████████` |
 | 9 | `sneakerstacks` | Sneakers | 215 | 32.8 | `████████████` |
-| 10 | `coinsbykyle` | Coins | 185 | 34.6 | `██████████` |
-| 11 | `ripcityrips` | Trading Cards | 181 | 34.6 | `██████████` |
+| 10 | `coinsbykyle` | Coins | 185 | 34.5 | `██████████` |
+| 11 | `ripcityrips` | Trading Cards | 181 | 34.8 | `██████████` |
 | 12 | `cardvaultbreaks` | Trading Cards | 173 | 35.1 | `█████████` |
 | 13 | `buckeyebreaks` | Sports Cards | 167 | 35.8 | `█████████` |
-| 14 | `slabsanddabs` | Trading Cards | 147 | 35.5 | `████████` |
+| 14 | `slabsanddabs` | Trading Cards | 147 | 35.4 | `████████` |
 | 15 | `midwestmemorabilia` | Sports Cards | 133 | 30.8 | `███████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 30,195 | `██████████████████` |
-| Sports Cards | 23,740 | `██████████████` |
-| Pokemon | 17,959 | `███████████` |
+| Trading Cards | 30,277 | `██████████████████` |
+| Sports Cards | 23,675 | `██████████████` |
+| Pokemon | 17,996 | `███████████` |
 | Pop Culture | 6,617 | `████` |
-| Comics | 5,969 | `████` |
-| Coins | 5,708 | `███` |
+| Comics | 5,949 | `████` |
+| Coins | 5,729 | `███` |
 | Sneakers | 5,648 | `███` |
 
 ---
 
-<sub>Updated 2026-08-25 03:11 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-25 04:51 UTC · times shown in America/New_York · demo data</sub>
