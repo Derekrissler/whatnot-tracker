@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T09:00:41+00:00",
+ "generated": "2026-08-26T10:50:03+00:00",
  "tz": "America/New_York",
  "samples": 450,
  "days_covered": 28.0,
@@ -441,8 +441,8 @@
    "h": 6,
    "n": 3,
    "shows": 1.0,
-   "viewers": 3.7,
-   "vps": 3.7
+   "viewers": 2.7,
+   "vps": 2.7
   },
   {
    "d": 2,
@@ -1396,8 +1396,8 @@
    "h": 6,
    "n": 22,
    "shows": 1.0,
-   "viewers": 7.2,
-   "vps": 7.2
+   "viewers": 7.0,
+   "vps": 7.0
   },
   {
    "h": 7,
@@ -1573,15 +1573,15 @@
    "name": "sneakerstacks",
    "category": "Sneakers",
    "peak": 215,
-   "avg": 32.0,
-   "shows": 171
+   "avg": 32.2,
+   "shows": 170
   },
   {
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 185,
-   "avg": 34.2,
-   "shows": 164
+   "avg": 34.0,
+   "shows": 165
   },
   {
    "name": "ripcityrips",
@@ -1649,11 +1649,11 @@
   },
   {
    "name": "Coins",
-   "viewers": 5603
+   "viewers": 5604
   },
   {
    "name": "Sneakers",
-   "viewers": 5475
+   "viewers": 5471
   }
  ],
  "best_slots": [

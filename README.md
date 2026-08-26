@@ -44,7 +44,7 @@ Sun  ▒▒··░░░░··········░░░░░░░░▒▒▒
  3am  ██                     5.6
  4am  ███                    7.8
  5am  ██                     5.5
- 6am  ███                    7.2
+ 6am  ███                    7.0
  7am  ████                   8.5
  8am  █████                  12.0
  9am  ██████                 15.4
@@ -75,8 +75,8 @@ Sun  ▒▒··░░░░··········░░░░░░░░▒▒▒
 | 5 | `pristinepulls` | Sports Cards | 253 | 39.0 | `██████████████` |
 | 6 | `thehobbyhouse` | Trading Cards | 237 | 39.2 | `█████████████` |
 | 7 | `pokeprospector` | Pokemon | 227 | 36.2 | `████████████` |
-| 8 | `sneakerstacks` | Sneakers | 215 | 32.0 | `████████████` |
-| 9 | `coinsbykyle` | Coins | 185 | 34.2 | `██████████` |
+| 8 | `sneakerstacks` | Sneakers | 215 | 32.2 | `████████████` |
+| 9 | `coinsbykyle` | Coins | 185 | 34.0 | `██████████` |
 | 10 | `ripcityrips` | Trading Cards | 181 | 34.2 | `██████████` |
 | 11 | `vintagevault614` | Sports Cards | 178 | 35.9 | `██████████` |
 | 12 | `cardvaultbreaks` | Trading Cards | 173 | 35.5 | `█████████` |
@@ -93,9 +93,9 @@ Sun  ▒▒··░░░░··········░░░░░░░░▒▒▒
 | Pokemon | 17,579 | `███████████` |
 | Pop Culture | 6,422 | `████` |
 | Comics | 5,871 | `████` |
-| Coins | 5,603 | `███` |
-| Sneakers | 5,475 | `███` |
+| Coins | 5,604 | `███` |
+| Sneakers | 5,471 | `███` |
 
 ---
 
-<sub>Updated 2026-08-26 09:00 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-26 10:50 UTC · times shown in America/New_York · demo data</sub>
