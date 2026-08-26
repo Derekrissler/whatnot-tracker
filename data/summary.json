@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-26T10:50:03+00:00",
+ "generated": "2026-08-26T13:14:21+00:00",
  "tz": "America/New_York",
- "samples": 450,
+ "samples": 448,
  "days_covered": 28.0,
  "grid": [
   {
@@ -447,26 +447,26 @@
   {
    "d": 2,
    "h": 7,
-   "n": 3,
+   "n": 2,
    "shows": 1.0,
-   "viewers": 6.7,
-   "vps": 6.7
+   "viewers": 3.5,
+   "vps": 3.5
   },
   {
    "d": 2,
    "h": 8,
-   "n": 2,
+   "n": 1,
    "shows": 2.0,
-   "viewers": 18.5,
-   "vps": 9.2
+   "viewers": 26.0,
+   "vps": 13.0
   },
   {
    "d": 2,
    "h": 9,
    "n": 4,
    "shows": 2.2,
-   "viewers": 31.0,
-   "vps": 14.1
+   "viewers": 26.2,
+   "vps": 11.9
   },
   {
    "d": 2,
@@ -1401,24 +1401,24 @@
   },
   {
    "h": 7,
-   "n": 16,
+   "n": 15,
    "shows": 1.1,
-   "viewers": 9.4,
-   "vps": 8.5
+   "viewers": 9.1,
+   "vps": 8.3
   },
   {
    "h": 8,
-   "n": 14,
-   "shows": 2.1,
-   "viewers": 25.1,
-   "vps": 12.0
+   "n": 13,
+   "shows": 2.2,
+   "viewers": 26.2,
+   "vps": 11.9
   },
   {
    "h": 9,
    "n": 24,
    "shows": 2.6,
-   "viewers": 40.0,
-   "vps": 15.4
+   "viewers": 39.2,
+   "vps": 15.1
   },
   {
    "h": 10,
@@ -1524,8 +1524,8 @@
    "name": "charizardcorner",
    "category": "Pokemon",
    "peak": 294,
-   "avg": 39.4,
-   "shows": 169
+   "avg": 39.6,
+   "shows": 168
   },
   {
    "name": "thecardcave",
@@ -1545,8 +1545,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 253,
-   "avg": 40.4,
-   "shows": 159
+   "avg": 40.2,
+   "shows": 160
   },
   {
    "name": "pristinepulls",
@@ -1566,22 +1566,22 @@
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 227,
-   "avg": 36.2,
-   "shows": 158
+   "avg": 36.4,
+   "shows": 157
   },
   {
    "name": "sneakerstacks",
    "category": "Sneakers",
    "peak": 215,
-   "avg": 32.2,
-   "shows": 170
+   "avg": 32.3,
+   "shows": 169
   },
   {
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 185,
-   "avg": 34.0,
-   "shows": 165
+   "avg": 33.9,
+   "shows": 166
   },
   {
    "name": "ripcityrips",
@@ -1622,8 +1622,8 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 133,
-   "avg": 31.3,
-   "shows": 173
+   "avg": 31.5,
+   "shows": 172
   }
  ],
  "categories": [
@@ -1633,15 +1633,15 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 23303
+   "viewers": 23300
   },
   {
    "name": "Pokemon",
-   "viewers": 17579
+   "viewers": 17526
   },
   {
    "name": "Pop Culture",
-   "viewers": 6422
+   "viewers": 6430
   },
   {
    "name": "Comics",
@@ -1649,11 +1649,11 @@
   },
   {
    "name": "Coins",
-   "viewers": 5604
+   "viewers": 5622
   },
   {
    "name": "Sneakers",
-   "viewers": 5471
+   "viewers": 5458
   }
  ],
  "best_slots": [
