@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-26T07:06:51+00:00",
+ "generated": "2026-08-26T09:00:41+00:00",
  "tz": "America/New_York",
- "samples": 451,
+ "samples": 450,
  "days_covered": 28.0,
  "grid": [
   {
@@ -423,7 +423,7 @@
   {
    "d": 2,
    "h": 4,
-   "n": 3,
+   "n": 2,
    "shows": 0.0,
    "viewers": 0.0,
    "vps": 0
@@ -432,9 +432,9 @@
    "d": 2,
    "h": 5,
    "n": 3,
-   "shows": 0.3,
-   "viewers": 1.3,
-   "vps": 4.3
+   "shows": 0.0,
+   "viewers": 0.0,
+   "vps": 0
   },
   {
    "d": 2,
@@ -1380,17 +1380,17 @@
   },
   {
    "h": 4,
-   "n": 22,
+   "n": 21,
    "shows": 0.6,
-   "viewers": 4.5,
-   "vps": 7.5
+   "viewers": 4.7,
+   "vps": 7.8
   },
   {
    "h": 5,
    "n": 17,
-   "shows": 0.3,
-   "viewers": 1.4,
-   "vps": 4.7
+   "shows": 0.2,
+   "viewers": 1.1,
+   "vps": 5.5
   },
   {
    "h": 6,
@@ -1637,7 +1637,7 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 17583
+   "viewers": 17579
   },
   {
    "name": "Pop Culture",

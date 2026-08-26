@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (806 viewers platform-wide) |
 | Most competition | **8pm** (15.4 shows live at once) |
-| Samples collected | **451** over 28.0 days |
+| Samples collected | **450** over 28.0 days |
 
 ## When to stream
 
@@ -18,7 +18,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
      12a   3a    6a    9a    12p   3p    6p    9p
 Mon  ░░░░··········░░░░░░░░░░▓▓▒▒░░▒▒▒▒▓▓▓▓▓▓██████▒▒
 Tue  ▒▒░░░░····  ······░░░░▒▒░░▒▒▒▒▓▓▒▒▓▓▒▒▓▓▓▓▓▓██▒▒
-Wed  ▒▒······  ········░░░░░░░░░░▒▒▒▒▓▓▒▒▒▒██████▓▓▒▒
+Wed  ▒▒······    ······░░░░░░░░░░▒▒▒▒▓▓▒▒▒▒██████▓▓▒▒
 Thu  ▒▒░░····░░······░░··░░░░░░▒▒▒▒░░░░▒▒▓▓▓▓██▓▓▓▓▓▓
 Fri  ▒▒░░····░░  ░░····░░░░░░░░▒▒▒▒░░▒▒▒▒▓▓▓▓▓▓▓▓██▒▒
 Sat  ▒▒░░············░░░░░░░░▒▒▒▒▒▒░░▒▒▒▒██████████▓▓
@@ -42,8 +42,8 @@ Sun  ▒▒··░░░░··········░░░░░░░░▒▒▒
  1am  ███████                15.7
  2am  ████                   10.6
  3am  ██                     5.6
- 4am  ███                    7.5
- 5am  ██                     4.7
+ 4am  ███                    7.8
+ 5am  ██                     5.5
  6am  ███                    7.2
  7am  ████                   8.5
  8am  █████                  12.0
@@ -90,7 +90,7 @@ Sun  ▒▒··░░░░··········░░░░░░░░▒▒▒
 |---|--:|---|
 | Trading Cards | 29,238 | `██████████████████` |
 | Sports Cards | 23,303 | `██████████████` |
-| Pokemon | 17,583 | `███████████` |
+| Pokemon | 17,579 | `███████████` |
 | Pop Culture | 6,422 | `████` |
 | Comics | 5,871 | `████` |
 | Coins | 5,603 | `███` |
@@ -98,4 +98,4 @@ Sun  ▒▒··░░░░··········░░░░░░░░▒▒▒
 
 ---
 
-<sub>Updated 2026-08-26 07:06 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-26 09:00 UTC · times shown in America/New_York · demo data</sub>
