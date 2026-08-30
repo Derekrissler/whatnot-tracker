@@ -6,9 +6,9 @@
 
 | | |
 |---|---|
-| Biggest audience | **8pm** (793 viewers platform-wide) |
-| Most competition | **8pm** (15.4 shows live at once) |
-| Samples collected | **380** over 28.0 days |
+| Biggest audience | **9pm** (792 viewers platform-wide) |
+| Most competition | **8pm** (15.5 shows live at once) |
+| Samples collected | **377** over 28.0 days |
 
 ## When to stream
 
@@ -21,7 +21,7 @@ Tue  ▒▒░░░░····  ······░░░░▒▒░░▒▒▒�
 Wed  ▒▒······    ····░░····░░░░░░▒▒▒▒▒▒▒▒▒▒██████▓▓▒▒
 Thu  ▒▒░░············░░··░░░░▒▒▒▒▓▓░░░░░░▓▓▓▓▓▓▓▓▓▓▒▒
 Fri  ▒▒░░······  ······░░░░▒▒░░▒▒▒▒░░▒▒░░▓▓▓▓▓▓████▒▒
-Sat  ▒▒░░░░····  ········░░░░▒▒░░▒▒░░▒▒▒▒██████████▓▓
+Sat  ▒▒░░░░····  ········░░░░▒▒░░▒▒░░▒▒▒▒▓▓████████▓▓
 Sun  ▒▒··░░░░··········░░░░░░░░▒▒▒▒▒▒▓▓▓▓▓▓██████▓▓▓▓
 
      low  · ░ ▒ ▓ █  high
@@ -31,9 +31,9 @@ Sun  ▒▒··░░░░··········░░░░░░░░▒▒▒
 |---|--:|--:|--:|
 | Mon 9pm | 60.9 | 16.0 | 975 |
 | Sun 9pm | 57.8 | 16.0 | 925 |
-| Sat 8pm | 56.1 | 15.5 | 870 |
 | Wed 9pm | 55.4 | 15.0 | 832 |
-| Sat 7pm | 52.9 | 14.0 | 740 |
+| Tue 10pm | 52.5 | 13.0 | 682 |
+| Mon 10pm | 51.9 | 14.0 | 726 |
 
 ## Viewers per show, by hour
 
@@ -55,10 +55,10 @@ Sun  ▒▒··░░░░··········░░░░░░░░▒▒▒
  2pm  █████████████          29.8
  3pm  ███████████            27.2
  4pm  █████████████          31.1
- 5pm  ██████████████         33.7
- 6pm  █████████████████      40.4
- 7pm  ████████████████████   46.8
- 8pm  ██████████████████████ 51.5
+ 5pm  ██████████████         34.1
+ 6pm  ████████████████       38.9
+ 7pm  ████████████████████   46.4
+ 8pm  █████████████████████  50.3
  9pm  ██████████████████████ 52.1
 10pm  ████████████████████   48.5
 11pm  █████████████████      39.2
@@ -68,34 +68,34 @@ Sun  ▒▒··░░░░··········░░░░░░░░▒▒▒
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `charizardcorner` | Pokemon | 294 | 42.5 | `████████████████` |
-| 2 | `thecardcave` | Trading Cards | 283 | 39.3 | `███████████████` |
-| 3 | `comiccryptllc` | Comics | 254 | 37.7 | `██████████████` |
-| 4 | `funkofinds` | Pop Culture | 253 | 39.8 | `██████████████` |
-| 5 | `pokeprospector` | Pokemon | 227 | 35.6 | `████████████` |
-| 6 | `sneakerstacks` | Sneakers | 215 | 33.5 | `████████████` |
-| 7 | `coinsbykyle` | Coins | 185 | 33.2 | `██████████` |
-| 8 | `thehobbyhouse` | Trading Cards | 185 | 39.4 | `██████████` |
-| 9 | `ripcityrips` | Trading Cards | 181 | 36.7 | `██████████` |
-| 10 | `cardvaultbreaks` | Trading Cards | 173 | 35.0 | `█████████` |
-| 11 | `buckeyebreaks` | Sports Cards | 167 | 34.3 | `█████████` |
-| 12 | `vintagevault614` | Sports Cards | 164 | 35.7 | `█████████` |
-| 13 | `pristinepulls` | Sports Cards | 156 | 36.4 | `████████` |
-| 14 | `slabsanddabs` | Trading Cards | 147 | 36.5 | `████████` |
-| 15 | `midwestmemorabilia` | Sports Cards | 133 | 33.2 | `███████` |
+| 1 | `charizardcorner` | Pokemon | 294 | 40.4 | `████████████████` |
+| 2 | `thecardcave` | Trading Cards | 283 | 38.5 | `███████████████` |
+| 3 | `comiccryptllc` | Comics | 254 | 37.4 | `██████████████` |
+| 4 | `funkofinds` | Pop Culture | 253 | 40.7 | `██████████████` |
+| 5 | `pokeprospector` | Pokemon | 227 | 36.0 | `████████████` |
+| 6 | `sneakerstacks` | Sneakers | 215 | 34.0 | `████████████` |
+| 7 | `thehobbyhouse` | Trading Cards | 185 | 39.1 | `██████████` |
+| 8 | `coinsbykyle` | Coins | 185 | 32.5 | `██████████` |
+| 9 | `ripcityrips` | Trading Cards | 181 | 36.3 | `██████████` |
+| 10 | `cardvaultbreaks` | Trading Cards | 173 | 34.8 | `█████████` |
+| 11 | `buckeyebreaks` | Sports Cards | 167 | 34.1 | `█████████` |
+| 12 | `vintagevault614` | Sports Cards | 164 | 35.9 | `█████████` |
+| 13 | `pristinepulls` | Sports Cards | 156 | 36.3 | `████████` |
+| 14 | `slabsanddabs` | Trading Cards | 147 | 35.8 | `████████` |
+| 15 | `midwestmemorabilia` | Sports Cards | 125 | 32.0 | `███████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 25,325 | `██████████████████` |
-| Sports Cards | 19,067 | `██████████████` |
-| Pokemon | 15,439 | `███████████` |
-| Pop Culture | 5,539 | `████` |
-| Comics | 5,090 | `████` |
-| Sneakers | 4,728 | `███` |
-| Coins | 4,488 | `███` |
+| Trading Cards | 24,552 | `██████████████████` |
+| Sports Cards | 18,604 | `██████████████` |
+| Pokemon | 14,955 | `███████████` |
+| Pop Culture | 5,575 | `████` |
+| Comics | 4,971 | `████` |
+| Sneakers | 4,693 | `███` |
+| Coins | 4,319 | `███` |
 
 ---
 
-<sub>Updated 2026-08-29 20:53 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-30 00:17 UTC · times shown in America/New_York · demo data</sub>
