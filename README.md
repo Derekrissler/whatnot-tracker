@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **9pm** (792 viewers platform-wide) |
 | Most competition | **8pm** (15.5 shows live at once) |
-| Samples collected | **366** over 28.0 days |
+| Samples collected | **362** over 28.0 days |
 
 ## When to stream
 
@@ -22,7 +22,7 @@ Wed  ▒▒······    ····░░····░░░░░░▒▒▒▒�
 Thu  ▒▒░░············░░··░░░░▒▒▒▒▓▓░░░░░░▓▓▓▓▓▓▓▓▓▓▒▒
 Fri  ▒▒░░······  ······░░░░▒▒░░▒▒▒▒░░▒▒░░▓▓▓▓▓▓████▒▒
 Sat  ▒▒░░░░····  ········░░░░▒▒░░▒▒░░▒▒▒▒▓▓██████  ██
-Sun  ░░  ··  ··  ··  ··░░░░░░░░▒▒▒▒▒▒▓▓▓▓▓▓██████▓▓▓▓
+Sun  ░░  ··  ··  ··  ··░░░░  ▒▒  ▒▒▒▒▓▓▓▓▓▓██████▓▓▓▓
 
      low  · ░ ▒ ▓ █  high
 ```
@@ -48,10 +48,10 @@ Sun  ░░  ··  ··  ··  ··░░░░░░░░▒▒▒▒▒▒▓
  7am  ████                   8.5
  8am  █████                  10.9
  9am  ██████                 15.3
-10am  ███████                17.2
-11am  █████████              22.1
-12pm  ██████████             24.2
- 1pm  ████████████           28.0
+10am  ████████               18.1
+11am  █████████              21.7
+12pm  ██████████             24.7
+ 1pm  ███████████            27.4
  2pm  ████████████           29.8
  3pm  ███████████            27.2
  4pm  █████████████          31.1
@@ -68,34 +68,34 @@ Sun  ░░  ··  ··  ··  ··░░░░░░░░▒▒▒▒▒▒▓
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `charizardcorner` | Pokemon | 294 | 40.4 | `████████████████` |
-| 2 | `thecardcave` | Trading Cards | 283 | 38.2 | `███████████████` |
-| 3 | `comiccryptllc` | Comics | 254 | 37.3 | `██████████████` |
-| 4 | `funkofinds` | Pop Culture | 253 | 39.8 | `██████████████` |
-| 5 | `pokeprospector` | Pokemon | 227 | 35.6 | `████████████` |
-| 6 | `sneakerstacks` | Sneakers | 215 | 34.2 | `████████████` |
-| 7 | `thehobbyhouse` | Trading Cards | 185 | 39.1 | `██████████` |
-| 8 | `coinsbykyle` | Coins | 185 | 31.7 | `██████████` |
-| 9 | `ripcityrips` | Trading Cards | 181 | 35.8 | `██████████` |
-| 10 | `cardvaultbreaks` | Trading Cards | 173 | 35.3 | `█████████` |
-| 11 | `buckeyebreaks` | Sports Cards | 167 | 34.3 | `█████████` |
-| 12 | `vintagevault614` | Sports Cards | 164 | 36.3 | `█████████` |
-| 13 | `pristinepulls` | Sports Cards | 152 | 34.8 | `████████` |
-| 14 | `slabsanddabs` | Trading Cards | 147 | 36.1 | `████████` |
-| 15 | `midwestmemorabilia` | Sports Cards | 125 | 32.2 | `███████` |
+| 1 | `charizardcorner` | Pokemon | 294 | 40.5 | `████████████████` |
+| 2 | `thecardcave` | Trading Cards | 283 | 38.4 | `███████████████` |
+| 3 | `comiccryptllc` | Comics | 254 | 37.1 | `██████████████` |
+| 4 | `funkofinds` | Pop Culture | 253 | 40.0 | `██████████████` |
+| 5 | `pokeprospector` | Pokemon | 227 | 35.5 | `████████████` |
+| 6 | `sneakerstacks` | Sneakers | 215 | 34.6 | `████████████` |
+| 7 | `coinsbykyle` | Coins | 185 | 31.8 | `██████████` |
+| 8 | `thehobbyhouse` | Trading Cards | 185 | 39.1 | `██████████` |
+| 9 | `ripcityrips` | Trading Cards | 181 | 36.0 | `██████████` |
+| 10 | `cardvaultbreaks` | Trading Cards | 173 | 35.7 | `█████████` |
+| 11 | `buckeyebreaks` | Sports Cards | 167 | 34.5 | `█████████` |
+| 12 | `vintagevault614` | Sports Cards | 164 | 36.6 | `█████████` |
+| 13 | `pristinepulls` | Sports Cards | 152 | 35.1 | `████████` |
+| 14 | `slabsanddabs` | Trading Cards | 147 | 35.8 | `████████` |
+| 15 | `midwestmemorabilia` | Sports Cards | 125 | 32.4 | `███████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 23,923 | `██████████████████` |
-| Sports Cards | 17,992 | `██████████████` |
-| Pokemon | 14,613 | `███████████` |
-| Pop Culture | 5,339 | `████` |
-| Comics | 4,806 | `████` |
-| Sneakers | 4,577 | `███` |
-| Coins | 4,147 | `███` |
+| Trading Cards | 23,740 | `██████████████████` |
+| Sports Cards | 18,009 | `██████████████` |
+| Pokemon | 14,479 | `███████████` |
+| Pop Culture | 5,286 | `████` |
+| Comics | 4,752 | `████` |
+| Sneakers | 4,565 | `███` |
+| Coins | 4,128 | `███` |
 
 ---
 
-<sub>Updated 2026-08-30 13:49 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-08-30 18:03 UTC · times shown in America/New_York · demo data</sub>
