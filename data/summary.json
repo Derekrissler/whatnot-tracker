@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-01T05:03:30+00:00",
+ "generated": "2026-09-01T11:35:40+00:00",
  "tz": "America/New_York",
- "samples": 333,
+ "samples": 328,
  "days_covered": 28.0,
  "grid": [
   {
@@ -215,30 +215,22 @@
   {
    "d": 1,
    "h": 2,
-   "n": 1,
-   "shows": 1.0,
-   "viewers": 14.0,
-   "vps": 14.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 1,
    "h": 3,
-   "n": 4,
+   "n": 3,
    "shows": 1.0,
-   "viewers": 5.5,
-   "vps": 5.5
+   "viewers": 5.3,
+   "vps": 5.3
   },
   {
    "d": 1,
    "h": 4,
-   "n": 3,
-   "shows": 0.3,
-   "viewers": 2.0,
-   "vps": 6.7
-  },
-  {
-   "d": 1,
-   "h": 5,
    "n": 2,
    "shows": 0.0,
    "viewers": 0.0,
@@ -246,19 +238,27 @@
   },
   {
    "d": 1,
+   "h": 5,
+   "n": 1,
+   "shows": 0.0,
+   "viewers": 0.0,
+   "vps": 0
+  },
+  {
+   "d": 1,
    "h": 6,
-   "n": 3,
+   "n": 2,
    "shows": 1.0,
-   "viewers": 8.7,
-   "vps": 8.7
+   "viewers": 3.5,
+   "vps": 3.5
   },
   {
    "d": 1,
    "h": 7,
    "n": 2,
    "shows": 1.0,
-   "viewers": 10.5,
-   "vps": 10.5
+   "viewers": 8.5,
+   "vps": 8.5
   },
   {
    "d": 1,
@@ -1366,45 +1366,45 @@
   },
   {
    "h": 2,
-   "n": 10,
+   "n": 9,
    "shows": 1.4,
-   "viewers": 16.3,
-   "vps": 11.6
+   "viewers": 16.6,
+   "vps": 11.9
   },
   {
    "h": 3,
-   "n": 17,
+   "n": 16,
    "shows": 0.9,
-   "viewers": 4.2,
-   "vps": 4.7
+   "viewers": 4.1,
+   "vps": 4.6
   },
   {
    "h": 4,
-   "n": 18,
-   "shows": 0.6,
-   "viewers": 3.0,
-   "vps": 5.0
+   "n": 17,
+   "shows": 0.5,
+   "viewers": 2.8,
+   "vps": 5.6
   },
   {
    "h": 5,
-   "n": 13,
+   "n": 12,
    "shows": 0.2,
-   "viewers": 0.7,
-   "vps": 3.5
+   "viewers": 0.8,
+   "vps": 4.0
   },
   {
    "h": 6,
-   "n": 17,
+   "n": 16,
    "shows": 1.0,
-   "viewers": 6.8,
-   "vps": 6.8
+   "viewers": 6.0,
+   "vps": 6.0
   },
   {
    "h": 7,
    "n": 11,
    "shows": 1.1,
-   "viewers": 8.1,
-   "vps": 7.4
+   "viewers": 7.7,
+   "vps": 7.0
   },
   {
    "h": 8,
@@ -1531,8 +1531,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 254,
-   "avg": 35.8,
-   "shows": 119
+   "avg": 35.6,
+   "shows": 120
   },
   {
    "name": "sneakerstacks",
@@ -1549,13 +1549,6 @@
    "shows": 118
   },
   {
-   "name": "thehobbyhouse",
-   "category": "Trading Cards",
-   "peak": 185,
-   "avg": 38.6,
-   "shows": 119
-  },
-  {
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 185,
@@ -1568,6 +1561,13 @@
    "peak": 185,
    "avg": 38.9,
    "shows": 125
+  },
+  {
+   "name": "thehobbyhouse",
+   "category": "Trading Cards",
+   "peak": 185,
+   "avg": 38.7,
+   "shows": 118
   },
   {
    "name": "cardvaultbreaks",
@@ -1587,8 +1587,8 @@
    "name": "vintagevault614",
    "category": "Sports Cards",
    "peak": 164,
-   "avg": 37.4,
-   "shows": 112
+   "avg": 37.7,
+   "shows": 111
   },
   {
    "name": "ripcityrips",
@@ -1601,22 +1601,22 @@
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 152,
-   "avg": 35.4,
-   "shows": 111
+   "avg": 35.6,
+   "shows": 110
   },
   {
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 147,
-   "avg": 35.4,
-   "shows": 117
+   "avg": 35.6,
+   "shows": 116
   },
   {
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 145,
-   "avg": 32.5,
-   "shows": 117
+   "avg": 32.8,
+   "shows": 116
   },
   {
    "name": "gradedgoods",
@@ -1629,11 +1629,11 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 21209
+   "viewers": 21174
   },
   {
    "name": "Sports Cards",
-   "viewers": 15806
+   "viewers": 15780
   },
   {
    "name": "Pokemon",
@@ -1645,7 +1645,7 @@
   },
   {
    "name": "Comics",
-   "viewers": 4256
+   "viewers": 4268
   },
   {
    "name": "Sneakers",
