@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (852 viewers platform-wide) |
 | Most competition | **8pm** (15.6 shows live at once) |
-| Samples collected | **290** over 28.0 days |
+| Samples collected | **286** over 28.0 days |
 
 ## When to stream
 
@@ -19,7 +19,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 Mon  ░░░░  ··········  ░░··░░▒▒░░░░░░▒▒▒▒▒▒    ▓▓▓▓▒▒
 Tue  ░░··  ··    ····  ░░░░▒▒░░░░░░▒▒▒▒▒▒▒▒▒▒██▒▒▒▒▒▒
 Wed  ░░··  ··    ····  ······░░░░░░··░░▒▒▒▒▓▓██▓▓▓▓░░
-Thu  ▒▒░░  ··    ··········░░░░░░▒▒░░░░░░▒▒▒▒▓▓▒▒▓▓▒▒
+Thu  ▒▒░░  ··    ····  ··░░░░░░░░▒▒░░░░░░▒▒▒▒▓▓▒▒▓▓▒▒
 Fri  ░░░░······  ······░░··░░░░░░░░░░▒▒░░▒▒▒▒▒▒▓▓▓▓▒▒
 Sat  ▒▒░░······  ········░░··░░░░▒▒░░▒▒▒▒▒▒▓▓▓▓▓▓  ▓▓
 Sun  ░░  ··  ··  ··  ····░░  ░░  ▒▒  ▒▒▒▒▒▒  ▓▓▓▓▓▓▒▒
@@ -46,11 +46,11 @@ Sun  ░░  ··  ··  ··  ····░░  ░░  ▒▒  ▒▒▒▒▒�
  5am  ███                    8.0
  6am  ██                     6.1
  7am  ███                    7.6
- 8am  ████                   10.1
- 9am  ██████                 16.1
-10am  ███████                17.6
-11am  █████████              22.9
-12pm  ██████████             24.8
+ 8am  ████                   9.7
+ 9am  ███████                16.5
+10am  ███████                18.0
+11am  ██████████             23.6
+12pm  ██████████             23.7
  1pm  ███████████            27.6
  2pm  ████████████           28.7
  3pm  ██████████             23.7
@@ -68,19 +68,19 @@ Sun  ░░  ··  ··  ··  ····░░  ░░  ▒▒  ▒▒▒▒▒�
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `vintagevault614` | Sports Cards | 284 | 38.7 | `████████████████` |
+| 1 | `vintagevault614` | Sports Cards | 284 | 38.6 | `████████████████` |
 | 2 | `thecardcave` | Trading Cards | 283 | 40.7 | `████████████████` |
-| 3 | `comiccryptllc` | Comics | 254 | 33.1 | `██████████████` |
-| 4 | `midwestmemorabilia` | Sports Cards | 226 | 33.4 | `█████████████` |
+| 3 | `comiccryptllc` | Comics | 254 | 32.9 | `██████████████` |
+| 4 | `midwestmemorabilia` | Sports Cards | 226 | 33.2 | `█████████████` |
 | 5 | `pokeprospector` | Pokemon | 199 | 31.9 | `███████████` |
-| 6 | `thehobbyhouse` | Trading Cards | 185 | 37.1 | `██████████` |
-| 7 | `coinsbykyle` | Coins | 185 | 30.6 | `██████████` |
-| 8 | `charizardcorner` | Pokemon | 185 | 40.2 | `██████████` |
-| 9 | `cardvaultbreaks` | Trading Cards | 173 | 37.3 | `██████████` |
-| 10 | `funkofinds` | Pop Culture | 159 | 38.7 | `█████████` |
-| 11 | `ripcityrips` | Trading Cards | 153 | 37.8 | `█████████` |
-| 12 | `sneakerstacks` | Sneakers | 150 | 31.8 | `████████` |
-| 13 | `buckeyebreaks` | Sports Cards | 145 | 34.4 | `████████` |
+| 6 | `coinsbykyle` | Coins | 185 | 30.9 | `██████████` |
+| 7 | `charizardcorner` | Pokemon | 185 | 40.2 | `██████████` |
+| 8 | `thehobbyhouse` | Trading Cards | 185 | 37.3 | `██████████` |
+| 9 | `cardvaultbreaks` | Trading Cards | 173 | 37.0 | `██████████` |
+| 10 | `funkofinds` | Pop Culture | 159 | 39.1 | `█████████` |
+| 11 | `ripcityrips` | Trading Cards | 153 | 37.5 | `█████████` |
+| 12 | `sneakerstacks` | Sneakers | 150 | 32.1 | `████████` |
+| 13 | `buckeyebreaks` | Sports Cards | 145 | 34.7 | `████████` |
 | 14 | `pristinepulls` | Sports Cards | 135 | 34.1 | `████████` |
 | 15 | `slabsanddabs` | Trading Cards | 130 | 34.2 | `███████` |
 
@@ -88,14 +88,14 @@ Sun  ░░  ··  ··  ··  ····░░  ░░  ▒▒  ▒▒▒▒▒�
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 19,097 | `██████████████████` |
-| Sports Cards | 14,073 | `█████████████` |
-| Pokemon | 10,884 | `██████████` |
-| Pop Culture | 4,181 | `████` |
-| Comics | 3,639 | `███` |
-| Sneakers | 3,495 | `███` |
-| Coins | 3,186 | `███` |
+| Trading Cards | 19,104 | `██████████████████` |
+| Sports Cards | 13,967 | `█████████████` |
+| Pokemon | 10,840 | `██████████` |
+| Pop Culture | 4,145 | `████` |
+| Comics | 3,591 | `███` |
+| Sneakers | 3,468 | `███` |
+| Coins | 3,178 | `███` |
 
 ---
 
-<sub>Updated 2026-09-03 11:09 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-09-03 16:23 UTC · times shown in America/New_York · demo data</sub>
