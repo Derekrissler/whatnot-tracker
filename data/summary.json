@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-06T04:34:04+00:00",
+ "generated": "2026-09-06T10:52:19+00:00",
  "tz": "America/New_York",
- "samples": 244,
- "days_covered": 27.3,
+ "samples": 245,
+ "days_covered": 27.6,
  "grid": [
   {
    "d": 0,
@@ -1207,10 +1207,10 @@
   {
    "d": 6,
    "h": 6,
-   "n": 2,
+   "n": 3,
    "shows": 1.0,
-   "viewers": 4.0,
-   "vps": 4.0
+   "viewers": 7.0,
+   "vps": 7.0
   },
   {
    "d": 6,
@@ -1394,10 +1394,10 @@
   },
   {
    "h": 6,
-   "n": 13,
+   "n": 14,
    "shows": 1.0,
-   "viewers": 6.1,
-   "vps": 6.1
+   "viewers": 6.6,
+   "vps": 6.6
   },
   {
    "h": 7,
@@ -1524,8 +1524,8 @@
    "name": "vintagevault614",
    "category": "Sports Cards",
    "peak": 284,
-   "avg": 40.8,
-   "shows": 77
+   "avg": 40.4,
+   "shows": 78
   },
   {
    "name": "thecardcave",
@@ -1633,7 +1633,7 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 11635
+   "viewers": 11648
   },
   {
    "name": "Pokemon",
