@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-07T12:25:55+00:00",
+ "generated": "2026-09-07T18:42:56+00:00",
  "tz": "America/New_York",
- "samples": 244,
- "days_covered": 27.9,
+ "samples": 242,
+ "days_covered": 28.0,
  "grid": [
   {
    "d": 0,
@@ -79,10 +79,10 @@
   {
    "d": 0,
    "h": 9,
-   "n": 3,
-   "shows": 2.7,
-   "viewers": 55.3,
-   "vps": 20.5
+   "n": 2,
+   "shows": 2.5,
+   "viewers": 50.0,
+   "vps": 20.0
   },
   {
    "d": 0,
@@ -95,10 +95,10 @@
   {
    "d": 0,
    "h": 11,
-   "n": 1,
-   "shows": 3.0,
-   "viewers": 64.0,
-   "vps": 21.3
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 0,
@@ -111,18 +111,18 @@
   {
    "d": 0,
    "h": 13,
-   "n": 2,
-   "shows": 4.5,
-   "viewers": 134.0,
-   "vps": 29.8
+   "n": 1,
+   "shows": 4.0,
+   "viewers": 125.0,
+   "vps": 31.2
   },
   {
    "d": 0,
    "h": 14,
-   "n": 2,
+   "n": 3,
    "shows": 5.0,
-   "viewers": 102.0,
-   "vps": 20.4
+   "viewers": 110.3,
+   "vps": 22.1
   },
   {
    "d": 0,
@@ -1415,10 +1415,10 @@
   },
   {
    "h": 9,
-   "n": 15,
+   "n": 14,
    "shows": 2.6,
-   "viewers": 43.7,
-   "vps": 16.8
+   "viewers": 42.1,
+   "vps": 16.2
   },
   {
    "h": 10,
@@ -1429,10 +1429,10 @@
   },
   {
    "h": 11,
-   "n": 8,
-   "shows": 3.9,
-   "viewers": 74.0,
-   "vps": 19.0
+   "n": 7,
+   "shows": 4.0,
+   "viewers": 75.4,
+   "vps": 18.9
   },
   {
    "h": 12,
@@ -1443,17 +1443,17 @@
   },
   {
    "h": 13,
-   "n": 6,
+   "n": 5,
    "shows": 5.2,
-   "viewers": 147.0,
-   "vps": 28.3
+   "viewers": 147.8,
+   "vps": 28.4
   },
   {
    "h": 14,
-   "n": 15,
+   "n": 16,
    "shows": 5.8,
-   "viewers": 153.7,
-   "vps": 26.5
+   "viewers": 152.0,
+   "vps": 26.2
   },
   {
    "h": 15,
@@ -1531,21 +1531,21 @@
    "name": "thecardcave",
    "category": "Trading Cards",
    "peak": 283,
-   "avg": 41.9,
+   "avg": 41.4,
    "shows": 88
   },
   {
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 254,
-   "avg": 35.2,
-   "shows": 91
+   "avg": 35.4,
+   "shows": 92
   },
   {
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 226,
-   "avg": 32.2,
+   "avg": 32.3,
    "shows": 86
   },
   {
@@ -1559,93 +1559,93 @@
    "name": "thehobbyhouse",
    "category": "Trading Cards",
    "peak": 185,
-   "avg": 37.8,
-   "shows": 91
+   "avg": 38.1,
+   "shows": 90
   },
   {
    "name": "cardvaultbreaks",
    "category": "Trading Cards",
    "peak": 173,
-   "avg": 36.7,
-   "shows": 76
+   "avg": 36.4,
+   "shows": 77
   },
   {
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 169,
-   "avg": 38.8,
-   "shows": 89
+   "avg": 38.6,
+   "shows": 88
   },
   {
    "name": "charizardcorner",
    "category": "Pokemon",
    "peak": 159,
-   "avg": 38.4,
-   "shows": 88
+   "avg": 38.7,
+   "shows": 87
   },
   {
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 156,
-   "avg": 35.6,
-   "shows": 90
+   "avg": 35.8,
+   "shows": 89
   },
   {
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 153,
-   "avg": 38.5,
-   "shows": 87
+   "avg": 38.8,
+   "shows": 86
   },
   {
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 145,
-   "avg": 31.9,
-   "shows": 87
+   "avg": 31.8,
+   "shows": 88
   },
   {
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 138,
    "avg": 28.9,
-   "shows": 86
+   "shows": 85
   },
   {
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 135,
-   "avg": 35.8,
-   "shows": 82
+   "avg": 35.7,
+   "shows": 81
   },
   {
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 121,
-   "avg": 31.1,
-   "shows": 91
+   "avg": 31.4,
+   "shows": 89
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 16468
+   "viewers": 16403
   },
   {
    "name": "Sports Cards",
-   "viewers": 11592
+   "viewers": 11585
   },
   {
    "name": "Pokemon",
-   "viewers": 8694
+   "viewers": 8619
   },
   {
    "name": "Pop Culture",
-   "viewers": 3452
+   "viewers": 3400
   },
   {
    "name": "Comics",
-   "viewers": 3206
+   "viewers": 3259
   },
   {
    "name": "Sneakers",
