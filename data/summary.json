@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-08T16:35:41+00:00",
+ "generated": "2026-09-08T21:06:50+00:00",
  "tz": "America/New_York",
- "samples": 235,
- "days_covered": 28.0,
+ "samples": 233,
+ "days_covered": 27.9,
  "grid": [
   {
    "d": 0,
@@ -303,10 +303,10 @@
   {
    "d": 1,
    "h": 13,
-   "n": 1,
-   "shows": 4.0,
-   "viewers": 91.0,
-   "vps": 22.8
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 1,
@@ -319,10 +319,10 @@
   {
    "d": 1,
    "h": 15,
-   "n": 1,
-   "shows": 7.0,
-   "viewers": 250.0,
-   "vps": 35.7
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 1,
@@ -337,8 +337,8 @@
    "h": 17,
    "n": 1,
    "shows": 9.0,
-   "viewers": 336.0,
-   "vps": 37.3
+   "viewers": 198.0,
+   "vps": 22.0
   },
   {
    "d": 1,
@@ -1443,10 +1443,10 @@
   },
   {
    "h": 13,
-   "n": 5,
-   "shows": 5.2,
-   "viewers": 147.8,
-   "vps": 28.4
+   "n": 4,
+   "shows": 5.5,
+   "viewers": 162.0,
+   "vps": 29.5
   },
   {
    "h": 14,
@@ -1457,10 +1457,10 @@
   },
   {
    "h": 15,
-   "n": 4,
-   "shows": 6.0,
-   "viewers": 146.8,
-   "vps": 24.5
+   "n": 3,
+   "shows": 5.7,
+   "viewers": 112.3,
+   "vps": 19.7
   },
   {
    "h": 16,
@@ -1473,8 +1473,8 @@
    "h": 17,
    "n": 5,
    "shows": 8.6,
-   "viewers": 344.2,
-   "vps": 40.0
+   "viewers": 316.6,
+   "vps": 36.8
   },
   {
    "h": 18,
@@ -1524,8 +1524,8 @@
    "name": "vintagevault614",
    "category": "Sports Cards",
    "peak": 284,
-   "avg": 39.1,
-   "shows": 74
+   "avg": 39.2,
+   "shows": 72
   },
   {
    "name": "thecardcave",
@@ -1538,50 +1538,50 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 254,
-   "avg": 34.5,
-   "shows": 92
+   "avg": 33.6,
+   "shows": 91
   },
   {
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 226,
-   "avg": 33.0,
-   "shows": 84
+   "avg": 32.3,
+   "shows": 83
   },
   {
    "name": "sneakerstacks",
    "category": "Sneakers",
    "peak": 187,
-   "avg": 34.1,
-   "shows": 86
+   "avg": 33.9,
+   "shows": 87
   },
   {
    "name": "thehobbyhouse",
    "category": "Trading Cards",
    "peak": 185,
-   "avg": 37.7,
-   "shows": 88
+   "avg": 37.9,
+   "shows": 87
   },
   {
    "name": "cardvaultbreaks",
    "category": "Trading Cards",
    "peak": 173,
-   "avg": 35.9,
-   "shows": 75
+   "avg": 36.5,
+   "shows": 73
   },
   {
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 169,
-   "avg": 39.9,
-   "shows": 84
+   "avg": 39.7,
+   "shows": 83
   },
   {
    "name": "charizardcorner",
    "category": "Pokemon",
    "peak": 159,
-   "avg": 38.5,
-   "shows": 85
+   "avg": 38.6,
+   "shows": 84
   },
   {
    "name": "slabsanddabs",
@@ -1601,59 +1601,59 @@
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 145,
-   "avg": 31.3,
-   "shows": 86
+   "avg": 31.7,
+   "shows": 84
   },
   {
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 138,
-   "avg": 28.9,
+   "avg": 28.8,
    "shows": 83
   },
   {
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 135,
-   "avg": 36.1,
+   "avg": 36.0,
    "shows": 78
   },
   {
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 121,
-   "avg": 31.3,
+   "avg": 31.5,
    "shows": 90
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 15864
+   "viewers": 15815
   },
   {
    "name": "Sports Cards",
-   "viewers": 11178
+   "viewers": 10974
   },
   {
    "name": "Pokemon",
-   "viewers": 8486
+   "viewers": 8462
   },
   {
    "name": "Pop Culture",
-   "viewers": 3355
+   "viewers": 3297
   },
   {
    "name": "Comics",
-   "viewers": 3178
+   "viewers": 3059
   },
   {
    "name": "Sneakers",
-   "viewers": 2929
+   "viewers": 2946
   },
   {
    "name": "Coins",
-   "viewers": 2633
+   "viewers": 2591
   }
  ],
  "best_slots": [
