@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-09T04:37:31+00:00",
+ "generated": "2026-09-09T11:18:30+00:00",
  "tz": "America/New_York",
- "samples": 233,
- "days_covered": 28.0,
+ "samples": 230,
+ "days_covered": 27.9,
  "grid": [
   {
    "d": 0,
@@ -399,10 +399,10 @@
   {
    "d": 2,
    "h": 1,
-   "n": 1,
-   "shows": 2.0,
-   "viewers": 18.0,
-   "vps": 9.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 2,
@@ -415,10 +415,10 @@
   {
    "d": 2,
    "h": 3,
-   "n": 3,
+   "n": 2,
    "shows": 1.0,
-   "viewers": 6.0,
-   "vps": 6.0
+   "viewers": 2.0,
+   "vps": 2.0
   },
   {
    "d": 2,
@@ -431,7 +431,7 @@
   {
    "d": 2,
    "h": 5,
-   "n": 2,
+   "n": 1,
    "shows": 0.0,
    "viewers": 0.0,
    "vps": 0
@@ -449,8 +449,8 @@
    "h": 7,
    "n": 2,
    "shows": 1.0,
-   "viewers": 3.0,
-   "vps": 3.0
+   "viewers": 5.0,
+   "vps": 5.0
   },
   {
    "d": 2,
@@ -1359,10 +1359,10 @@
   },
   {
    "h": 1,
-   "n": 4,
-   "shows": 2.5,
-   "viewers": 30.2,
-   "vps": 12.1
+   "n": 3,
+   "shows": 2.7,
+   "viewers": 34.3,
+   "vps": 12.7
   },
   {
    "h": 2,
@@ -1373,10 +1373,10 @@
   },
   {
    "h": 3,
-   "n": 11,
+   "n": 10,
    "shows": 0.9,
-   "viewers": 3.9,
-   "vps": 4.3
+   "viewers": 2.9,
+   "vps": 3.2
   },
   {
    "h": 4,
@@ -1387,7 +1387,7 @@
   },
   {
    "h": 5,
-   "n": 6,
+   "n": 5,
    "shows": 0.0,
    "viewers": 0.0,
    "vps": 0
@@ -1403,8 +1403,8 @@
    "h": 7,
    "n": 9,
    "shows": 1.0,
-   "viewers": 8.4,
-   "vps": 8.4
+   "viewers": 8.9,
+   "vps": 8.9
   },
   {
    "h": 8,
@@ -1538,8 +1538,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 254,
-   "avg": 33.4,
-   "shows": 90
+   "avg": 33.7,
+   "shows": 89
   },
   {
    "name": "midwestmemorabilia",
@@ -1573,8 +1573,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 169,
-   "avg": 38.8,
-   "shows": 83
+   "avg": 39.4,
+   "shows": 81
   },
   {
    "name": "charizardcorner",
@@ -1601,8 +1601,8 @@
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 145,
-   "avg": 32.3,
-   "shows": 83
+   "avg": 32.6,
+   "shows": 82
   },
   {
    "name": "pokeprospector",
@@ -1633,7 +1633,7 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 11027
+   "viewers": 11024
   },
   {
    "name": "Pokemon",
@@ -1641,11 +1641,11 @@
   },
   {
    "name": "Pop Culture",
-   "viewers": 3221
+   "viewers": 3195
   },
   {
    "name": "Comics",
-   "viewers": 3002
+   "viewers": 2996
   },
   {
    "name": "Sneakers",
@@ -1653,7 +1653,7 @@
   },
   {
    "name": "Coins",
-   "viewers": 2608
+   "viewers": 2615
   }
  ],
  "best_slots": [
