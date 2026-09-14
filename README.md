@@ -6,9 +6,9 @@
 
 | | |
 |---|---|
-| Biggest audience | **7pm** (754 viewers platform-wide) |
+| Biggest audience | **9pm** (738 viewers platform-wide) |
 | Most competition | **9pm** (14.9 shows live at once) |
-| Samples collected | **195** over 27.9 days |
+| Samples collected | **194** over 27.9 days |
 
 ## When to stream
 
@@ -16,7 +16,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 
 ```
      12a   3a    6a    9a    12p   3p    6p    9p
-Mon  ░░    ··    ··  ··░░··  ▒▒▒▒░░▒▒▒▒  ▓▓    ██  ▒▒
+Mon  ░░    ··    ··  ··░░··  ▒▒▒▒░░▒▒▒▒  ▒▒██  ██  ▒▒
 Tue  ▒▒··  ··    ····  ··░░▒▒░░  ░░  ▒▒░░▒▒  ██▓▓  ▒▒
 Wed  ▒▒    ··    ····  ░░░░  ░░  ░░  ▒▒▓▓▒▒████▓▓  ▒▒
 Thu  ▒▒          ··░░  ··░░  ░░  ▓▓  ▒▒  ▒▒  ▒▒▓▓  ▓▓
@@ -54,10 +54,10 @@ Sun  ░░  ··  ··  ····  ░░··░░▒▒  ▒▒  ▓▓▓▓�
  1pm  ████████████           31.2
  2pm  ███████████            28.2
  3pm  ██████████████         36.0
- 4pm  ████████████           31.2
+ 4pm  ████████████           31.1
  5pm  ███████████████        37.1
- 6pm  ████████████████       39.3
- 7pm  █████████████████████  52.0
+ 6pm  ███████████████        37.5
+ 7pm  █████████████████████  53.7
  8pm  ████████████████████   49.5
  9pm  ████████████████████   49.6
 10pm  ██████████████████████ 55.2
@@ -68,34 +68,34 @@ Sun  ░░  ··  ··  ····  ░░··░░▒▒  ▒▒  ▓▓▓▓�
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `vintagevault614` | Sports Cards | 284 | 46.9 | `████████████████` |
-| 2 | `thecardcave` | Trading Cards | 283 | 41.0 | `████████████████` |
-| 3 | `comiccryptllc` | Comics | 254 | 33.4 | `██████████████` |
-| 4 | `midwestmemorabilia` | Sports Cards | 226 | 37.1 | `█████████████` |
-| 5 | `sneakerstacks` | Sneakers | 187 | 30.8 | `███████████` |
+| 1 | `vintagevault614` | Sports Cards | 284 | 46.8 | `████████████████` |
+| 2 | `thecardcave` | Trading Cards | 283 | 40.2 | `████████████████` |
+| 3 | `comiccryptllc` | Comics | 254 | 34.1 | `██████████████` |
+| 4 | `midwestmemorabilia` | Sports Cards | 226 | 37.6 | `█████████████` |
+| 5 | `sneakerstacks` | Sneakers | 187 | 30.7 | `███████████` |
 | 6 | `slabsanddabs` | Trading Cards | 172 | 35.4 | `██████████` |
-| 7 | `funkofinds` | Pop Culture | 169 | 38.3 | `██████████` |
-| 8 | `charizardcorner` | Pokemon | 159 | 34.4 | `█████████` |
-| 9 | `pristinepulls` | Sports Cards | 155 | 38.8 | `█████████` |
-| 10 | `cardvaultbreaks` | Trading Cards | 154 | 34.3 | `█████████` |
-| 11 | `ripcityrips` | Trading Cards | 153 | 41.4 | `█████████` |
-| 12 | `thehobbyhouse` | Trading Cards | 149 | 36.5 | `████████` |
-| 13 | `buckeyebreaks` | Sports Cards | 145 | 33.1 | `████████` |
-| 14 | `pokeprospector` | Pokemon | 138 | 27.4 | `████████` |
-| 15 | `coinsbykyle` | Coins | 123 | 32.1 | `███████` |
+| 7 | `buckeyebreaks` | Sports Cards | 171 | 35.0 | `██████████` |
+| 8 | `funkofinds` | Pop Culture | 169 | 38.3 | `██████████` |
+| 9 | `charizardcorner` | Pokemon | 159 | 34.4 | `█████████` |
+| 10 | `pristinepulls` | Sports Cards | 155 | 38.7 | `█████████` |
+| 11 | `ripcityrips` | Trading Cards | 153 | 41.0 | `█████████` |
+| 12 | `thehobbyhouse` | Trading Cards | 149 | 36.6 | `████████` |
+| 13 | `cardvaultbreaks` | Trading Cards | 142 | 32.4 | `████████` |
+| 14 | `pokeprospector` | Pokemon | 138 | 28.2 | `████████` |
+| 15 | `coinsbykyle` | Coins | 123 | 31.9 | `███████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 13,754 | `██████████████████` |
-| Sports Cards | 10,578 | `██████████████` |
-| Pokemon | 6,909 | `█████████` |
+| Trading Cards | 13,329 | `██████████████████` |
+| Sports Cards | 10,618 | `██████████████` |
+| Pokemon | 6,991 | `█████████` |
+| Comics | 2,828 | `████` |
 | Pop Culture | 2,796 | `████` |
-| Comics | 2,773 | `████` |
-| Coins | 2,506 | `███` |
-| Sneakers | 2,401 | `███` |
+| Coins | 2,488 | `███` |
+| Sneakers | 2,364 | `███` |
 
 ---
 
-<sub>Updated 2026-09-14 19:19 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-09-14 23:06 UTC · times shown in America/New_York · demo data</sub>
