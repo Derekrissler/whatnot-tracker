@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-15T04:50:21+00:00",
+ "generated": "2026-09-15T11:40:09+00:00",
  "tz": "America/New_York",
- "samples": 192,
+ "samples": 190,
  "days_covered": 27.9,
  "grid": [
   {
@@ -223,15 +223,15 @@
   {
    "d": 1,
    "h": 3,
-   "n": 2,
+   "n": 1,
    "shows": 1.0,
-   "viewers": 4.5,
-   "vps": 4.5
+   "viewers": 2.0,
+   "vps": 2.0
   },
   {
    "d": 1,
    "h": 4,
-   "n": 2,
+   "n": 1,
    "shows": 0.0,
    "viewers": 0.0,
    "vps": 0
@@ -247,18 +247,18 @@
   {
    "d": 1,
    "h": 6,
-   "n": 2,
+   "n": 1,
    "shows": 1.0,
-   "viewers": 3.5,
-   "vps": 3.5
+   "viewers": 4.0,
+   "vps": 4.0
   },
   {
    "d": 1,
    "h": 7,
-   "n": 2,
+   "n": 3,
    "shows": 1.0,
-   "viewers": 12.0,
-   "vps": 12.0
+   "viewers": 10.0,
+   "vps": 10.0
   },
   {
    "d": 1,
@@ -1373,17 +1373,17 @@
   },
   {
    "h": 3,
-   "n": 7,
-   "shows": 0.9,
-   "viewers": 2.6,
-   "vps": 2.9
+   "n": 6,
+   "shows": 0.8,
+   "viewers": 1.8,
+   "vps": 2.2
   },
   {
    "h": 4,
-   "n": 9,
-   "shows": 0.4,
-   "viewers": 3.0,
-   "vps": 7.5
+   "n": 8,
+   "shows": 0.5,
+   "viewers": 3.4,
+   "vps": 6.8
   },
   {
    "h": 5,
@@ -1394,17 +1394,17 @@
   },
   {
    "h": 6,
-   "n": 12,
+   "n": 11,
    "shows": 1.0,
-   "viewers": 5.8,
-   "vps": 5.8
+   "viewers": 6.1,
+   "vps": 6.1
   },
   {
    "h": 7,
-   "n": 10,
+   "n": 11,
    "shows": 1.1,
-   "viewers": 11.0,
-   "vps": 10.0
+   "viewers": 10.5,
+   "vps": 9.5
   },
   {
    "h": 8,
@@ -1531,15 +1531,15 @@
    "name": "thecardcave",
    "category": "Trading Cards",
    "peak": 283,
-   "avg": 40.5,
-   "shows": 74
+   "avg": 41.0,
+   "shows": 73
   },
   {
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 254,
-   "avg": 34.3,
-   "shows": 81
+   "avg": 33.9,
+   "shows": 82
   },
   {
    "name": "midwestmemorabilia",
@@ -1573,8 +1573,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 169,
-   "avg": 38.2,
-   "shows": 72
+   "avg": 38.7,
+   "shows": 71
   },
   {
    "name": "charizardcorner",
@@ -1629,7 +1629,7 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 13095
+   "viewers": 13088
   },
   {
    "name": "Sports Cards",
@@ -1641,11 +1641,11 @@
   },
   {
    "name": "Comics",
-   "viewers": 2776
+   "viewers": 2782
   },
   {
    "name": "Pop Culture",
-   "viewers": 2754
+   "viewers": 2751
   },
   {
    "name": "Coins",
