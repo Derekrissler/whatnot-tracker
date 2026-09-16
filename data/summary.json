@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T04:51:55+00:00",
+ "generated": "2026-09-16T11:27:40+00:00",
  "tz": "America/New_York",
- "samples": 185,
+ "samples": 183,
  "days_covered": 27.9,
  "grid": [
   {
@@ -415,7 +415,7 @@
   {
    "d": 2,
    "h": 3,
-   "n": 2,
+   "n": 1,
    "shows": 1.0,
    "viewers": 2.0,
    "vps": 2.0
@@ -423,9 +423,9 @@
   {
    "d": 2,
    "h": 4,
-   "n": 1,
-   "shows": 0.0,
-   "viewers": 0.0,
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
    "vps": 0
   },
   {
@@ -439,18 +439,18 @@
   {
    "d": 2,
    "h": 6,
-   "n": 2,
+   "n": 1,
    "shows": 1.0,
-   "viewers": 2.0,
-   "vps": 2.0
+   "viewers": 1.0,
+   "vps": 1.0
   },
   {
    "d": 2,
    "h": 7,
-   "n": 2,
+   "n": 3,
    "shows": 1.0,
-   "viewers": 5.0,
-   "vps": 5.0
+   "viewers": 6.0,
+   "vps": 6.0
   },
   {
    "d": 2,
@@ -1373,17 +1373,17 @@
   },
   {
    "h": 3,
-   "n": 6,
+   "n": 5,
    "shows": 0.8,
    "viewers": 1.8,
    "vps": 2.2
   },
   {
    "h": 4,
-   "n": 8,
-   "shows": 0.5,
-   "viewers": 3.4,
-   "vps": 6.8
+   "n": 7,
+   "shows": 0.6,
+   "viewers": 3.9,
+   "vps": 6.5
   },
   {
    "h": 5,
@@ -1394,17 +1394,17 @@
   },
   {
    "h": 6,
-   "n": 11,
+   "n": 10,
    "shows": 1.0,
-   "viewers": 6.1,
-   "vps": 6.1
+   "viewers": 6.4,
+   "vps": 6.4
   },
   {
    "h": 7,
-   "n": 11,
+   "n": 12,
    "shows": 1.1,
-   "viewers": 10.5,
-   "vps": 9.5
+   "viewers": 10.3,
+   "vps": 9.4
   },
   {
    "h": 8,
@@ -1552,8 +1552,8 @@
    "name": "sneakerstacks",
    "category": "Sneakers",
    "peak": 187,
-   "avg": 30.9,
-   "shows": 74
+   "avg": 30.6,
+   "shows": 75
   },
   {
    "name": "slabsanddabs",
@@ -1615,8 +1615,8 @@
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 138,
-   "avg": 28.4,
-   "shows": 72
+   "avg": 29.1,
+   "shows": 70
   },
   {
    "name": "coinsbykyle",
@@ -1637,7 +1637,7 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 6499
+   "viewers": 6494
   },
   {
    "name": "Pop Culture",
@@ -1653,7 +1653,7 @@
   },
   {
    "name": "Sneakers",
-   "viewers": 2290
+   "viewers": 2298
   }
  ],
  "best_slots": [
