@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-20T04:50:21+00:00",
+ "generated": "2026-09-20T11:18:28+00:00",
  "tz": "America/New_York",
- "samples": 158,
- "days_covered": 28.0,
+ "samples": 155,
+ "days_covered": 27.9,
  "grid": [
   {
    "d": 0,
@@ -1159,10 +1159,10 @@
   {
    "d": 6,
    "h": 0,
-   "n": 4,
+   "n": 3,
    "shows": 7.0,
-   "viewers": 168.5,
-   "vps": 24.1
+   "viewers": 183.3,
+   "vps": 26.2
   },
   {
    "d": 6,
@@ -1175,10 +1175,10 @@
   {
    "d": 6,
    "h": 2,
-   "n": 1,
-   "shows": 1.0,
-   "viewers": 12.0,
-   "vps": 12.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 6,
@@ -1191,10 +1191,10 @@
   {
    "d": 6,
    "h": 4,
-   "n": 2,
+   "n": 1,
    "shows": 1.0,
-   "viewers": 6.5,
-   "vps": 6.5
+   "viewers": 10.0,
+   "vps": 10.0
   },
   {
    "d": 6,
@@ -1207,18 +1207,18 @@
   {
    "d": 6,
    "h": 6,
-   "n": 2,
+   "n": 1,
    "shows": 1.0,
-   "viewers": 9.5,
-   "vps": 9.5
+   "viewers": 13.0,
+   "vps": 13.0
   },
   {
    "d": 6,
    "h": 7,
-   "n": 1,
-   "shows": 2.0,
+   "n": 2,
+   "shows": 1.5,
    "viewers": 11.0,
-   "vps": 5.5
+   "vps": 7.3
   },
   {
    "d": 6,
@@ -1352,10 +1352,10 @@
  "by_hour": [
   {
    "h": 0,
-   "n": 21,
-   "shows": 5.8,
-   "viewers": 153.3,
-   "vps": 26.4
+   "n": 20,
+   "shows": 5.7,
+   "viewers": 154.8,
+   "vps": 27.2
   },
   {
    "h": 1,
@@ -1366,10 +1366,10 @@
   },
   {
    "h": 2,
-   "n": 2,
+   "n": 1,
    "shows": 1.0,
-   "viewers": 11.5,
-   "vps": 11.5
+   "viewers": 11.0,
+   "vps": 11.0
   },
   {
    "h": 3,
@@ -1380,10 +1380,10 @@
   },
   {
    "h": 4,
-   "n": 4,
-   "shows": 0.5,
-   "viewers": 3.2,
-   "vps": 6.4
+   "n": 3,
+   "shows": 0.3,
+   "viewers": 3.3,
+   "vps": 11.0
   },
   {
    "h": 5,
@@ -1394,17 +1394,17 @@
   },
   {
    "h": 6,
-   "n": 7,
+   "n": 6,
    "shows": 1.0,
-   "viewers": 5.6,
-   "vps": 5.6
+   "viewers": 5.5,
+   "vps": 5.5
   },
   {
    "h": 7,
-   "n": 13,
+   "n": 14,
    "shows": 1.1,
-   "viewers": 9.8,
-   "vps": 8.9
+   "viewers": 9.9,
+   "vps": 9.0
   },
   {
    "h": 8,
@@ -1531,8 +1531,8 @@
    "name": "thecardcave",
    "category": "Trading Cards",
    "peak": 283,
-   "avg": 41.6,
-   "shows": 63
+   "avg": 42.2,
+   "shows": 62
   },
   {
    "name": "midwestmemorabilia",
@@ -1545,29 +1545,29 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 254,
-   "avg": 37.6,
-   "shows": 71
+   "avg": 38.0,
+   "shows": 70
   },
   {
    "name": "sneakerstacks",
    "category": "Sneakers",
    "peak": 187,
-   "avg": 35.0,
-   "shows": 64
+   "avg": 35.2,
+   "shows": 63
   },
   {
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 172,
-   "avg": 36.1,
-   "shows": 63
+   "avg": 36.9,
+   "shows": 61
   },
   {
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 171,
-   "avg": 35.2,
-   "shows": 56
+   "avg": 35.3,
+   "shows": 55
   },
   {
    "name": "funkofinds",
@@ -1587,8 +1587,8 @@
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 153,
-   "avg": 39.7,
-   "shows": 66
+   "avg": 40.0,
+   "shows": 65
   },
   {
    "name": "thehobbyhouse",
@@ -1615,33 +1615,33 @@
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 123,
-   "avg": 32.4,
+   "avg": 32.5,
    "shows": 72
   },
   {
    "name": "charizardcorner",
    "category": "Pokemon",
    "peak": 122,
-   "avg": 32.1,
-   "shows": 57
+   "avg": 32.7,
+   "shows": 56
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 11203
+   "viewers": 11152
   },
   {
    "name": "Sports Cards",
-   "viewers": 9482
+   "viewers": 9449
   },
   {
    "name": "Pokemon",
-   "viewers": 5793
+   "viewers": 5766
   },
   {
    "name": "Comics",
-   "viewers": 2671
+   "viewers": 2662
   },
   {
    "name": "Pop Culture",
@@ -1649,11 +1649,11 @@
   },
   {
    "name": "Coins",
-   "viewers": 2332
+   "viewers": 2337
   },
   {
    "name": "Sneakers",
-   "viewers": 2237
+   "viewers": 2218
   }
  ],
  "best_slots": [
