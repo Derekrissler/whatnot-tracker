@@ -7,8 +7,8 @@
 | | |
 |---|---|
 | Biggest audience | **8pm** (746 viewers platform-wide) |
-| Most competition | **9pm** (15.0 shows live at once) |
-| Samples collected | **144** over 27.9 days |
+| Most competition | **8pm** (14.6 shows live at once) |
+| Samples collected | **143** over 28.0 days |
 
 ## When to stream
 
@@ -16,7 +16,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 
 ```
      12a   3a    6a    9a    12p   3p    6p    9p
-Mon  ▒▒              ··        ▒▒▒▒▒▒    ▒▒██  ██  ▓▓
+Mon  ▒▒              ··        ▒▒▒▒▒▒    ▒▒██        
 Tue  ▒▒··  ··    ····  ░░  ▒▒▒▒  ▒▒  ▒▒▒▒▓▓  ██▓▓  ▒▒
 Wed  ░░    ··    ····  ░░    ░░      ▒▒▓▓  ████      
 Thu  ▒▒    ··      ░░  ░░    ░░  ░░  ▒▒▒▒    ▓▓      
@@ -38,7 +38,7 @@ Sun  ▒▒      ··  ░░··  ··  ░░░░  ▒▒  ▒▒▓▓▓�
 ## Viewers per show, by hour
 
 ```
-12am  ███████████            26.9
+12am  ███████████            27.4
  1am  ██                     6.0
  2am  ████                   11.0
  3am  █                      2.2
@@ -59,9 +59,9 @@ Sun  ▒▒      ··  ░░··  ··  ░░░░  ▒▒  ▒▒▓▓▓�
  6pm  █████████████████      42.1
  7pm  ████████████████████   51.4
  8pm  ████████████████████   51.1
- 9pm  ████████████████████   49.4
+ 9pm  ████████████████       40.4
 10pm  ██████████████████████ 55.2
-11pm  ███████████████        37.0
+11pm  ████████████           30.6
 ```
 
 ## Top streamers
@@ -69,33 +69,33 @@ Sun  ▒▒      ··  ░░··  ··  ░░░░  ▒▒  ▒▒▓▓▓�
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
 | 1 | `vintagevault614` | Sports Cards | 284 | 43.9 | `████████████████` |
-| 2 | `midwestmemorabilia` | Sports Cards | 264 | 45.8 | `███████████████` |
+| 2 | `midwestmemorabilia` | Sports Cards | 264 | 45.1 | `███████████████` |
 | 3 | `sneakerstacks` | Sneakers | 187 | 33.6 | `███████████` |
-| 4 | `slabsanddabs` | Trading Cards | 172 | 37.2 | `██████████` |
-| 5 | `buckeyebreaks` | Sports Cards | 171 | 36.3 | `██████████` |
+| 4 | `slabsanddabs` | Trading Cards | 172 | 36.5 | `██████████` |
+| 5 | `buckeyebreaks` | Sports Cards | 171 | 35.6 | `██████████` |
 | 6 | `funkofinds` | Pop Culture | 169 | 40.8 | `██████████` |
-| 7 | `comiccryptllc` | Comics | 165 | 37.8 | `█████████` |
-| 8 | `pristinepulls` | Sports Cards | 155 | 38.5 | `█████████` |
-| 9 | `ripcityrips` | Trading Cards | 153 | 36.9 | `█████████` |
-| 10 | `thehobbyhouse` | Trading Cards | 149 | 32.3 | `████████` |
-| 11 | `cardvaultbreaks` | Trading Cards | 142 | 36.3 | `████████` |
-| 12 | `thecardcave` | Trading Cards | 139 | 36.6 | `████████` |
-| 13 | `pokeprospector` | Pokemon | 138 | 33.1 | `████████` |
-| 14 | `charizardcorner` | Pokemon | 126 | 35.0 | `███████` |
-| 15 | `coinsbykyle` | Coins | 123 | 32.3 | `███████` |
+| 7 | `comiccryptllc` | Comics | 165 | 37.3 | `█████████` |
+| 8 | `pristinepulls` | Sports Cards | 155 | 38.7 | `█████████` |
+| 9 | `ripcityrips` | Trading Cards | 153 | 37.2 | `█████████` |
+| 10 | `thehobbyhouse` | Trading Cards | 149 | 32.5 | `████████` |
+| 11 | `cardvaultbreaks` | Trading Cards | 142 | 36.6 | `████████` |
+| 12 | `thecardcave` | Trading Cards | 139 | 35.5 | `████████` |
+| 13 | `pokeprospector` | Pokemon | 138 | 31.9 | `████████` |
+| 14 | `charizardcorner` | Pokemon | 126 | 34.3 | `███████` |
+| 15 | `coinsbykyle` | Coins | 123 | 30.9 | `███████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 10,168 | `██████████████████` |
-| Sports Cards | 9,033 | `████████████████` |
-| Pokemon | 5,664 | `██████████` |
-| Comics | 2,492 | `████` |
-| Pop Culture | 2,446 | `████` |
-| Coins | 2,227 | `████` |
-| Sneakers | 1,879 | `███` |
+| Trading Cards | 9,856 | `██████████████████` |
+| Sports Cards | 8,756 | `████████████████` |
+| Pokemon | 5,355 | `██████████` |
+| Pop Culture | 2,448 | `████` |
+| Comics | 2,390 | `████` |
+| Coins | 2,073 | `████` |
+| Sneakers | 1,883 | `███` |
 
 ---
 
-<sub>Updated 2026-09-21 23:15 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-09-22 04:50 UTC · times shown in America/New_York · demo data</sub>

@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-21T23:15:11+00:00",
+ "generated": "2026-09-22T04:50:31+00:00",
  "tz": "America/New_York",
- "samples": 144,
- "days_covered": 27.9,
+ "samples": 143,
+ "days_covered": 28.0,
  "grid": [
   {
    "d": 0,
@@ -175,10 +175,10 @@
   {
    "d": 0,
    "h": 21,
-   "n": 1,
-   "shows": 16.0,
-   "viewers": 916.0,
-   "vps": 57.2
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 0,
@@ -191,18 +191,18 @@
   {
    "d": 0,
    "h": 23,
-   "n": 1,
-   "shows": 9.0,
-   "viewers": 391.0,
-   "vps": 43.4
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 1,
    "h": 0,
-   "n": 3,
-   "shows": 5.7,
-   "viewers": 149.7,
-   "vps": 26.3
+   "n": 4,
+   "shows": 5.5,
+   "viewers": 152.0,
+   "vps": 27.6
   },
   {
    "d": 1,
@@ -1352,10 +1352,10 @@
  "by_hour": [
   {
    "h": 0,
-   "n": 20,
-   "shows": 5.7,
-   "viewers": 153.1,
-   "vps": 26.9
+   "n": 21,
+   "shows": 5.6,
+   "viewers": 153.4,
+   "vps": 27.4
   },
   {
    "h": 1,
@@ -1499,10 +1499,10 @@
   },
   {
    "h": 21,
-   "n": 2,
-   "shows": 15.0,
-   "viewers": 741.0,
-   "vps": 49.4
+   "n": 1,
+   "shows": 14.0,
+   "viewers": 566.0,
+   "vps": 40.4
   },
   {
    "h": 22,
@@ -1513,10 +1513,10 @@
   },
   {
    "h": 23,
-   "n": 2,
+   "n": 1,
    "shows": 9.0,
-   "viewers": 333.0,
-   "vps": 37.0
+   "viewers": 275.0,
+   "vps": 30.6
   }
  ],
  "top_streamers": [
@@ -1525,14 +1525,14 @@
    "category": "Sports Cards",
    "peak": 284,
    "avg": 43.9,
-   "shows": 59
+   "shows": 58
   },
   {
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 264,
-   "avg": 45.8,
-   "shows": 59
+   "avg": 45.1,
+   "shows": 57
   },
   {
    "name": "sneakerstacks",
@@ -1545,15 +1545,15 @@
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 172,
-   "avg": 37.2,
-   "shows": 56
+   "avg": 36.5,
+   "shows": 54
   },
   {
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 171,
-   "avg": 36.3,
-   "shows": 51
+   "avg": 35.6,
+   "shows": 50
   },
   {
    "name": "funkofinds",
@@ -1566,94 +1566,94 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 165,
-   "avg": 37.8,
-   "shows": 66
+   "avg": 37.3,
+   "shows": 64
   },
   {
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 155,
-   "avg": 38.5,
-   "shows": 49
+   "avg": 38.7,
+   "shows": 48
   },
   {
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 153,
-   "avg": 36.9,
-   "shows": 63
+   "avg": 37.2,
+   "shows": 62
   },
   {
    "name": "thehobbyhouse",
    "category": "Trading Cards",
    "peak": 149,
-   "avg": 32.3,
-   "shows": 55
+   "avg": 32.5,
+   "shows": 53
   },
   {
    "name": "cardvaultbreaks",
    "category": "Trading Cards",
    "peak": 142,
-   "avg": 36.3,
-   "shows": 49
+   "avg": 36.6,
+   "shows": 48
   },
   {
    "name": "thecardcave",
    "category": "Trading Cards",
    "peak": 139,
-   "avg": 36.6,
-   "shows": 60
+   "avg": 35.5,
+   "shows": 59
   },
   {
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 138,
-   "avg": 33.1,
-   "shows": 60
+   "avg": 31.9,
+   "shows": 59
   },
   {
    "name": "charizardcorner",
    "category": "Pokemon",
    "peak": 126,
-   "avg": 35.0,
-   "shows": 51
+   "avg": 34.3,
+   "shows": 49
   },
   {
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 123,
-   "avg": 32.3,
-   "shows": 69
+   "avg": 30.9,
+   "shows": 67
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 10168
+   "viewers": 9856
   },
   {
    "name": "Sports Cards",
-   "viewers": 9033
+   "viewers": 8756
   },
   {
    "name": "Pokemon",
-   "viewers": 5664
-  },
-  {
-   "name": "Comics",
-   "viewers": 2492
+   "viewers": 5355
   },
   {
    "name": "Pop Culture",
-   "viewers": 2446
+   "viewers": 2448
+  },
+  {
+   "name": "Comics",
+   "viewers": 2390
   },
   {
    "name": "Coins",
-   "viewers": 2227
+   "viewers": 2073
   },
   {
    "name": "Sneakers",
-   "viewers": 1879
+   "viewers": 1883
   }
  ],
  "best_slots": [
