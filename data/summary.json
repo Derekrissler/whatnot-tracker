@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-23T07:43:17+00:00",
+ "generated": "2026-09-23T13:36:43+00:00",
  "tz": "America/New_York",
- "samples": 134,
+ "samples": 132,
  "days_covered": 27.9,
  "grid": [
   {
@@ -431,18 +431,18 @@
   {
    "d": 2,
    "h": 5,
-   "n": 1,
-   "shows": 0.0,
-   "viewers": 0.0,
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
    "vps": 0
   },
   {
    "d": 2,
    "h": 6,
-   "n": 1,
-   "shows": 1.0,
-   "viewers": 1.0,
-   "vps": 1.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 2,
@@ -465,8 +465,8 @@
    "h": 9,
    "n": 1,
    "shows": 2.0,
-   "viewers": 26.0,
-   "vps": 13.0
+   "viewers": 30.0,
+   "vps": 15.0
   },
   {
    "d": 2,
@@ -1387,17 +1387,17 @@
   },
   {
    "h": 5,
-   "n": 2,
+   "n": 1,
    "shows": 0.0,
    "viewers": 0.0,
    "vps": 0
   },
   {
    "h": 6,
-   "n": 4,
+   "n": 3,
    "shows": 1.0,
-   "viewers": 5.5,
-   "vps": 5.5
+   "viewers": 7.0,
+   "vps": 7.0
   },
   {
    "h": 7,
@@ -1417,8 +1417,8 @@
    "h": 9,
    "n": 3,
    "shows": 2.7,
-   "viewers": 39.3,
-   "vps": 14.6
+   "viewers": 40.7,
+   "vps": 15.1
   },
   {
    "h": 10,
@@ -1524,8 +1524,8 @@
    "name": "vintagevault614",
    "category": "Sports Cards",
    "peak": 284,
-   "avg": 44.5,
-   "shows": 57
+   "avg": 43.9,
+   "shows": 58
   },
   {
    "name": "midwestmemorabilia",
@@ -1559,8 +1559,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 169,
-   "avg": 40.2,
-   "shows": 59
+   "avg": 40.8,
+   "shows": 58
   },
   {
    "name": "comiccryptllc",
@@ -1622,8 +1622,8 @@
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 123,
-   "avg": 31.5,
-   "shows": 64
+   "avg": 32.0,
+   "shows": 63
   }
  ],
  "categories": [
@@ -1633,7 +1633,7 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 8475
+   "viewers": 8486
   },
   {
    "name": "Pokemon",
@@ -1641,7 +1641,7 @@
   },
   {
    "name": "Pop Culture",
-   "viewers": 2372
+   "viewers": 2364
   },
   {
    "name": "Comics",
