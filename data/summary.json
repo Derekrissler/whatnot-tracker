@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-24T11:40:49+00:00",
+ "generated": "2026-09-24T17:07:03+00:00",
  "tz": "America/New_York",
- "samples": 132,
- "days_covered": 27.6,
+ "samples": 133,
+ "days_covered": 27.9,
  "grid": [
   {
    "d": 0,
@@ -687,10 +687,10 @@
   {
    "d": 3,
    "h": 13,
-   "n": 0,
-   "shows": 0,
-   "viewers": 0,
-   "vps": 0
+   "n": 1,
+   "shows": 4.0,
+   "viewers": 75.0,
+   "vps": 18.8
   },
   {
    "d": 3,
@@ -1443,10 +1443,10 @@
   },
   {
    "h": 13,
-   "n": 2,
-   "shows": 5.5,
-   "viewers": 120.0,
-   "vps": 21.8
+   "n": 3,
+   "shows": 5.0,
+   "viewers": 105.0,
+   "vps": 21.0
   },
   {
    "h": 14,
@@ -1524,8 +1524,8 @@
    "name": "vintagevault614",
    "category": "Sports Cards",
    "peak": 284,
-   "avg": 44.6,
-   "shows": 59
+   "avg": 44.0,
+   "shows": 60
   },
   {
    "name": "midwestmemorabilia",
@@ -1553,7 +1553,7 @@
    "category": "Sports Cards",
    "peak": 171,
    "avg": 37.4,
-   "shows": 46
+   "shows": 47
   },
   {
    "name": "funkofinds",
@@ -1573,8 +1573,8 @@
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 155,
-   "avg": 37.5,
-   "shows": 44
+   "avg": 37.1,
+   "shows": 45
   },
   {
    "name": "thehobbyhouse",
@@ -1622,8 +1622,8 @@
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 123,
-   "avg": 31.6,
-   "shows": 63
+   "avg": 31.3,
+   "shows": 64
   }
  ],
  "categories": [
@@ -1633,7 +1633,7 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 8506
+   "viewers": 8568
   },
   {
    "name": "Pokemon",
@@ -1649,7 +1649,7 @@
   },
   {
    "name": "Coins",
-   "viewers": 1993
+   "viewers": 2006
   },
   {
    "name": "Sneakers",
