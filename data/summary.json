@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-25T00:32:15+00:00",
+ "generated": "2026-09-25T07:44:25+00:00",
  "tz": "America/New_York",
  "samples": 134,
- "days_covered": 27.8,
+ "days_covered": 27.5,
  "grid": [
   {
    "d": 0,
@@ -791,18 +791,18 @@
   {
    "d": 4,
    "h": 2,
-   "n": 1,
-   "shows": 1.0,
-   "viewers": 11.0,
-   "vps": 11.0
-  },
-  {
-   "d": 4,
-   "h": 3,
    "n": 0,
    "shows": 0,
    "viewers": 0,
    "vps": 0
+  },
+  {
+   "d": 4,
+   "h": 3,
+   "n": 1,
+   "shows": 1.0,
+   "viewers": 7.0,
+   "vps": 7.0
   },
   {
    "d": 4,
@@ -1366,17 +1366,17 @@
   },
   {
    "h": 2,
-   "n": 1,
-   "shows": 1.0,
-   "viewers": 11.0,
-   "vps": 11.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "h": 3,
-   "n": 3,
+   "n": 4,
    "shows": 1.0,
-   "viewers": 4.3,
-   "vps": 4.3
+   "viewers": 5.0,
+   "vps": 5.0
   },
   {
    "h": 4,
@@ -1566,8 +1566,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 165,
-   "avg": 36.1,
-   "shows": 63
+   "avg": 36.5,
+   "shows": 62
   },
   {
    "name": "pristinepulls",
@@ -1637,7 +1637,7 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 5097
+   "viewers": 5104
   },
   {
    "name": "Pop Culture",
@@ -1645,7 +1645,7 @@
   },
   {
    "name": "Comics",
-   "viewers": 2275
+   "viewers": 2264
   },
   {
    "name": "Coins",

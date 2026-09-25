@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (729 viewers platform-wide) |
 | Most competition | **8pm** (14.5 shows live at once) |
-| Samples collected | **134** over 27.8 days |
+| Samples collected | **134** over 27.5 days |
 
 ## When to stream
 
@@ -20,7 +20,7 @@ Mon  ▒▒              ··        ▒▒▒▒▒▒    ▒▒██
 Tue  ▒▒··          ░░        ▒▒      ▒▒▒▒    ▓▓      
 Wed  ░░    ··      ··  ░░    ░░  ▒▒  ▒▒▓▓▓▓  ██      
 Thu  ▒▒    ··      ░░  ░░    ░░░░░░  ▓▓▒▒    ▓▓      
-Fri  ▒▒  ··        ··        ░░  ░░  ▓▓      ██  ██  
+Fri  ▒▒    ··      ··        ░░  ░░  ▓▓      ██  ██  
 Sat  ▒▒    ··    ··░░░░    ░░░░░░▒▒  ▒▒  ██████      
 Sun  ▒▒      ··  ░░··  ··  ░░░░  ▒▒  ▒▒▓▓▓▓████      
 
@@ -40,8 +40,8 @@ Sun  ▒▒      ··  ░░··  ··  ░░░░  ▒▒  ▒▒▓▓▓�
 ```
 12am  ███████████            28.8
  1am  ██                     6.0
- 2am  ████                   11.0
- 3am  ██                     4.3
+ 2am  █                      0
+ 3am  ██                     5.0
  4am  ████                   10.0
  5am  █                      0
  6am  ███                    7.0
@@ -74,7 +74,7 @@ Sun  ▒▒      ··  ░░··  ··  ░░░░  ▒▒  ▒▒▓▓▓�
 | 4 | `slabsanddabs` | Trading Cards | 172 | 38.2 | `██████████` |
 | 5 | `buckeyebreaks` | Sports Cards | 171 | 38.2 | `██████████` |
 | 6 | `funkofinds` | Pop Culture | 169 | 40.9 | `██████████` |
-| 7 | `comiccryptllc` | Comics | 165 | 36.1 | `█████████` |
+| 7 | `comiccryptllc` | Comics | 165 | 36.5 | `█████████` |
 | 8 | `pristinepulls` | Sports Cards | 155 | 36.6 | `█████████` |
 | 9 | `thehobbyhouse` | Trading Cards | 149 | 34.7 | `████████` |
 | 10 | `cardvaultbreaks` | Trading Cards | 142 | 36.3 | `████████` |
@@ -90,12 +90,12 @@ Sun  ▒▒      ··  ░░··  ··  ░░░░  ▒▒  ▒▒▓▓▓�
 |---|--:|---|
 | Trading Cards | 9,854 | `██████████████████` |
 | Sports Cards | 8,706 | `████████████████` |
-| Pokemon | 5,097 | `█████████` |
+| Pokemon | 5,104 | `█████████` |
 | Pop Culture | 2,456 | `████` |
-| Comics | 2,275 | `████` |
+| Comics | 2,264 | `████` |
 | Coins | 2,071 | `████` |
 | Sneakers | 1,862 | `███` |
 
 ---
 
-<sub>Updated 2026-09-25 00:32 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-09-25 07:44 UTC · times shown in America/New_York · demo data</sub>
