@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (729 viewers platform-wide) |
 | Most competition | **8pm** (14.5 shows live at once) |
-| Samples collected | **136** over 27.8 days |
+| Samples collected | **137** over 28.0 days |
 
 ## When to stream
 
@@ -50,7 +50,7 @@ Sun  ▒▒      ··  ░░··  ··  ░░░░  ▒▒  ▒▒▓▓▓�
  9am  ███████                14.9
 10am  █                      0
 11am  ███████                16.2
-12pm  ██████████             22.7
+12pm  █████████              21.7
  1pm  █████████              21.0
  2pm  ███████████            25.7
  3pm  ███████████████        34.7
@@ -71,26 +71,26 @@ Sun  ▒▒      ··  ░░··  ··  ░░░░  ▒▒  ▒▒▓▓▓�
 | 1 | `vintagevault614` | Sports Cards | 284 | 42.2 | `████████████████` |
 | 2 | `midwestmemorabilia` | Sports Cards | 264 | 45.4 | `███████████████` |
 | 3 | `sneakerstacks` | Sneakers | 187 | 34.2 | `███████████` |
-| 4 | `slabsanddabs` | Trading Cards | 172 | 37.6 | `██████████` |
+| 4 | `slabsanddabs` | Trading Cards | 172 | 37.2 | `██████████` |
 | 5 | `buckeyebreaks` | Sports Cards | 171 | 38.3 | `██████████` |
 | 6 | `funkofinds` | Pop Culture | 169 | 40.3 | `██████████` |
 | 7 | `comiccryptllc` | Comics | 165 | 36.0 | `█████████` |
 | 8 | `pristinepulls` | Sports Cards | 155 | 36.6 | `█████████` |
-| 9 | `thehobbyhouse` | Trading Cards | 149 | 34.5 | `████████` |
+| 9 | `thehobbyhouse` | Trading Cards | 149 | 34.1 | `████████` |
 | 10 | `cardvaultbreaks` | Trading Cards | 142 | 36.3 | `████████` |
-| 11 | `thecardcave` | Trading Cards | 139 | 34.7 | `████████` |
+| 11 | `thecardcave` | Trading Cards | 139 | 34.3 | `████████` |
 | 12 | `pokeprospector` | Pokemon | 138 | 32.9 | `████████` |
-| 13 | `ripcityrips` | Trading Cards | 138 | 37.1 | `████████` |
-| 14 | `charizardcorner` | Pokemon | 126 | 35.2 | `███████` |
+| 13 | `ripcityrips` | Trading Cards | 138 | 36.5 | `████████` |
+| 14 | `charizardcorner` | Pokemon | 126 | 34.7 | `███████` |
 | 15 | `coinsbykyle` | Coins | 123 | 31.5 | `███████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 9,771 | `██████████████████` |
+| Trading Cards | 9,819 | `██████████████████` |
 | Sports Cards | 8,685 | `████████████████` |
-| Pokemon | 5,225 | `██████████` |
+| Pokemon | 5,245 | `██████████` |
 | Pop Culture | 2,420 | `████` |
 | Comics | 2,266 | `████` |
 | Coins | 2,076 | `████` |
@@ -98,4 +98,4 @@ Sun  ▒▒      ··  ░░··  ··  ░░░░  ▒▒  ▒▒▓▓▓�
 
 ---
 
-<sub>Updated 2026-09-26 11:20 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-09-26 16:20 UTC · times shown in America/New_York · demo data</sub>
