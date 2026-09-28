@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-28T05:19:27+00:00",
+ "generated": "2026-09-28T13:47:57+00:00",
  "tz": "America/New_York",
  "samples": 136,
- "days_covered": 27.9,
+ "days_covered": 27.8,
  "grid": [
   {
    "d": 0,
@@ -39,9 +39,9 @@
   {
    "d": 0,
    "h": 4,
-   "n": 1,
-   "shows": 0.0,
-   "viewers": 0.0,
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
    "vps": 0
   },
   {
@@ -79,10 +79,10 @@
   {
    "d": 0,
    "h": 9,
-   "n": 0,
-   "shows": 0,
-   "viewers": 0,
-   "vps": 0
+   "n": 1,
+   "shows": 2.0,
+   "viewers": 22.0,
+   "vps": 11.0
   },
   {
    "d": 0,
@@ -1380,9 +1380,9 @@
   },
   {
    "h": 4,
-   "n": 2,
-   "shows": 0.5,
-   "viewers": 1.0,
+   "n": 1,
+   "shows": 1.0,
+   "viewers": 2.0,
    "vps": 2.0
   },
   {
@@ -1415,10 +1415,10 @@
   },
   {
    "h": 9,
-   "n": 4,
-   "shows": 2.8,
-   "viewers": 45.2,
-   "vps": 16.1
+   "n": 5,
+   "shows": 2.6,
+   "viewers": 40.6,
+   "vps": 15.6
   },
   {
    "h": 10,
@@ -1531,8 +1531,8 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 264,
-   "avg": 47.2,
-   "shows": 56
+   "avg": 46.5,
+   "shows": 57
   },
   {
    "name": "sneakerstacks",
@@ -1633,11 +1633,11 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 8493
+   "viewers": 8505
   },
   {
    "name": "Pokemon",
-   "viewers": 5307
+   "viewers": 5317
   },
   {
    "name": "Pop Culture",
