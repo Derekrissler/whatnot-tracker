@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T01:54:25+00:00",
+ "generated": "2026-09-29T08:25:33+00:00",
  "tz": "America/New_York",
  "samples": 136,
  "days_covered": 27.9,
@@ -207,10 +207,10 @@
   {
    "d": 1,
    "h": 1,
-   "n": 1,
-   "shows": 3.0,
-   "viewers": 18.0,
-   "vps": 6.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 1,
@@ -231,9 +231,9 @@
   {
    "d": 1,
    "h": 4,
-   "n": 0,
-   "shows": 0,
-   "viewers": 0,
+   "n": 1,
+   "shows": 0.0,
+   "viewers": 0.0,
    "vps": 0
   },
   {
@@ -1359,10 +1359,10 @@
   },
   {
    "h": 1,
-   "n": 2,
+   "n": 1,
    "shows": 3.0,
-   "viewers": 28.0,
-   "vps": 9.3
+   "viewers": 38.0,
+   "vps": 12.7
   },
   {
    "h": 2,
@@ -1380,9 +1380,9 @@
   },
   {
    "h": 4,
-   "n": 1,
-   "shows": 1.0,
-   "viewers": 2.0,
+   "n": 2,
+   "shows": 0.5,
+   "viewers": 1.0,
    "vps": 2.0
   },
   {
@@ -1538,8 +1538,8 @@
    "name": "sneakerstacks",
    "category": "Sneakers",
    "peak": 187,
-   "avg": 36.4,
-   "shows": 54
+   "avg": 37.0,
+   "shows": 53
   },
   {
    "name": "slabsanddabs",
@@ -1566,8 +1566,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 165,
-   "avg": 36.5,
-   "shows": 63
+   "avg": 37.0,
+   "shows": 62
   },
   {
    "name": "pristinepulls",
@@ -1637,7 +1637,7 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 5550
+   "viewers": 5546
   },
   {
    "name": "Pop Culture",
@@ -1645,7 +1645,7 @@
   },
   {
    "name": "Comics",
-   "viewers": 2302
+   "viewers": 2295
   },
   {
    "name": "Coins",
@@ -1653,7 +1653,7 @@
   },
   {
    "name": "Sneakers",
-   "viewers": 1966
+   "viewers": 1959
   }
  ],
  "best_slots": [

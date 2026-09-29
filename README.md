@@ -17,7 +17,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 ```
      12a   3a    6a    9a    12p   3p    6p    9p
 Mon  ░░··            ····        ░░▒▒░░  ▒▒▓▓  ██    
-Tue  ▒▒··          ░░        ▒▒      ▒▒▒▒    ▓▓      
+Tue  ▒▒            ░░        ▒▒      ▒▒▒▒    ▓▓      
 Wed  ░░    ··      ··  ░░    ░░  ▒▒  ▒▒▒▒▓▓  ██      
 Thu  ▒▒    ··      ░░  ░░    ░░░░░░  ▒▒▒▒    ▓▓      
 Fri  ▒▒    ··      ··  ░░    ░░  ▒▒  ▒▒    ▒▒██      
@@ -39,7 +39,7 @@ Sun  ▒▒      ··  ░░··  ░░  ░░░░  ▒▒  ▒▒  ▓▓�
 
 ```
 12am  ███████████            28.6
- 1am  ███                    9.3
+ 1am  █████                  12.7
  2am  █                      0
  3am  ██                     5.0
  4am  █                      2.0
@@ -70,11 +70,11 @@ Sun  ▒▒      ··  ░░··  ░░  ░░░░  ▒▒  ▒▒  ▓▓�
 |--:|---|---|--:|--:|---|
 | 1 | `vintagevault614` | Sports Cards | 284 | 42.3 | `████████████████` |
 | 2 | `midwestmemorabilia` | Sports Cards | 264 | 46.1 | `███████████████` |
-| 3 | `sneakerstacks` | Sneakers | 187 | 36.4 | `███████████` |
+| 3 | `sneakerstacks` | Sneakers | 187 | 37.0 | `███████████` |
 | 4 | `slabsanddabs` | Trading Cards | 172 | 38.4 | `██████████` |
 | 5 | `buckeyebreaks` | Sports Cards | 171 | 40.3 | `██████████` |
 | 6 | `funkofinds` | Pop Culture | 170 | 41.0 | `██████████` |
-| 7 | `comiccryptllc` | Comics | 165 | 36.5 | `█████████` |
+| 7 | `comiccryptllc` | Comics | 165 | 37.0 | `█████████` |
 | 8 | `pristinepulls` | Sports Cards | 155 | 33.5 | `█████████` |
 | 9 | `thehobbyhouse` | Trading Cards | 149 | 35.9 | `████████` |
 | 10 | `cardvaultbreaks` | Trading Cards | 145 | 38.0 | `████████` |
@@ -90,12 +90,12 @@ Sun  ▒▒      ··  ░░··  ░░  ░░░░  ▒▒  ▒▒  ▓▓�
 |---|--:|---|
 | Trading Cards | 9,869 | `██████████████████` |
 | Sports Cards | 8,615 | `████████████████` |
-| Pokemon | 5,550 | `██████████` |
+| Pokemon | 5,546 | `██████████` |
 | Pop Culture | 2,539 | `█████` |
-| Comics | 2,302 | `████` |
+| Comics | 2,295 | `████` |
 | Coins | 2,183 | `████` |
-| Sneakers | 1,966 | `████` |
+| Sneakers | 1,959 | `████` |
 
 ---
 
-<sub>Updated 2026-09-29 01:54 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-09-29 08:25 UTC · times shown in America/New_York · demo data</sub>
