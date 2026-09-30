@@ -18,7 +18,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
      12a   3a    6a    9a    12p   3p    6p    9p
 Mon  ░░··            ····        ░░▒▒░░  ▒▒▓▓  ██    
 Tue  ▒▒            ░░        ▒▒        ▒▒▒▒  ▓▓▓▓    
-Wed  ░░    ··      ··  ░░    ░░  ▒▒  ▒▒▒▒▓▓  ██      
+Wed  ░░    ····    ··  ░░    ░░  ▒▒  ▒▒▒▒▓▓  ██      
 Thu  ▒▒    ··      ░░  ░░    ░░░░░░  ▒▒▒▒    ▓▓      
 Fri  ▒▒    ··      ··  ░░    ░░  ▒▒  ▒▒    ▒▒██      
 Sat  ▒▒    ··    ··▒▒··    ░░··░░▒▒  ▒▒▒▒▓▓▓▓██      
@@ -38,11 +38,11 @@ Sun  ▒▒      ··  ░░··  ░░  ░░░░  ▒▒  ▒▒  ▓▓�
 ## Viewers per show, by hour
 
 ```
-12am  ████████████           28.6
+12am  ████████████           29.1
  1am  █████                  12.7
  2am  █                      0
  3am  ██                     5.0
- 4am  █                      2.0
+ 4am  █                      2.9
  5am  █                      0
  6am  ███                    7.0
  7am  █████                  12.2
@@ -68,34 +68,34 @@ Sun  ▒▒      ··  ░░··  ░░  ░░░░  ▒▒  ▒▒  ▓▓�
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `midwestmemorabilia` | Sports Cards | 264 | 45.7 | `████████████████` |
+| 1 | `midwestmemorabilia` | Sports Cards | 264 | 46.1 | `████████████████` |
 | 2 | `sneakerstacks` | Sneakers | 187 | 36.6 | `███████████` |
 | 3 | `slabsanddabs` | Trading Cards | 172 | 38.3 | `██████████` |
 | 4 | `buckeyebreaks` | Sports Cards | 171 | 40.0 | `██████████` |
-| 5 | `funkofinds` | Pop Culture | 170 | 40.8 | `██████████` |
+| 5 | `funkofinds` | Pop Culture | 170 | 41.2 | `██████████` |
 | 6 | `vintagevault614` | Sports Cards | 166 | 37.8 | `██████████` |
-| 7 | `comiccryptllc` | Comics | 165 | 38.8 | `██████████` |
+| 7 | `comiccryptllc` | Comics | 165 | 38.2 | `██████████` |
 | 8 | `pristinepulls` | Sports Cards | 155 | 35.9 | `█████████` |
 | 9 | `thehobbyhouse` | Trading Cards | 149 | 35.7 | `█████████` |
 | 10 | `cardvaultbreaks` | Trading Cards | 145 | 39.5 | `█████████` |
-| 11 | `ripcityrips` | Trading Cards | 138 | 35.0 | `████████` |
-| 12 | `pokeprospector` | Pokemon | 138 | 34.6 | `████████` |
-| 13 | `charizardcorner` | Pokemon | 126 | 36.3 | `████████` |
+| 11 | `pokeprospector` | Pokemon | 138 | 34.6 | `████████` |
+| 12 | `ripcityrips` | Trading Cards | 138 | 35.4 | `████████` |
+| 13 | `charizardcorner` | Pokemon | 126 | 36.9 | `████████` |
 | 14 | `coinsbykyle` | Coins | 123 | 32.5 | `███████` |
-| 15 | `thecardcave` | Trading Cards | 122 | 33.8 | `███████` |
+| 15 | `thecardcave` | Trading Cards | 122 | 33.6 | `███████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 9,865 | `██████████████████` |
-| Sports Cards | 8,497 | `████████████████` |
-| Pokemon | 5,539 | `██████████` |
-| Pop Culture | 2,486 | `█████` |
-| Comics | 2,364 | `████` |
+| Trading Cards | 9,806 | `██████████████████` |
+| Sports Cards | 8,473 | `████████████████` |
+| Pokemon | 5,530 | `██████████` |
+| Pop Culture | 2,475 | `█████` |
+| Comics | 2,368 | `████` |
 | Coins | 2,082 | `████` |
 | Sneakers | 1,976 | `████` |
 
 ---
 
-<sub>Updated 2026-09-30 01:16 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-09-30 08:29 UTC · times shown in America/New_York · demo data</sub>
