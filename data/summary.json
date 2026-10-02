@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T05:31:46+00:00",
+ "generated": "2026-10-02T12:28:26+00:00",
  "tz": "America/New_York",
  "samples": 132,
  "days_covered": 27.8,
@@ -831,18 +831,18 @@
   {
    "d": 4,
    "h": 7,
-   "n": 3,
+   "n": 2,
    "shows": 1.0,
-   "viewers": 7.0,
-   "vps": 7.0
+   "viewers": 5.0,
+   "vps": 5.0
   },
   {
    "d": 4,
    "h": 8,
-   "n": 0,
-   "shows": 0,
-   "viewers": 0,
-   "vps": 0
+   "n": 1,
+   "shows": 2.0,
+   "viewers": 21.0,
+   "vps": 10.5
   },
   {
    "d": 4,
@@ -1401,17 +1401,17 @@
   },
   {
    "h": 7,
-   "n": 13,
+   "n": 12,
    "shows": 1.2,
-   "viewers": 14.3,
-   "vps": 11.9
+   "viewers": 14.6,
+   "vps": 12.2
   },
   {
    "h": 8,
-   "n": 4,
+   "n": 5,
    "shows": 2.2,
-   "viewers": 21.8,
-   "vps": 9.9
+   "viewers": 21.6,
+   "vps": 9.8
   },
   {
    "h": 9,
@@ -1531,8 +1531,8 @@
    "name": "sneakerstacks",
    "category": "Sneakers",
    "peak": 187,
-   "avg": 37.0,
-   "shows": 52
+   "avg": 36.5,
+   "shows": 53
   },
   {
    "name": "slabsanddabs",
@@ -1573,8 +1573,8 @@
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 155,
-   "avg": 36.1,
-   "shows": 45
+   "avg": 36.6,
+   "shows": 44
   },
   {
    "name": "cardvaultbreaks",
@@ -1615,8 +1615,8 @@
    "name": "thehobbyhouse",
    "category": "Trading Cards",
    "peak": 99,
-   "avg": 33.3,
-   "shows": 49
+   "avg": 32.9,
+   "shows": 50
   },
   {
    "name": "pokeprospector",
@@ -1629,11 +1629,11 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 9378
+   "viewers": 9390
   },
   {
    "name": "Sports Cards",
-   "viewers": 8117
+   "viewers": 8106
   },
   {
    "name": "Pokemon",
@@ -1653,7 +1653,7 @@
   },
   {
    "name": "Sneakers",
-   "viewers": 1923
+   "viewers": 1932
   }
  ],
  "best_slots": [
