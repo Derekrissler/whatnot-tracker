@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **9pm** (737 viewers platform-wide) |
 | Most competition | **9pm** (15.3 shows live at once) |
-| Samples collected | **132** over 28.0 days |
+| Samples collected | **131** over 27.8 days |
 
 ## When to stream
 
@@ -21,7 +21,7 @@ Tue  ▒▒            ░░        ▒▒        ▒▒▒▒  ▓▓▓▓
 Wed  ░░    ····    ··  ░░    ░░  ▒▒  ▒▒▒▒▓▓  ▓▓▓▓    
 Thu  ▒▒    ··      ░░  ░░    ··░░░░  ▒▒▒▒▒▒  ▓▓      
 Fri  ▓▓··  ··      ····░░    ░░  ▒▒░░▓▓    ▒▒██      
-Sat  ▒▒    ··    ··▒▒··    ░░··░░▒▒  ▒▒▒▒▓▓▓▓██      
+Sat  ▒▒▒▒  ··    ··▒▒··    ░░··░░▒▒  ▒▒▒▒▓▓▓▓██      
 Sun  ▒▒      ··  ░░··  ░░  ░░░░  ▒▒  ▒▒  ▓▓██        
 
      low  · ░ ▒ ▓ █  high
@@ -30,7 +30,7 @@ Sun  ▒▒      ··  ░░··  ░░  ░░░░  ▒▒  ▒▒  ▓▓�
 | Best slot | Viewers/show | Shows live | Total viewers |
 |---|--:|--:|--:|
 | Sat 8pm | 64.0 | 15.5 | 992 |
-| Fri 8pm | 53.3 | 15.0 | 800 |
+| Fri 8pm | 57.5 | 15.5 | 890 |
 | Sun 7pm | 52.9 | 14.0 | 740 |
 | Mon 7pm | 50.2 | 12.0 | 603 |
 | Wed 8pm | 50.0 | 13.0 | 650 |
@@ -38,8 +38,8 @@ Sun  ▒▒      ··  ░░··  ░░  ░░░░  ▒▒  ▒▒  ▓▓�
 ## Viewers per show, by hour
 
 ```
-12am  █████████████          29.4
- 1am  █████                  10.8
+12am  ████████████           29.2
+ 1am  ███████                17.5
  2am  █                      0
  3am  ██                     5.0
  4am  █                      3.0
@@ -57,8 +57,8 @@ Sun  ▒▒      ··  ░░··  ░░  ░░░░  ▒▒  ▒▒  ▓▓�
  4pm  ███████████████        34.1
  5pm  █████████████          30.4
  6pm  █████████████████      39.8
- 7pm  █████████████████████  47.6
- 8pm  ██████████████████████ 50.9
+ 7pm  ████████████████████   47.6
+ 8pm  ██████████████████████ 51.5
  9pm  █████████████████████  48.2
 10pm  █                      0
 11pm  █                      0
@@ -68,34 +68,34 @@ Sun  ▒▒      ··  ░░··  ░░  ░░░░  ▒▒  ▒▒  ▓▓�
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `midwestmemorabilia` | Sports Cards | 264 | 43.2 | `████████████████` |
-| 2 | `sneakerstacks` | Sneakers | 187 | 36.8 | `███████████` |
+| 1 | `midwestmemorabilia` | Sports Cards | 264 | 43.3 | `████████████████` |
+| 2 | `sneakerstacks` | Sneakers | 187 | 37.3 | `███████████` |
 | 3 | `slabsanddabs` | Trading Cards | 172 | 39.3 | `██████████` |
-| 4 | `buckeyebreaks` | Sports Cards | 171 | 41.9 | `██████████` |
-| 5 | `funkofinds` | Pop Culture | 170 | 38.9 | `██████████` |
+| 4 | `buckeyebreaks` | Sports Cards | 171 | 42.5 | `██████████` |
+| 5 | `funkofinds` | Pop Culture | 170 | 36.6 | `██████████` |
 | 6 | `vintagevault614` | Sports Cards | 166 | 36.9 | `██████████` |
-| 7 | `comiccryptllc` | Comics | 165 | 39.5 | `██████████` |
+| 7 | `comiccryptllc` | Comics | 165 | 39.4 | `██████████` |
 | 8 | `pristinepulls` | Sports Cards | 155 | 35.6 | `█████████` |
-| 9 | `cardvaultbreaks` | Trading Cards | 145 | 38.1 | `█████████` |
-| 10 | `ripcityrips` | Trading Cards | 138 | 35.2 | `████████` |
-| 11 | `charizardcorner` | Pokemon | 126 | 37.4 | `████████` |
+| 9 | `cardvaultbreaks` | Trading Cards | 145 | 38.5 | `█████████` |
+| 10 | `ripcityrips` | Trading Cards | 138 | 34.3 | `████████` |
+| 11 | `charizardcorner` | Pokemon | 126 | 37.8 | `████████` |
 | 12 | `coinsbykyle` | Coins | 123 | 32.8 | `███████` |
-| 13 | `thecardcave` | Trading Cards | 118 | 32.2 | `███████` |
-| 14 | `thehobbyhouse` | Trading Cards | 99 | 33.5 | `██████` |
+| 13 | `thecardcave` | Trading Cards | 118 | 31.9 | `███████` |
+| 14 | `thehobbyhouse` | Trading Cards | 99 | 33.3 | `██████` |
 | 15 | `pokeprospector` | Pokemon | 94 | 33.3 | `██████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 9,408 | `██████████████████` |
-| Sports Cards | 8,116 | `████████████████` |
-| Pokemon | 5,271 | `██████████` |
-| Comics | 2,528 | `█████` |
-| Coins | 2,163 | `████` |
-| Pop Culture | 2,138 | `████` |
-| Sneakers | 2,023 | `████` |
+| Trading Cards | 9,102 | `██████████████████` |
+| Sports Cards | 8,032 | `████████████████` |
+| Pokemon | 5,196 | `██████████` |
+| Comics | 2,481 | `█████` |
+| Coins | 2,097 | `████` |
+| Sneakers | 2,016 | `████` |
+| Pop Culture | 2,015 | `████` |
 
 ---
 
-<sub>Updated 2026-10-02 23:45 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-10-03 05:13 UTC · times shown in America/New_York · demo data</sub>
