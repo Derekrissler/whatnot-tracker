@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T11:35:38+00:00",
+ "generated": "2026-10-03T16:15:33+00:00",
  "tz": "America/New_York",
  "samples": 131,
  "days_covered": 27.9,
@@ -1055,18 +1055,18 @@
   {
    "d": 5,
    "h": 11,
-   "n": 2,
-   "shows": 4.5,
+   "n": 1,
+   "shows": 4.0,
    "viewers": 81.0,
-   "vps": 18.0
+   "vps": 20.2
   },
   {
    "d": 5,
    "h": 12,
-   "n": 1,
+   "n": 2,
    "shows": 6.0,
-   "viewers": 68.0,
-   "vps": 11.3
+   "viewers": 93.0,
+   "vps": 15.5
   },
   {
    "d": 5,
@@ -1429,17 +1429,17 @@
   },
   {
    "h": 11,
-   "n": 3,
-   "shows": 4.7,
-   "viewers": 76.0,
-   "vps": 16.2
+   "n": 2,
+   "shows": 4.5,
+   "viewers": 73.5,
+   "vps": 16.3
   },
   {
    "h": 12,
-   "n": 13,
-   "shows": 5.0,
-   "viewers": 116.8,
-   "vps": 23.4
+   "n": 14,
+   "shows": 5.1,
+   "viewers": 116.9,
+   "vps": 22.9
   },
   {
    "h": 13,
@@ -1524,29 +1524,29 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 264,
-   "avg": 43.3,
+   "avg": 43.2,
    "shows": 56
   },
   {
    "name": "sneakerstacks",
    "category": "Sneakers",
    "peak": 187,
-   "avg": 37.3,
-   "shows": 54
+   "avg": 37.9,
+   "shows": 53
   },
   {
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 172,
-   "avg": 39.3,
-   "shows": 56
+   "avg": 39.7,
+   "shows": 55
   },
   {
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 171,
-   "avg": 42.5,
-   "shows": 43
+   "avg": 41.6,
+   "shows": 44
   },
   {
    "name": "funkofinds",
@@ -1566,8 +1566,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 165,
-   "avg": 39.4,
-   "shows": 63
+   "avg": 39.6,
+   "shows": 62
   },
   {
    "name": "pristinepulls",
@@ -1580,8 +1580,8 @@
    "name": "cardvaultbreaks",
    "category": "Trading Cards",
    "peak": 145,
-   "avg": 37.9,
-   "shows": 46
+   "avg": 37.3,
+   "shows": 47
   },
   {
    "name": "ripcityrips",
@@ -1609,51 +1609,51 @@
    "category": "Trading Cards",
    "peak": 118,
    "avg": 31.9,
-   "shows": 53
+   "shows": 54
   },
   {
    "name": "thehobbyhouse",
    "category": "Trading Cards",
    "peak": 99,
-   "avg": 33.3,
-   "shows": 50
+   "avg": 33.5,
+   "shows": 51
   },
   {
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 94,
-   "avg": 32.8,
-   "shows": 57
+   "avg": 32.5,
+   "shows": 58
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 9113
+   "viewers": 9188
   },
   {
    "name": "Sports Cards",
-   "viewers": 8032
+   "viewers": 8034
   },
   {
    "name": "Pokemon",
-   "viewers": 5205
+   "viewers": 5195
   },
   {
    "name": "Comics",
-   "viewers": 2481
+   "viewers": 2458
   },
   {
    "name": "Coins",
    "viewers": 2091
   },
   {
-   "name": "Sneakers",
-   "viewers": 2016
-  },
-  {
    "name": "Pop Culture",
    "viewers": 2015
+  },
+  {
+   "name": "Sneakers",
+   "viewers": 2009
   }
  ],
  "best_slots": [
