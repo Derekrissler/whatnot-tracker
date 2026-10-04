@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-04T05:47:41+00:00",
+ "generated": "2026-10-04T12:17:20+00:00",
  "tz": "America/New_York",
  "samples": 130,
- "days_covered": 27.8,
+ "days_covered": 27.9,
  "grid": [
   {
    "d": 0,
@@ -1207,10 +1207,10 @@
   {
    "d": 6,
    "h": 6,
-   "n": 1,
-   "shows": 1.0,
-   "viewers": 13.0,
-   "vps": 13.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 6,
@@ -1223,10 +1223,10 @@
   {
    "d": 6,
    "h": 8,
-   "n": 0,
-   "shows": 0,
-   "viewers": 0,
-   "vps": 0
+   "n": 1,
+   "shows": 2.0,
+   "viewers": 20.0,
+   "vps": 10.0
   },
   {
    "d": 6,
@@ -1394,10 +1394,10 @@
   },
   {
    "h": 6,
-   "n": 2,
+   "n": 1,
    "shows": 1.0,
-   "viewers": 7.5,
-   "vps": 7.5
+   "viewers": 2.0,
+   "vps": 2.0
   },
   {
    "h": 7,
@@ -1408,10 +1408,10 @@
   },
   {
    "h": 8,
-   "n": 5,
+   "n": 6,
    "shows": 2.2,
-   "viewers": 21.6,
-   "vps": 9.8
+   "viewers": 21.3,
+   "vps": 9.7
   },
   {
    "h": 9,
@@ -1524,8 +1524,8 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 264,
-   "avg": 43.4,
-   "shows": 57
+   "avg": 42.8,
+   "shows": 58
   },
   {
    "name": "sneakerstacks",
@@ -1559,8 +1559,8 @@
    "name": "vintagevault614",
    "category": "Sports Cards",
    "peak": 166,
-   "avg": 37.3,
-   "shows": 59
+   "avg": 37.7,
+   "shows": 58
   },
   {
    "name": "comiccryptllc",
@@ -1573,8 +1573,8 @@
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 155,
-   "avg": 36.1,
-   "shows": 44
+   "avg": 35.6,
+   "shows": 45
   },
   {
    "name": "cardvaultbreaks",
@@ -1633,7 +1633,7 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 8213
+   "viewers": 8220
   },
   {
    "name": "Pokemon",
