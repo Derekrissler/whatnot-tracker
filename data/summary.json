@@ -1,16 +1,16 @@
 {
- "generated": "2026-10-05T00:53:37+00:00",
+ "generated": "2026-10-05T08:58:39+00:00",
  "tz": "America/New_York",
  "samples": 129,
- "days_covered": 27.8,
+ "days_covered": 27.9,
  "grid": [
   {
    "d": 0,
    "h": 0,
-   "n": 3,
-   "shows": 4.7,
-   "viewers": 112.7,
-   "vps": 24.0
+   "n": 2,
+   "shows": 4.0,
+   "viewers": 86.0,
+   "vps": 21.5
   },
   {
    "d": 0,
@@ -39,9 +39,9 @@
   {
    "d": 0,
    "h": 4,
-   "n": 0,
-   "shows": 0,
-   "viewers": 0,
+   "n": 1,
+   "shows": 0.0,
+   "viewers": 0.0,
    "vps": 0
   },
   {
@@ -1352,10 +1352,10 @@
  "by_hour": [
   {
    "h": 0,
-   "n": 16,
+   "n": 15,
    "shows": 5.8,
-   "viewers": 170.2,
-   "vps": 29.3
+   "viewers": 170.5,
+   "vps": 29.4
   },
   {
    "h": 1,
@@ -1380,9 +1380,9 @@
   },
   {
    "h": 4,
-   "n": 4,
-   "shows": 0.5,
-   "viewers": 1.5,
+   "n": 5,
+   "shows": 0.4,
+   "viewers": 1.2,
    "vps": 3.0
   },
   {
@@ -1524,15 +1524,15 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 264,
-   "avg": 42.8,
-   "shows": 59
+   "avg": 43.0,
+   "shows": 58
   },
   {
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 172,
-   "avg": 38.1,
-   "shows": 53
+   "avg": 38.0,
+   "shows": 52
   },
   {
    "name": "buckeyebreaks",
@@ -1566,15 +1566,15 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 165,
-   "avg": 38.9,
-   "shows": 61
+   "avg": 39.2,
+   "shows": 60
   },
   {
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 155,
-   "avg": 35.3,
-   "shows": 45
+   "avg": 35.4,
+   "shows": 44
   },
   {
    "name": "cardvaultbreaks",
@@ -1622,26 +1622,26 @@
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 94,
-   "avg": 34.4,
-   "shows": 57
+   "avg": 34.6,
+   "shows": 56
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 8930
+   "viewers": 8887
   },
   {
    "name": "Sports Cards",
-   "viewers": 8286
+   "viewers": 8224
   },
   {
    "name": "Pokemon",
-   "viewers": 5223
+   "viewers": 5181
   },
   {
    "name": "Comics",
-   "viewers": 2374
+   "viewers": 2355
   },
   {
    "name": "Pop Culture",
