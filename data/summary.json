@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-13T06:44:27+00:00",
+ "generated": "2026-10-13T15:55:14+00:00",
  "tz": "America/New_York",
  "samples": 118,
- "days_covered": 27.8,
+ "days_covered": 28.0,
  "grid": [
   {
    "d": 0,
@@ -255,10 +255,10 @@
   {
    "d": 1,
    "h": 7,
-   "n": 2,
+   "n": 1,
    "shows": 1.0,
-   "viewers": 14.0,
-   "vps": 14.0
+   "viewers": 22.0,
+   "vps": 22.0
   },
   {
    "d": 1,
@@ -287,10 +287,10 @@
   {
    "d": 1,
    "h": 11,
-   "n": 0,
-   "shows": 0,
-   "viewers": 0,
-   "vps": 0
+   "n": 1,
+   "shows": 3.0,
+   "viewers": 29.0,
+   "vps": 9.7
   },
   {
    "d": 1,
@@ -1401,10 +1401,10 @@
   },
   {
    "h": 7,
-   "n": 8,
-   "shows": 1.2,
-   "viewers": 17.1,
-   "vps": 14.3
+   "n": 7,
+   "shows": 1.3,
+   "viewers": 18.7,
+   "vps": 14.4
   },
   {
    "h": 8,
@@ -1429,10 +1429,10 @@
   },
   {
    "h": 11,
-   "n": 1,
-   "shows": 4.0,
-   "viewers": 79.0,
-   "vps": 19.8
+   "n": 2,
+   "shows": 3.5,
+   "viewers": 54.0,
+   "vps": 15.4
   },
   {
    "h": 12,
@@ -1538,8 +1538,8 @@
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 209,
-   "avg": 37.1,
-   "shows": 48
+   "avg": 36.6,
+   "shows": 49
   },
   {
    "name": "funkofinds",
@@ -1559,8 +1559,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 159,
-   "avg": 36.9,
-   "shows": 47
+   "avg": 37.5,
+   "shows": 46
   },
   {
    "name": "coinsbykyle",
@@ -1580,8 +1580,8 @@
    "name": "cardvaultbreaks",
    "category": "Trading Cards",
    "peak": 145,
-   "avg": 39.0,
-   "shows": 39
+   "avg": 38.3,
+   "shows": 40
   },
   {
    "name": "pristinepulls",
@@ -1594,8 +1594,8 @@
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 134,
-   "avg": 40.1,
-   "shows": 49
+   "avg": 39.4,
+   "shows": 50
   },
   {
    "name": "buckeyebreaks",
@@ -1629,7 +1629,7 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 8247
+   "viewers": 8264
   },
   {
    "name": "Sports Cards",
@@ -1637,7 +1637,7 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 5650
+   "viewers": 5662
   },
   {
    "name": "Pop Culture",
@@ -1649,7 +1649,7 @@
   },
   {
    "name": "Comics",
-   "viewers": 1733
+   "viewers": 1727
   },
   {
    "name": "Coins",
