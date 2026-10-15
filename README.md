@@ -19,7 +19,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 Mon  ░░··            ░░··  ░░      ▒▒░░  ██▓▓  ██    
 Tue  ▒▒  ··        ░░      ··░░        ░░▒▒  ▓▓██    
 Wed    ░░  ░░··        ··    ▒▒  ░░▓▓    ▓▓▓▓▓▓▓▓    
-Thu  ▒▒··  ··      ··  ░░      ░░░░░░  ▒▒▒▒  ██      
+Thu  ▒▒··          ░░  ░░      ░░░░░░  ▒▒▒▒  ██      
 Fri  ██··  ····    ····░░    ░░  ▒▒░░▓▓  ▒▒▒▒██      
 Sat  ░░░░  ··      ░░··      ░░░░▒▒▒▒▓▓▒▒  ▓▓██      
 Sun  ░░▒▒    ··    ····░░    ░░  ▒▒    ▒▒▓▓██▓▓      
@@ -41,11 +41,11 @@ Sun  ░░▒▒    ··    ····░░    ░░  ▒▒    ▒▒▓▓█
 12am  █████████████          31.3
  1am  ███████                16.8
  2am  ████                   9.0
- 3am  ████                   9.2
+ 3am  ████                   10.5
  4am  █                      3.2
  5am  █                      0
  6am  █                      0
- 7am  ███████                15.8
+ 7am  ███████                15.7
  8am  █████                  11.2
  9am  ██████                 13.8
 10am  █                      0
@@ -69,10 +69,10 @@ Sun  ░░▒▒    ··    ····░░    ░░  ▒▒    ▒▒▓▓█
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
 | 1 | `midwestmemorabilia` | Sports Cards | 264 | 40.8 | `████████████████` |
-| 2 | `sneakerstacks` | Sneakers | 211 | 38.7 | `█████████████` |
+| 2 | `sneakerstacks` | Sneakers | 211 | 38.3 | `█████████████` |
 | 3 | `gradedgoods` | Pokemon | 209 | 38.2 | `█████████████` |
 | 4 | `ripcityrips` | Trading Cards | 178 | 35.0 | `███████████` |
-| 5 | `funkofinds` | Pop Culture | 170 | 40.3 | `██████████` |
+| 5 | `funkofinds` | Pop Culture | 170 | 40.9 | `██████████` |
 | 6 | `pokeprospector` | Pokemon | 170 | 40.1 | `██████████` |
 | 7 | `comiccryptllc` | Comics | 159 | 39.2 | `██████████` |
 | 8 | `coinsbykyle` | Coins | 156 | 29.0 | `█████████` |
@@ -91,11 +91,11 @@ Sun  ░░▒▒    ··    ····░░    ░░  ▒▒    ▒▒▓▓█
 | Trading Cards | 8,201 | `██████████████████` |
 | Sports Cards | 6,336 | `██████████████` |
 | Pokemon | 5,787 | `█████████████` |
-| Pop Culture | 2,256 | `█████` |
-| Sneakers | 1,856 | `████` |
+| Pop Culture | 2,252 | `█████` |
+| Sneakers | 1,876 | `████` |
 | Comics | 1,804 | `████` |
 | Coins | 1,449 | `███` |
 
 ---
 
-<sub>Updated 2026-10-15 04:32 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-10-15 11:23 UTC · times shown in America/New_York · demo data</sub>
