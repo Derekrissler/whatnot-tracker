@@ -21,7 +21,7 @@ Tue  ▒▒  ··        ░░      ··░░        ░░▒▒  ▓▓█�
 Wed    ░░  ░░··        ··    ▒▒  ░░▓▓    ▓▓▓▓▓▓▓▓    
 Thu  ▒▒··          ░░  ··    ░░░░  ░░  ▒▒▒▒  ██      
 Fri    ··  ····      ····    ··  ▒▒░░  ▒▒▒▒▒▒██      
-Sat  ░░░░░░··      ░░··      ░░░░▒▒▒▒▓▓▒▒  ▓▓██      
+Sat  ░░░░░░        ░░··      ░░░░▒▒▒▒▓▓▒▒  ▓▓██      
 Sun  ░░▒▒    ··    ····░░    ░░  ▒▒    ▒▒▓▓██▓▓      
 
      low  · ░ ▒ ▓ █  high
@@ -41,12 +41,12 @@ Sun  ░░▒▒    ··    ····░░    ░░  ▒▒    ▒▒▓▓█
 12am  ███████████            27.2
  1am  ███████                16.8
  2am  █████                  11.5
- 3am  █████                  11.0
+ 3am  ██████                 13.5
  4am  █                      3.2
  5am  █                      0
  6am  █                      0
  7am  ███████                17.8
- 8am  █████                  11.2
+ 8am  █████                  11.3
  9am  █████                  12.2
 10am  █                      0
 11am  ██████                 15.4
@@ -77,9 +77,9 @@ Sun  ░░▒▒    ··    ····░░    ░░  ▒▒    ▒▒▓▓█
 | 7 | `pokeprospector` | Pokemon | 170 | 38.6 | `██████████` |
 | 8 | `comiccryptllc` | Comics | 159 | 35.2 | `██████████` |
 | 9 | `coinsbykyle` | Coins | 156 | 30.4 | `█████████` |
-| 10 | `thecardcave` | Trading Cards | 147 | 38.4 | `█████████` |
-| 11 | `cardvaultbreaks` | Trading Cards | 145 | 37.7 | `█████████` |
-| 12 | `pristinepulls` | Sports Cards | 140 | 32.3 | `████████` |
+| 10 | `thecardcave` | Trading Cards | 147 | 37.9 | `█████████` |
+| 11 | `cardvaultbreaks` | Trading Cards | 145 | 37.0 | `█████████` |
+| 12 | `pristinepulls` | Sports Cards | 140 | 33.1 | `████████` |
 | 13 | `buckeyebreaks` | Sports Cards | 129 | 37.0 | `████████` |
 | 14 | `charizardcorner` | Pokemon | 126 | 37.2 | `████████` |
 | 15 | `slabsanddabs` | Trading Cards | 126 | 36.0 | `████████` |
@@ -88,8 +88,8 @@ Sun  ░░▒▒    ··    ····░░    ░░  ▒▒    ▒▒▓▓█
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 8,293 | `██████████████████` |
-| Sports Cards | 6,089 | `█████████████` |
+| Trading Cards | 8,321 | `██████████████████` |
+| Sports Cards | 6,088 | `█████████████` |
 | Pokemon | 5,567 | `████████████` |
 | Pop Culture | 2,217 | `█████` |
 | Sneakers | 1,847 | `████` |
@@ -98,4 +98,4 @@ Sun  ░░▒▒    ··    ····░░    ░░  ▒▒    ▒▒▓▓█
 
 ---
 
-<sub>Updated 2026-10-17 06:53 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-10-17 12:09 UTC · times shown in America/New_York · demo data</sub>
