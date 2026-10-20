@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T04:44:07+00:00",
+ "generated": "2026-10-20T11:30:39+00:00",
  "tz": "America/New_York",
  "samples": 118,
  "days_covered": 28.0,
@@ -199,10 +199,10 @@
   {
    "d": 1,
    "h": 0,
-   "n": 2,
-   "shows": 5.5,
-   "viewers": 149.5,
-   "vps": 27.2
+   "n": 1,
+   "shows": 6.0,
+   "viewers": 140.0,
+   "vps": 23.3
   },
   {
    "d": 1,
@@ -255,10 +255,10 @@
   {
    "d": 1,
    "h": 7,
-   "n": 1,
+   "n": 2,
    "shows": 1.0,
-   "viewers": 22.0,
-   "vps": 22.0
+   "viewers": 12.5,
+   "vps": 12.5
   },
   {
    "d": 1,
@@ -1352,10 +1352,10 @@
  "by_hour": [
   {
    "h": 0,
-   "n": 7,
-   "shows": 6.4,
-   "viewers": 185.3,
-   "vps": 29.0
+   "n": 6,
+   "shows": 6.7,
+   "viewers": 189.7,
+   "vps": 28.3
   },
   {
    "h": 1,
@@ -1401,10 +1401,10 @@
   },
   {
    "h": 7,
-   "n": 5,
-   "shows": 1.4,
-   "viewers": 25.6,
-   "vps": 18.3
+   "n": 6,
+   "shows": 1.3,
+   "viewers": 21.8,
+   "vps": 16.8
   },
   {
    "h": 8,
@@ -1531,15 +1531,15 @@
    "name": "sneakerstacks",
    "category": "Sneakers",
    "peak": 211,
-   "avg": 39.1,
-   "shows": 46
+   "avg": 39.4,
+   "shows": 45
   },
   {
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 209,
-   "avg": 36.9,
-   "shows": 52
+   "avg": 37.4,
+   "shows": 51
   },
   {
    "name": "ripcityrips",
@@ -1552,8 +1552,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 170,
-   "avg": 38.0,
-   "shows": 54
+   "avg": 38.2,
+   "shows": 53
   },
   {
    "name": "pokeprospector",
@@ -1594,15 +1594,15 @@
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 140,
-   "avg": 34.5,
-   "shows": 41
+   "avg": 33.5,
+   "shows": 40
   },
   {
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 129,
-   "avg": 38.8,
-   "shows": 43
+   "avg": 39.2,
+   "shows": 42
   },
   {
    "name": "slabsanddabs",
@@ -1633,19 +1633,19 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 6219
+   "viewers": 6127
   },
   {
    "name": "Pokemon",
-   "viewers": 5593
+   "viewers": 5579
   },
   {
    "name": "Pop Culture",
-   "viewers": 2053
+   "viewers": 2027
   },
   {
    "name": "Sneakers",
-   "viewers": 1800
+   "viewers": 1773
   },
   {
    "name": "Coins",
@@ -1653,7 +1653,7 @@
   },
   {
    "name": "Comics",
-   "viewers": 1399
+   "viewers": 1402
   }
  ],
  "best_slots": [
