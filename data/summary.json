@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-21T07:33:39+00:00",
+ "generated": "2026-10-21T13:44:09+00:00",
  "tz": "America/New_York",
- "samples": 118,
- "days_covered": 28.0,
+ "samples": 117,
+ "days_covered": 27.8,
  "grid": [
   {
    "d": 0,
@@ -415,10 +415,10 @@
   {
    "d": 2,
    "h": 3,
-   "n": 3,
-   "shows": 0.7,
-   "viewers": 11.3,
-   "vps": 16.1
+   "n": 2,
+   "shows": 0.5,
+   "viewers": 13.0,
+   "vps": 26.0
   },
   {
    "d": 2,
@@ -465,8 +465,8 @@
    "h": 9,
    "n": 3,
    "shows": 2.3,
-   "viewers": 28.3,
-   "vps": 12.3
+   "viewers": 21.3,
+   "vps": 9.3
   },
   {
    "d": 2,
@@ -1373,10 +1373,10 @@
   },
   {
    "h": 3,
-   "n": 5,
+   "n": 4,
    "shows": 0.8,
-   "viewers": 10.8,
-   "vps": 13.5
+   "viewers": 11.5,
+   "vps": 14.4
   },
   {
    "h": 4,
@@ -1417,8 +1417,8 @@
    "h": 9,
    "n": 9,
    "shows": 2.6,
-   "viewers": 29.6,
-   "vps": 11.4
+   "viewers": 27.2,
+   "vps": 10.5
   },
   {
    "h": 10,
@@ -1538,8 +1538,8 @@
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 209,
-   "avg": 38.3,
-   "shows": 51
+   "avg": 38.9,
+   "shows": 50
   },
   {
    "name": "ripcityrips",
@@ -1566,14 +1566,14 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 167,
-   "avg": 35.6,
-   "shows": 44
+   "avg": 35.0,
+   "shows": 45
   },
   {
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 156,
-   "avg": 33.6,
+   "avg": 33.3,
    "shows": 48
   },
   {
@@ -1615,8 +1615,8 @@
    "name": "vintagevault614",
    "category": "Sports Cards",
    "peak": 118,
-   "avg": 33.7,
-   "shows": 47
+   "avg": 34.2,
+   "shows": 46
   },
   {
    "name": "charizardcorner",
@@ -1633,11 +1633,11 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 6117
+   "viewers": 6113
   },
   {
    "name": "Pokemon",
-   "viewers": 5649
+   "viewers": 5641
   },
   {
    "name": "Pop Culture",
@@ -1649,7 +1649,7 @@
   },
   {
    "name": "Coins",
-   "viewers": 1614
+   "viewers": 1597
   },
   {
    "name": "Comics",
