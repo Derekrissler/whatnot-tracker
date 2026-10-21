@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-21T00:35:59+00:00",
+ "generated": "2026-10-21T07:33:39+00:00",
  "tz": "America/New_York",
- "samples": 117,
- "days_covered": 27.7,
+ "samples": 118,
+ "days_covered": 28.0,
  "grid": [
   {
    "d": 0,
@@ -415,10 +415,10 @@
   {
    "d": 2,
    "h": 3,
-   "n": 2,
-   "shows": 1.0,
-   "viewers": 17.0,
-   "vps": 17.0
+   "n": 3,
+   "shows": 0.7,
+   "viewers": 11.3,
+   "vps": 16.1
   },
   {
    "d": 2,
@@ -1373,9 +1373,9 @@
   },
   {
    "h": 3,
-   "n": 4,
-   "shows": 1.0,
-   "viewers": 13.5,
+   "n": 5,
+   "shows": 0.8,
+   "viewers": 10.8,
    "vps": 13.5
   },
   {
