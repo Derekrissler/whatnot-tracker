@@ -22,7 +22,7 @@ Wed    ░░  ▒▒··        ··    ▒▒  ░░▓▓    ▓▓▓▓▓
 Thu  ░░··          ░░  ··    ░░░░  ░░  ▒▒▒▒  ██      
 Fri    ··  ····      ····    ░░  ▒▒░░  ▓▓▒▒▓▓██      
 Sat  ▒▒░░░░      ····░░    ▒▒░░  ▒▒▒▒    ▓▓██▓▓      
-Sun  ▒▒▒▒    ··  ··  ··░░  ░░    ▒▒    ▓▓████▓▓      
+Sun  ▒▒▒▒        ······░░  ░░    ▒▒    ▓▓████▓▓      
 
      low  · ░ ▒ ▓ █  high
 ```
@@ -42,10 +42,10 @@ Sun  ▒▒▒▒    ··  ··  ··░░  ░░    ▒▒    ▓▓███
  1am  ███████                16.8
  2am  █████                  11.5
  3am  █████                  12.7
- 4am  █                      3.2
+ 4am  ██                     4.0
  5am  █                      0
  6am  ██                     4.0
- 7am  ████                   10.4
+ 7am  ████                   9.5
  8am  ████                   10.5
  9am  ████                   9.6
 10am  █                      0
@@ -72,7 +72,7 @@ Sun  ▒▒▒▒    ··  ··  ··░░  ░░    ▒▒    ▓▓███
 | 2 | `sneakerstacks` | Sneakers | 211 | 39.9 | `██████████████` |
 | 3 | `gradedgoods` | Pokemon | 209 | 38.5 | `██████████████` |
 | 4 | `ripcityrips` | Trading Cards | 178 | 35.6 | `████████████` |
-| 5 | `pokeprospector` | Pokemon | 170 | 36.7 | `████████████` |
+| 5 | `pokeprospector` | Pokemon | 170 | 36.8 | `████████████` |
 | 6 | `funkofinds` | Pop Culture | 170 | 37.1 | `████████████` |
 | 7 | `midwestmemorabilia` | Sports Cards | 167 | 32.6 | `███████████` |
 | 8 | `coinsbykyle` | Coins | 156 | 34.5 | `███████████` |
@@ -90,7 +90,7 @@ Sun  ▒▒▒▒    ··  ··  ··░░  ░░    ▒▒    ▓▓███
 |---|--:|---|
 | Trading Cards | 8,340 | `██████████████████` |
 | Sports Cards | 5,856 | `█████████████` |
-| Pokemon | 5,391 | `████████████` |
+| Pokemon | 5,396 | `████████████` |
 | Pop Culture | 1,968 | `████` |
 | Sneakers | 1,756 | `████` |
 | Coins | 1,726 | `████` |
@@ -98,4 +98,4 @@ Sun  ▒▒▒▒    ··  ··  ··░░  ░░    ▒▒    ▓▓███
 
 ---
 
-<sub>Updated 2026-10-25 04:35 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-10-25 11:19 UTC · times shown in America/New_York · demo data</sub>
