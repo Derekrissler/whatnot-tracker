@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **9pm** (800 viewers platform-wide) |
 | Most competition | **9pm** (15.4 shows live at once) |
-| Samples collected | **119** over 28.0 days |
+| Samples collected | **119** over 27.9 days |
 
 ## When to stream
 
@@ -16,7 +16,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 
 ```
      12a   3a    6a    9a    12p   3p    6p    9p
-Mon  ░░··            ░░··  ░░      ░░░░  ██▓▓  ██    
+Mon  ░░··            ░░··  ░░      ░░    ████  ██    
 Tue  ▒▒  ··        ··      ··▒▒        ▒▒▒▒  ████    
 Wed    ░░  ▒▒··        ··    ▒▒  ░░▓▓    ▓▓▓▓▓▓▓▓    
 Thu  ░░··          ░░  ··    ░░░░  ░░  ▒▒▒▒  ██      
@@ -33,7 +33,7 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
 | Tue 9pm | 51.6 | 15.5 | 800 |
 | Thu 8pm | 51.4 | 14.3 | 735 |
 | Sat 7pm | 51.3 | 15.5 | 795 |
-| Sat 6pm | 41.1 | 11.0 | 452 |
+| Mon 7pm | 48.3 | 13.5 | 652 |
 
 ## Viewers per show, by hour
 
@@ -54,10 +54,10 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
  1pm  █████████              22.2
  2pm  ███████████            26.7
  3pm  ████████████           27.5
- 4pm  ████████               20.0
+ 4pm  █                      0
  5pm  ██████████████         32.6
  6pm  ████████████████       38.1
- 7pm  ███████████████████    44.6
+ 7pm  ███████████████████    45.6
  8pm  ████████████████████   47.7
  9pm  ██████████████████████ 51.9
 10pm  █                      0
@@ -68,34 +68,34 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `thehobbyhouse` | Trading Cards | 234 | 36.1 | `████████████████` |
-| 2 | `sneakerstacks` | Sneakers | 211 | 39.2 | `██████████████` |
-| 3 | `gradedgoods` | Pokemon | 209 | 38.5 | `██████████████` |
-| 4 | `ripcityrips` | Trading Cards | 178 | 36.2 | `████████████` |
-| 5 | `funkofinds` | Pop Culture | 170 | 37.0 | `████████████` |
-| 6 | `pokeprospector` | Pokemon | 170 | 35.4 | `████████████` |
-| 7 | `midwestmemorabilia` | Sports Cards | 167 | 30.0 | `███████████` |
-| 8 | `coinsbykyle` | Coins | 156 | 31.2 | `███████████` |
-| 9 | `thecardcave` | Trading Cards | 147 | 40.2 | `██████████` |
-| 10 | `pristinepulls` | Sports Cards | 140 | 31.3 | `██████████` |
-| 11 | `cardvaultbreaks` | Trading Cards | 134 | 32.2 | `█████████` |
+| 1 | `thehobbyhouse` | Trading Cards | 234 | 36.0 | `████████████████` |
+| 2 | `sneakerstacks` | Sneakers | 211 | 39.8 | `██████████████` |
+| 3 | `gradedgoods` | Pokemon | 209 | 41.4 | `██████████████` |
+| 4 | `ripcityrips` | Trading Cards | 178 | 36.4 | `████████████` |
+| 5 | `funkofinds` | Pop Culture | 170 | 37.4 | `████████████` |
+| 6 | `pokeprospector` | Pokemon | 170 | 36.0 | `████████████` |
+| 7 | `midwestmemorabilia` | Sports Cards | 167 | 29.6 | `███████████` |
+| 8 | `coinsbykyle` | Coins | 156 | 31.3 | `███████████` |
+| 9 | `thecardcave` | Trading Cards | 147 | 40.0 | `██████████` |
+| 10 | `pristinepulls` | Sports Cards | 140 | 31.2 | `██████████` |
+| 11 | `cardvaultbreaks` | Trading Cards | 134 | 33.8 | `█████████` |
 | 12 | `buckeyebreaks` | Sports Cards | 129 | 35.3 | `█████████` |
 | 13 | `slabsanddabs` | Trading Cards | 126 | 37.8 | `█████████` |
-| 14 | `vintagevault614` | Sports Cards | 118 | 32.6 | `████████` |
-| 15 | `charizardcorner` | Pokemon | 116 | 32.7 | `████████` |
+| 14 | `vintagevault614` | Sports Cards | 118 | 32.4 | `████████` |
+| 15 | `charizardcorner` | Pokemon | 116 | 34.1 | `████████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 8,497 | `██████████████████` |
-| Sports Cards | 5,790 | `████████████` |
-| Pokemon | 5,290 | `███████████` |
-| Pop Culture | 1,923 | `████` |
-| Sneakers | 1,880 | `████` |
-| Coins | 1,625 | `███` |
-| Comics | 1,384 | `███` |
+| Trading Cards | 8,673 | `██████████████████` |
+| Sports Cards | 5,852 | `████████████` |
+| Pokemon | 5,610 | `████████████` |
+| Pop Culture | 1,943 | `████` |
+| Sneakers | 1,872 | `████` |
+| Coins | 1,660 | `███` |
+| Comics | 1,411 | `███` |
 
 ---
 
-<sub>Updated 2026-10-26 19:54 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-10-26 23:50 UTC · times shown in America/New_York · demo data</sub>
