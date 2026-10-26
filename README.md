@@ -16,7 +16,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 
 ```
      12a   3a    6a    9a    12p   3p    6p    9p
-Mon  ▒▒··              ··  ░░      ▒▒░░  ██▓▓  ██    
+Mon  ░░··              ··  ░░      ▒▒░░  ██▓▓  ██    
 Tue  ▒▒  ··        ··      ··▒▒        ▒▒▒▒  ████    
 Wed    ░░  ▒▒··        ··    ▒▒  ░░▓▓    ▓▓▓▓▓▓▓▓    
 Thu  ░░··          ░░  ··    ░░░░  ░░  ▒▒▒▒  ██      
@@ -30,15 +30,15 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
 | Best slot | Viewers/show | Shows live | Total viewers |
 |---|--:|--:|--:|
 | Mon 9pm | 57.3 | 15.5 | 888 |
-| Sun 7pm | 53.9 | 14.5 | 782 |
 | Tue 9pm | 51.6 | 15.5 | 800 |
 | Thu 8pm | 51.4 | 14.3 | 735 |
 | Sat 7pm | 51.3 | 15.5 | 795 |
+| Sat 6pm | 41.1 | 11.0 | 452 |
 
 ## Viewers per show, by hour
 
 ```
-12am  ██████████             24.0
+12am  ██████████             23.4
  1am  ███████                16.8
  2am  █████                  11.5
  3am  █████                  12.7
@@ -57,7 +57,7 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
  4pm  ████████               20.0
  5pm  ██████████████         32.6
  6pm  ████████████████       38.1
- 7pm  ███████████████████    45.7
+ 7pm  ███████████████████    44.6
  8pm  ████████████████████   47.7
  9pm  ██████████████████████ 51.9
 10pm  █                      0
@@ -68,34 +68,34 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `thehobbyhouse` | Trading Cards | 234 | 36.9 | `████████████████` |
+| 1 | `thehobbyhouse` | Trading Cards | 234 | 36.1 | `████████████████` |
 | 2 | `sneakerstacks` | Sneakers | 211 | 40.2 | `██████████████` |
-| 3 | `gradedgoods` | Pokemon | 209 | 37.7 | `██████████████` |
-| 4 | `ripcityrips` | Trading Cards | 178 | 36.6 | `████████████` |
-| 5 | `pokeprospector` | Pokemon | 170 | 36.3 | `████████████` |
-| 6 | `funkofinds` | Pop Culture | 170 | 36.9 | `████████████` |
-| 7 | `midwestmemorabilia` | Sports Cards | 167 | 32.1 | `███████████` |
-| 8 | `coinsbykyle` | Coins | 156 | 33.3 | `███████████` |
-| 9 | `thecardcave` | Trading Cards | 147 | 39.4 | `██████████` |
-| 10 | `pristinepulls` | Sports Cards | 140 | 32.4 | `██████████` |
-| 11 | `cardvaultbreaks` | Trading Cards | 134 | 32.3 | `█████████` |
-| 12 | `buckeyebreaks` | Sports Cards | 129 | 35.6 | `█████████` |
-| 13 | `slabsanddabs` | Trading Cards | 126 | 37.3 | `█████████` |
-| 14 | `vintagevault614` | Sports Cards | 118 | 32.9 | `████████` |
+| 3 | `gradedgoods` | Pokemon | 209 | 37.9 | `██████████████` |
+| 4 | `ripcityrips` | Trading Cards | 178 | 36.2 | `████████████` |
+| 5 | `funkofinds` | Pop Culture | 170 | 36.5 | `████████████` |
+| 6 | `pokeprospector` | Pokemon | 170 | 35.4 | `████████████` |
+| 7 | `midwestmemorabilia` | Sports Cards | 167 | 29.6 | `███████████` |
+| 8 | `coinsbykyle` | Coins | 156 | 31.8 | `███████████` |
+| 9 | `thecardcave` | Trading Cards | 147 | 40.2 | `██████████` |
+| 10 | `pristinepulls` | Sports Cards | 140 | 31.3 | `██████████` |
+| 11 | `cardvaultbreaks` | Trading Cards | 134 | 32.9 | `█████████` |
+| 12 | `buckeyebreaks` | Sports Cards | 129 | 35.3 | `█████████` |
+| 13 | `slabsanddabs` | Trading Cards | 126 | 37.4 | `█████████` |
+| 14 | `vintagevault614` | Sports Cards | 118 | 32.1 | `████████` |
 | 15 | `charizardcorner` | Pokemon | 116 | 32.4 | `████████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 8,579 | `██████████████████` |
-| Sports Cards | 5,995 | `█████████████` |
-| Pokemon | 5,396 | `███████████` |
-| Pop Culture | 1,992 | `████` |
-| Sneakers | 1,890 | `████` |
-| Coins | 1,731 | `████` |
+| Trading Cards | 8,509 | `██████████████████` |
+| Sports Cards | 5,723 | `████████████` |
+| Pokemon | 5,287 | `███████████` |
+| Pop Culture | 1,935 | `████` |
+| Sneakers | 1,851 | `████` |
+| Coins | 1,620 | `███` |
 | Comics | 1,384 | `███` |
 
 ---
 
-<sub>Updated 2026-10-25 22:31 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-10-26 04:40 UTC · times shown in America/New_York · demo data</sub>

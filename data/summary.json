@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T22:31:25+00:00",
+ "generated": "2026-10-26T04:40:53+00:00",
  "tz": "America/New_York",
  "samples": 119,
  "days_covered": 28.0,
@@ -7,10 +7,10 @@
   {
    "d": 0,
    "h": 0,
-   "n": 1,
-   "shows": 6.0,
-   "viewers": 160.0,
-   "vps": 26.7
+   "n": 2,
+   "shows": 5.5,
+   "viewers": 124.0,
+   "vps": 22.5
   },
   {
    "d": 0,
@@ -1311,10 +1311,10 @@
   {
    "d": 6,
    "h": 19,
-   "n": 2,
-   "shows": 14.5,
-   "viewers": 782.0,
-   "vps": 53.9
+   "n": 1,
+   "shows": 15.0,
+   "viewers": 818.0,
+   "vps": 54.5
   },
   {
    "d": 6,
@@ -1352,10 +1352,10 @@
  "by_hour": [
   {
    "h": 0,
-   "n": 7,
-   "shows": 6.6,
-   "viewers": 158.6,
-   "vps": 24.0
+   "n": 8,
+   "shows": 6.4,
+   "viewers": 149.8,
+   "vps": 23.4
   },
   {
    "h": 1,
@@ -1485,10 +1485,10 @@
   },
   {
    "h": 19,
-   "n": 9,
-   "shows": 13.1,
-   "viewers": 598.7,
-   "vps": 45.7
+   "n": 8,
+   "shows": 13.0,
+   "viewers": 580.2,
+   "vps": 44.6
   },
   {
    "h": 20,
@@ -1524,7 +1524,7 @@
    "name": "thehobbyhouse",
    "category": "Trading Cards",
    "peak": 234,
-   "avg": 36.9,
+   "avg": 36.1,
    "shows": 47
   },
   {
@@ -1532,91 +1532,91 @@
    "category": "Sneakers",
    "peak": 211,
    "avg": 40.2,
-   "shows": 47
+   "shows": 46
   },
   {
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 209,
-   "avg": 37.7,
-   "shows": 51
+   "avg": 37.9,
+   "shows": 50
   },
   {
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 178,
-   "avg": 36.6,
-   "shows": 46
-  },
-  {
-   "name": "pokeprospector",
-   "category": "Pokemon",
-   "peak": 170,
-   "avg": 36.3,
-   "shows": 51
+   "avg": 36.2,
+   "shows": 45
   },
   {
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 170,
-   "avg": 36.9,
-   "shows": 54
+   "avg": 36.5,
+   "shows": 53
+  },
+  {
+   "name": "pokeprospector",
+   "category": "Pokemon",
+   "peak": 170,
+   "avg": 35.4,
+   "shows": 50
   },
   {
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 167,
-   "avg": 32.1,
+   "avg": 29.6,
    "shows": 44
   },
   {
    "name": "coinsbykyle",
    "category": "Coins",
    "peak": 156,
-   "avg": 33.3,
-   "shows": 52
+   "avg": 31.8,
+   "shows": 51
   },
   {
    "name": "thecardcave",
    "category": "Trading Cards",
    "peak": 147,
-   "avg": 39.4,
-   "shows": 49
+   "avg": 40.2,
+   "shows": 48
   },
   {
    "name": "pristinepulls",
    "category": "Sports Cards",
    "peak": 140,
-   "avg": 32.4,
-   "shows": 45
+   "avg": 31.3,
+   "shows": 44
   },
   {
    "name": "cardvaultbreaks",
    "category": "Trading Cards",
    "peak": 134,
-   "avg": 32.3,
+   "avg": 32.9,
    "shows": 41
   },
   {
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 129,
-   "avg": 35.6,
+   "avg": 35.3,
    "shows": 48
   },
   {
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 126,
-   "avg": 37.3,
+   "avg": 37.4,
    "shows": 51
   },
   {
    "name": "vintagevault614",
    "category": "Sports Cards",
    "peak": 118,
-   "avg": 32.9,
-   "shows": 43
+   "avg": 32.1,
+   "shows": 42
   },
   {
    "name": "charizardcorner",
@@ -1629,27 +1629,27 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 8579
+   "viewers": 8509
   },
   {
    "name": "Sports Cards",
-   "viewers": 5995
+   "viewers": 5723
   },
   {
    "name": "Pokemon",
-   "viewers": 5396
+   "viewers": 5287
   },
   {
    "name": "Pop Culture",
-   "viewers": 1992
+   "viewers": 1935
   },
   {
    "name": "Sneakers",
-   "viewers": 1890
+   "viewers": 1851
   },
   {
    "name": "Coins",
-   "viewers": 1731
+   "viewers": 1620
   },
   {
    "name": "Comics",
@@ -1665,15 +1665,6 @@
    "shows": 15.5,
    "viewers": 888.0,
    "vps": 57.3
-  },
-  {
-   "label": "Sun 7pm",
-   "d": 6,
-   "h": 19,
-   "n": 2,
-   "shows": 14.5,
-   "viewers": 782.0,
-   "vps": 53.9
   },
   {
    "label": "Tue 9pm",
@@ -1701,6 +1692,15 @@
    "shows": 15.5,
    "viewers": 795.0,
    "vps": 51.3
+  },
+  {
+   "label": "Sat 6pm",
+   "d": 5,
+   "h": 18,
+   "n": 2,
+   "shows": 11.0,
+   "viewers": 452.0,
+   "vps": 41.1
   }
  ],
  "busiest_hour": {
