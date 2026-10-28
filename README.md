@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **9pm** (764 viewers platform-wide) |
 | Most competition | **9pm** (15.5 shows live at once) |
-| Samples collected | **119** over 27.7 days |
+| Samples collected | **120** over 28.0 days |
 
 ## When to stream
 
@@ -42,7 +42,7 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
  1am  ████████               17.4
  2am  █████                  11.5
  3am  ██████                 12.7
- 4am  ██                     3.5
+ 4am  █                      3.0
  5am  █                      0
  6am  ██                     4.0
  7am  ████                   9.5
@@ -89,7 +89,7 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
 | Category | Viewer-samples | |
 |---|--:|---|
 | Trading Cards | 8,685 | `██████████████████` |
-| Sports Cards | 5,604 | `████████████` |
+| Sports Cards | 5,606 | `████████████` |
 | Pokemon | 5,339 | `███████████` |
 | Pop Culture | 1,851 | `████` |
 | Sneakers | 1,831 | `████` |
@@ -98,4 +98,4 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
 
 ---
 
-<sub>Updated 2026-10-28 01:17 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-10-28 08:24 UTC · times shown in America/New_York · demo data</sub>

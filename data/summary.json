@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-28T01:17:56+00:00",
+ "generated": "2026-10-28T08:24:38+00:00",
  "tz": "America/New_York",
- "samples": 119,
- "days_covered": 27.7,
+ "samples": 120,
+ "days_covered": 28.0,
  "grid": [
   {
    "d": 0,
@@ -423,10 +423,10 @@
   {
    "d": 2,
    "h": 4,
-   "n": 1,
+   "n": 2,
    "shows": 1.0,
-   "viewers": 4.0,
-   "vps": 4.0
+   "viewers": 3.0,
+   "vps": 3.0
   },
   {
    "d": 2,
@@ -1380,10 +1380,10 @@
   },
   {
    "h": 4,
-   "n": 5,
-   "shows": 0.4,
-   "viewers": 1.4,
-   "vps": 3.5
+   "n": 6,
+   "shows": 0.5,
+   "viewers": 1.5,
+   "vps": 3.0
   },
   {
    "h": 5,
@@ -1633,7 +1633,7 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 5604
+   "viewers": 5606
   },
   {
    "name": "Pokemon",
