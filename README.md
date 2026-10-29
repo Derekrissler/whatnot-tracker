@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **9pm** (812 viewers platform-wide) |
 | Most competition | **9pm** (15.7 shows live at once) |
-| Samples collected | **119** over 27.9 days |
+| Samples collected | **119** over 27.8 days |
 
 ## When to stream
 
@@ -19,7 +19,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 Mon  ░░··            ░░··  ░░      ░░    ████  ██    
 Tue  ░░  ··        ··░░    ··░░░░      ▒▒▓▓  ████    
 Wed    ░░  ▒▒··        ··    ░░  ░░▓▓    ▒▒▓▓▓▓      
-Thu  ░░▒▒          ░░  ··    ░░░░  ░░  ▒▒▒▒  ██      
+Thu  ░░▒▒          ░░····    ░░░░  ░░  ▒▒▒▒  ██      
 Fri    ··  ····      ····    ░░  ▒▒░░  ▓▓▒▒▓▓██      
 Sat  ▒▒░░░░      ····░░    ▒▒░░  ▒▒▒▒    ▓▓██▓▓      
 Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓▓██▓▓      
@@ -42,11 +42,11 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
  1am  ████████               19.1
  2am  █████                  11.5
  3am  █████                  12.7
- 4am  █                      2.5
+ 4am  █                      2.4
  5am  █                      0
  6am  ██                     4.0
  7am  ████                   9.5
- 8am  █████                  12.4
+ 8am  █████                  12.1
  9am  ████                   8.7
 10am  █                      0
 11am  █████████              20.4
@@ -78,19 +78,19 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
 | 8 | `coinsbykyle` | Coins | 156 | 31.5 | `███████████` |
 | 9 | `thecardcave` | Trading Cards | 147 | 39.5 | `██████████` |
 | 10 | `comiccryptllc` | Comics | 144 | 34.0 | `██████████` |
-| 11 | `buckeyebreaks` | Sports Cards | 129 | 34.1 | `█████████` |
+| 11 | `buckeyebreaks` | Sports Cards | 129 | 33.6 | `█████████` |
 | 12 | `slabsanddabs` | Trading Cards | 126 | 36.2 | `█████████` |
 | 13 | `vintagevault614` | Sports Cards | 118 | 33.4 | `████████` |
 | 14 | `cardvaultbreaks` | Trading Cards | 100 | 31.8 | `███████` |
-| 15 | `charizardcorner` | Pokemon | 95 | 30.6 | `██████` |
+| 15 | `charizardcorner` | Pokemon | 95 | 30.2 | `██████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
 | Trading Cards | 8,454 | `██████████████████` |
-| Sports Cards | 5,577 | `████████████` |
-| Pokemon | 5,255 | `███████████` |
+| Sports Cards | 5,584 | `████████████` |
+| Pokemon | 5,269 | `███████████` |
 | Pop Culture | 1,882 | `████` |
 | Sneakers | 1,828 | `████` |
 | Coins | 1,609 | `███` |
@@ -98,4 +98,4 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
 
 ---
 
-<sub>Updated 2026-10-29 05:42 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-10-29 12:54 UTC · times shown in America/New_York · demo data</sub>
