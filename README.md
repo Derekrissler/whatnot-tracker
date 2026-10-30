@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **9pm** (812 viewers platform-wide) |
 | Most competition | **9pm** (15.7 shows live at once) |
-| Samples collected | **119** over 27.8 days |
+| Samples collected | **119** over 27.7 days |
 
 ## When to stream
 
@@ -68,34 +68,34 @@ Sun  ▒▒▒▒        ······    ░░▒▒  ▒▒▓▓  ▓▓▓�
 
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
-| 1 | `thehobbyhouse` | Trading Cards | 234 | 38.0 | `████████████████` |
+| 1 | `thehobbyhouse` | Trading Cards | 234 | 38.6 | `████████████████` |
 | 2 | `sneakerstacks` | Sneakers | 211 | 37.3 | `██████████████` |
 | 3 | `gradedgoods` | Pokemon | 209 | 41.6 | `██████████████` |
 | 4 | `ripcityrips` | Trading Cards | 178 | 39.5 | `████████████` |
 | 5 | `funkofinds` | Pop Culture | 170 | 35.2 | `████████████` |
-| 6 | `pokeprospector` | Pokemon | 170 | 36.9 | `████████████` |
+| 6 | `pokeprospector` | Pokemon | 170 | 36.3 | `████████████` |
 | 7 | `midwestmemorabilia` | Sports Cards | 167 | 29.3 | `███████████` |
-| 8 | `coinsbykyle` | Coins | 156 | 31.5 | `███████████` |
+| 8 | `coinsbykyle` | Coins | 156 | 32.0 | `███████████` |
 | 9 | `buckeyebreaks` | Sports Cards | 153 | 36.2 | `██████████` |
 | 10 | `thecardcave` | Trading Cards | 147 | 39.8 | `██████████` |
-| 11 | `comiccryptllc` | Comics | 144 | 33.5 | `██████████` |
+| 11 | `comiccryptllc` | Comics | 144 | 34.1 | `██████████` |
 | 12 | `slabsanddabs` | Trading Cards | 126 | 36.5 | `█████████` |
 | 13 | `vintagevault614` | Sports Cards | 118 | 33.5 | `████████` |
-| 14 | `cardvaultbreaks` | Trading Cards | 100 | 32.1 | `███████` |
+| 14 | `cardvaultbreaks` | Trading Cards | 100 | 31.5 | `███████` |
 | 15 | `charizardcorner` | Pokemon | 95 | 29.7 | `██████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 8,678 | `██████████████████` |
+| Trading Cards | 8,671 | `██████████████████` |
 | Sports Cards | 5,746 | `████████████` |
-| Pokemon | 5,250 | `███████████` |
+| Pokemon | 5,257 | `███████████` |
 | Pop Culture | 1,935 | `████` |
 | Sneakers | 1,828 | `████` |
-| Coins | 1,609 | `███` |
-| Comics | 1,338 | `███` |
+| Coins | 1,601 | `███` |
+| Comics | 1,330 | `███` |
 
 ---
 
-<sub>Updated 2026-10-29 23:55 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-10-30 05:41 UTC · times shown in America/New_York · demo data</sub>
