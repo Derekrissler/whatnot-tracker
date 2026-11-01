@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-01T05:56:51+00:00",
+ "generated": "2026-11-01T13:15:20+00:00",
  "tz": "America/New_York",
  "samples": 118,
- "days_covered": 27.7,
+ "days_covered": 27.8,
  "grid": [
   {
    "d": 0,
@@ -1225,8 +1225,8 @@
    "h": 8,
    "n": 2,
    "shows": 2.5,
-   "viewers": 22.5,
-   "vps": 9.0
+   "viewers": 26.5,
+   "vps": 10.6
   },
   {
    "d": 6,
@@ -1410,8 +1410,8 @@
    "h": 8,
    "n": 9,
    "shows": 2.2,
-   "viewers": 26.2,
-   "vps": 11.9
+   "viewers": 27.1,
+   "vps": 12.3
   },
   {
    "h": 9,
@@ -1566,7 +1566,7 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 167,
-   "avg": 31.8,
+   "avg": 32.2,
    "shows": 45
   },
   {
@@ -1594,8 +1594,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 144,
-   "avg": 35.4,
-   "shows": 40
+   "avg": 34.7,
+   "shows": 41
   },
   {
    "name": "slabsanddabs",
@@ -1633,7 +1633,7 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 5841
+   "viewers": 5843
   },
   {
    "name": "Pokemon",
@@ -1653,7 +1653,7 @@
   },
   {
    "name": "Comics",
-   "viewers": 1417
+   "viewers": 1423
   }
  ],
  "best_slots": [
