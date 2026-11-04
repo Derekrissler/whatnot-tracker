@@ -18,7 +18,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
      12a   3a    6a    9a    12p   3p    6p    9p
 Mon  ░░··            ░░··░░░░      ░░    ▓▓██        
 Tue  ░░░░··        ··░░    ░░░░░░    ▒▒▒▒██  ▓▓██    
-Wed    ░░  ▒▒··        ··    ░░  ░░▓▓    ▒▒▓▓▓▓      
+Wed        ▒▒··        ··    ░░  ░░▓▓    ▒▒▓▓▓▓      
 Thu  ░░▒▒          ░░····    ░░▒▒  ░░  ▒▒  ████      
 Fri    ··  ····      ····    ░░  ▒▒░░  ▒▒▒▒▓▓██      
 Sat  ▒▒░░░░      ··  ░░    ▒▒    ▒▒      ▓▓██▓▓      
@@ -39,10 +39,10 @@ Sun  ▒▒▒▒        ······    ░░▒▒▒▒▓▓▓▓    █�
 
 ```
 12am  ███████████            23.4
- 1am  ████████               17.9
+ 1am  ████████               18.3
  2am  █████                  11.5
  3am  ██████                 12.7
- 4am  █                      2.5
+ 4am  █                      2.4
  5am  █                      0
  6am  ██                     4.0
  7am  ████                   9.2
@@ -72,17 +72,17 @@ Sun  ▒▒▒▒        ······    ░░▒▒▒▒▓▓▓▓    █�
 | 2 | `sneakerstacks` | Sneakers | 211 | 41.9 | `██████████████` |
 | 3 | `gradedgoods` | Pokemon | 209 | 41.1 | `██████████████` |
 | 4 | `ripcityrips` | Trading Cards | 178 | 38.8 | `████████████` |
-| 5 | `pokeprospector` | Pokemon | 170 | 35.9 | `████████████` |
+| 5 | `pokeprospector` | Pokemon | 170 | 36.4 | `████████████` |
 | 6 | `midwestmemorabilia` | Sports Cards | 167 | 32.5 | `███████████` |
 | 7 | `buckeyebreaks` | Sports Cards | 153 | 40.3 | `██████████` |
 | 8 | `thecardcave` | Trading Cards | 152 | 42.1 | `██████████` |
 | 9 | `comiccryptllc` | Comics | 144 | 36.3 | `██████████` |
 | 10 | `slabsanddabs` | Trading Cards | 126 | 34.1 | `█████████` |
 | 11 | `vintagevault614` | Sports Cards | 118 | 34.1 | `████████` |
-| 12 | `coinsbykyle` | Coins | 112 | 30.8 | `████████` |
+| 12 | `coinsbykyle` | Coins | 112 | 31.0 | `████████` |
 | 13 | `funkofinds` | Pop Culture | 101 | 30.6 | `███████` |
 | 14 | `cardvaultbreaks` | Trading Cards | 100 | 31.3 | `███████` |
-| 15 | `charizardcorner` | Pokemon | 95 | 27.9 | `██████` |
+| 15 | `charizardcorner` | Pokemon | 95 | 28.3 | `██████` |
 
 ## Where the audience is
 
@@ -90,12 +90,12 @@ Sun  ▒▒▒▒        ······    ░░▒▒▒▒▓▓▓▓    █�
 |---|--:|---|
 | Trading Cards | 8,668 | `██████████████████` |
 | Sports Cards | 6,088 | `█████████████` |
-| Pokemon | 4,904 | `██████████` |
+| Pokemon | 4,878 | `██████████` |
 | Sneakers | 1,884 | `████` |
-| Coins | 1,601 | `███` |
 | Pop Culture | 1,591 | `███` |
+| Coins | 1,582 | `███` |
 | Comics | 1,524 | `███` |
 
 ---
 
-<sub>Updated 2026-11-04 02:17 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-11-04 09:20 UTC · times shown in America/New_York · demo data</sub>
