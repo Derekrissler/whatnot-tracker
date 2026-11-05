@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-05T06:39:27+00:00",
+ "generated": "2026-11-05T16:26:04+00:00",
  "tz": "America/New_York",
  "samples": 117,
- "days_covered": 27.7,
+ "days_covered": 27.8,
  "grid": [
   {
    "d": 0,
@@ -655,10 +655,10 @@
   {
    "d": 3,
    "h": 9,
-   "n": 1,
-   "shows": 2.0,
-   "viewers": 18.0,
-   "vps": 9.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 3,
@@ -671,10 +671,10 @@
   {
    "d": 3,
    "h": 11,
-   "n": 0,
-   "shows": 0,
-   "viewers": 0,
-   "vps": 0
+   "n": 1,
+   "shows": 4.0,
+   "viewers": 38.0,
+   "vps": 9.5
   },
   {
    "d": 3,
@@ -1415,9 +1415,9 @@
   },
   {
    "h": 9,
-   "n": 6,
-   "shows": 2.7,
-   "viewers": 21.7,
+   "n": 5,
+   "shows": 2.8,
+   "viewers": 22.4,
    "vps": 8.0
   },
   {
@@ -1429,10 +1429,10 @@
   },
   {
    "h": 11,
-   "n": 6,
-   "shows": 3.8,
-   "viewers": 81.3,
-   "vps": 21.4
+   "n": 7,
+   "shows": 3.9,
+   "viewers": 75.1,
+   "vps": 19.3
   },
   {
    "h": 12,
@@ -1538,8 +1538,8 @@
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 209,
-   "avg": 42.4,
-   "shows": 49
+   "avg": 43.1,
+   "shows": 48
   },
   {
    "name": "ripcityrips",
@@ -1552,7 +1552,7 @@
    "name": "pokeprospector",
    "category": "Pokemon",
    "peak": 170,
-   "avg": 36.8,
+   "avg": 36.9,
    "shows": 49
   },
   {
@@ -1608,28 +1608,28 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 101,
-   "avg": 29.7,
-   "shows": 51
+   "avg": 29.2,
+   "shows": 52
   },
   {
    "name": "cardvaultbreaks",
    "category": "Trading Cards",
    "peak": 100,
-   "avg": 31.6,
-   "shows": 42
+   "avg": 31.2,
+   "shows": 43
   },
   {
    "name": "charizardcorner",
    "category": "Pokemon",
    "peak": 95,
-   "avg": 28.4,
-   "shows": 38
+   "avg": 27.9,
+   "shows": 39
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 8676
+   "viewers": 8691
   },
   {
    "name": "Sports Cards",
@@ -1649,7 +1649,7 @@
   },
   {
    "name": "Pop Culture",
-   "viewers": 1515
+   "viewers": 1520
   },
   {
    "name": "Comics",
