@@ -20,7 +20,7 @@ Mon  ░░··            ░░··░░░░      ░░    ▓▓██
 Tue  ░░░░··        ··░░    ░░░░░░    ▒▒▒▒██  ▓▓██    
 Wed        ▒▒··        ··    ░░  ░░      ▓▓▓▓        
 Thu  ░░▒▒          ░░··    ··░░▒▒  ░░  ▒▒▓▓████      
-Fri    ░░  ····      ····    ░░  ▒▒░░  ▒▒▒▒▓▓██      
+Fri    ░░  ··        ····░░  ░░  ▒▒░░  ▒▒▒▒▓▓██      
 Sat  ▒▒░░░░      ··  ░░    ▒▒    ▒▒      ▓▓██▓▓      
 Sun  ▒▒▒▒        ······    ░░▒▒▒▒▓▓▓▓    ████        
 
@@ -42,13 +42,13 @@ Sun  ▒▒▒▒        ······    ░░▒▒▒▒▓▓▓▓    █�
  1am  █████████              19.5
  2am  █████                  11.5
  3am  ██████                 12.7
- 4am  █                      2.4
+ 4am  █                      2.0
  5am  █                      0
  6am  ██                     4.0
  7am  ████                   9.2
  8am  █████                  12.3
  9am  ████                   8.0
-10am  ██████                 13.3
+10am  ██████                 14.2
 11am  █████████              19.3
 12pm  █████████              21.2
  1pm  ████████████           26.5
@@ -78,24 +78,24 @@ Sun  ▒▒▒▒        ······    ░░▒▒▒▒▓▓▓▓    █�
 | 8 | `thecardcave` | Trading Cards | 152 | 42.4 | `██████████` |
 | 9 | `comiccryptllc` | Comics | 144 | 36.0 | `██████████` |
 | 10 | `slabsanddabs` | Trading Cards | 126 | 35.6 | `█████████` |
-| 11 | `vintagevault614` | Sports Cards | 118 | 34.8 | `████████` |
-| 12 | `coinsbykyle` | Coins | 112 | 30.2 | `████████` |
+| 11 | `vintagevault614` | Sports Cards | 118 | 34.2 | `████████` |
+| 12 | `coinsbykyle` | Coins | 112 | 30.7 | `████████` |
 | 13 | `funkofinds` | Pop Culture | 101 | 29.2 | `███████` |
-| 14 | `cardvaultbreaks` | Trading Cards | 100 | 31.1 | `███████` |
+| 14 | `cardvaultbreaks` | Trading Cards | 100 | 31.0 | `███████` |
 | 15 | `charizardcorner` | Pokemon | 88 | 26.2 | `██████` |
 
 ## Where the audience is
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 8,609 | `██████████████████` |
-| Sports Cards | 5,913 | `████████████` |
+| Trading Cards | 8,636 | `██████████████████` |
+| Sports Cards | 5,931 | `████████████` |
 | Pokemon | 4,684 | `██████████` |
 | Sneakers | 1,856 | `████` |
-| Coins | 1,540 | `███` |
+| Coins | 1,537 | `███` |
 | Comics | 1,510 | `███` |
 | Pop Culture | 1,458 | `███` |
 
 ---
 
-<sub>Updated 2026-11-06 06:35 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-11-06 15:53 UTC · times shown in America/New_York · demo data</sub>
