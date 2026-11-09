@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (812 viewers platform-wide) |
 | Most competition | **9pm** (16.0 shows live at once) |
-| Samples collected | **117** over 27.8 days |
+| Samples collected | **117** over 27.7 days |
 
 ## When to stream
 
@@ -16,7 +16,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 
 ```
      12a   3a    6a    9a    12p   3p    6p    9p
-Mon  ░░··            ░░····░░      ░░    ▓▓▓▓        
+Mon  ░░              ░░····░░      ░░    ▓▓▓▓        
 Tue  ░░░░··        ····    ░░░░░░    ░░▒▒▓▓  ▓▓▓▓    
 Wed        ░░··        ··    ░░  ░░      ▒▒▒▒        
 Thu  ░░▒▒          ····    ··░░░░  ░░  ░░▒▒██▓▓      
@@ -39,10 +39,10 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 
 ```
 12am  █████████              23.4
- 1am  ███████                18.8
+ 1am  ████████               20.0
  2am  █████                  11.5
  3am  █████                  11.5
- 4am  █                      2.0
+ 4am  █                      2.3
  5am  █                      0
  6am  ██                     4.0
  7am  ████                   9.2
@@ -69,12 +69,12 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 | # | Streamer | Category | Peak | Avg | |
 |--:|---|---|--:|--:|---|
 | 1 | `pristinepulls` | Sports Cards | 241 | 31.9 | `████████████████` |
-| 2 | `thehobbyhouse` | Trading Cards | 234 | 43.0 | `████████████████` |
+| 2 | `thehobbyhouse` | Trading Cards | 234 | 43.4 | `████████████████` |
 | 3 | `buckeyebreaks` | Sports Cards | 213 | 42.0 | `██████████████` |
 | 4 | `sneakerstacks` | Sneakers | 211 | 43.4 | `██████████████` |
-| 5 | `slabsanddabs` | Trading Cards | 206 | 39.3 | `██████████████` |
+| 5 | `slabsanddabs` | Trading Cards | 206 | 40.1 | `██████████████` |
 | 6 | `gradedgoods` | Pokemon | 182 | 39.9 | `████████████` |
-| 7 | `ripcityrips` | Trading Cards | 178 | 39.0 | `████████████` |
+| 7 | `ripcityrips` | Trading Cards | 178 | 39.8 | `████████████` |
 | 8 | `midwestmemorabilia` | Sports Cards | 167 | 33.8 | `███████████` |
 | 9 | `thecardcave` | Trading Cards | 152 | 42.8 | `██████████` |
 | 10 | `comiccryptllc` | Comics | 144 | 37.5 | `██████████` |
@@ -88,8 +88,8 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 9,003 | `██████████████████` |
-| Sports Cards | 6,738 | `█████████████` |
+| Trading Cards | 8,973 | `██████████████████` |
+| Sports Cards | 6,738 | `██████████████` |
 | Pokemon | 4,394 | `█████████` |
 | Sneakers | 1,781 | `████` |
 | Comics | 1,725 | `███` |
@@ -98,4 +98,4 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 
 ---
 
-<sub>Updated 2026-11-09 01:42 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-11-09 09:43 UTC · times shown in America/New_York · demo data</sub>

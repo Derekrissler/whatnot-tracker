@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-09T01:42:36+00:00",
+ "generated": "2026-11-09T09:43:42+00:00",
  "tz": "America/New_York",
  "samples": 117,
- "days_covered": 27.8,
+ "days_covered": 27.7,
  "grid": [
   {
    "d": 0,
@@ -15,10 +15,10 @@
   {
    "d": 0,
    "h": 1,
-   "n": 1,
-   "shows": 3.0,
-   "viewers": 30.0,
-   "vps": 10.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 0,
@@ -39,9 +39,9 @@
   {
    "d": 0,
    "h": 4,
-   "n": 0,
-   "shows": 0,
-   "viewers": 0,
+   "n": 1,
+   "shows": 0.0,
+   "viewers": 0.0,
    "vps": 0
   },
   {
@@ -1359,10 +1359,10 @@
   },
   {
    "h": 1,
-   "n": 8,
+   "n": 7,
    "shows": 2.9,
-   "viewers": 54.5,
-   "vps": 18.8
+   "viewers": 58.0,
+   "vps": 20.0
   },
   {
    "h": 2,
@@ -1380,10 +1380,10 @@
   },
   {
    "h": 4,
-   "n": 2,
-   "shows": 0.5,
-   "viewers": 1.0,
-   "vps": 2.0
+   "n": 3,
+   "shows": 0.3,
+   "viewers": 0.7,
+   "vps": 2.3
   },
   {
    "h": 5,
@@ -1531,8 +1531,8 @@
    "name": "thehobbyhouse",
    "category": "Trading Cards",
    "peak": 234,
-   "avg": 43.0,
-   "shows": 46
+   "avg": 43.4,
+   "shows": 45
   },
   {
    "name": "buckeyebreaks",
@@ -1552,8 +1552,8 @@
    "name": "slabsanddabs",
    "category": "Trading Cards",
    "peak": 206,
-   "avg": 39.3,
-   "shows": 49
+   "avg": 40.1,
+   "shows": 48
   },
   {
    "name": "gradedgoods",
@@ -1566,8 +1566,8 @@
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 178,
-   "avg": 39.0,
-   "shows": 46
+   "avg": 39.8,
+   "shows": 45
   },
   {
    "name": "midwestmemorabilia",
@@ -1629,7 +1629,7 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 9003
+   "viewers": 8973
   },
   {
    "name": "Sports Cards",
