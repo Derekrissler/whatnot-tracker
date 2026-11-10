@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:05:11+00:00",
+ "generated": "2026-11-10T12:34:15+00:00",
  "tz": "America/New_York",
  "samples": 117,
  "days_covered": 27.8,
@@ -215,10 +215,10 @@
   {
    "d": 1,
    "h": 2,
-   "n": 1,
-   "shows": 1.0,
-   "viewers": 9.0,
-   "vps": 9.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 1,
@@ -255,10 +255,10 @@
   {
    "d": 1,
    "h": 7,
-   "n": 1,
+   "n": 2,
    "shows": 1.0,
-   "viewers": 3.0,
-   "vps": 3.0
+   "viewers": 6.5,
+   "vps": 6.5
   },
   {
    "d": 1,
@@ -1366,10 +1366,10 @@
   },
   {
    "h": 2,
-   "n": 2,
+   "n": 1,
    "shows": 1.0,
-   "viewers": 11.5,
-   "vps": 11.5
+   "viewers": 14.0,
+   "vps": 14.0
   },
   {
    "h": 3,
@@ -1401,10 +1401,10 @@
   },
   {
    "h": 7,
-   "n": 4,
+   "n": 5,
    "shows": 1.0,
-   "viewers": 9.2,
-   "vps": 9.2
+   "viewers": 9.4,
+   "vps": 9.4
   },
   {
    "h": 8,
@@ -1608,8 +1608,8 @@
    "name": "funkofinds",
    "category": "Pop Culture",
    "peak": 101,
-   "avg": 32.4,
-   "shows": 51
+   "avg": 32.0,
+   "shows": 52
   },
   {
    "name": "cardvaultbreaks",
@@ -1637,7 +1637,7 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 4357
+   "viewers": 4348
   },
   {
    "name": "Comics",
@@ -1649,7 +1649,7 @@
   },
   {
    "name": "Pop Culture",
-   "viewers": 1652
+   "viewers": 1662
   },
   {
    "name": "Sneakers",

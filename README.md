@@ -17,7 +17,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
 ```
      12a   3a    6a    9a    12p   3p    6p    9p
 Mon  ░░              ░░····        ░░    ▒▒▓▓      ░░
-Tue  ░░░░··        ····    ░░░░░░    ░░▒▒▓▓  ▓▓▓▓    
+Tue  ░░░░          ····    ░░░░░░    ░░▒▒▓▓  ▓▓▓▓    
 Wed        ░░··        ··    ░░  ░░      ▒▒▒▒        
 Thu  ░░▒▒          ····    ··░░░░  ░░  ░░▒▒██▓▓      
 Fri    ░░  ··        ····░░      ░░░░░░▒▒  ▒▒▓▓      
@@ -40,12 +40,12 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 ```
 12am  █████████              23.4
  1am  ████████               20.0
- 2am  █████                  11.5
+ 2am  ██████                 14.0
  3am  █████                  11.5
  4am  █                      2.3
  5am  █                      0
  6am  ██                     4.0
- 7am  ████                   9.2
+ 7am  ████                   9.4
  8am  █████                  13.4
  9am  ███                    8.0
 10am  ██████                 14.2
@@ -80,7 +80,7 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 | 10 | `comiccryptllc` | Comics | 144 | 38.3 | `██████████` |
 | 11 | `vintagevault614` | Sports Cards | 118 | 36.5 | `████████` |
 | 12 | `coinsbykyle` | Coins | 112 | 30.5 | `███████` |
-| 13 | `funkofinds` | Pop Culture | 101 | 32.4 | `███████` |
+| 13 | `funkofinds` | Pop Culture | 101 | 32.0 | `███████` |
 | 14 | `cardvaultbreaks` | Trading Cards | 100 | 34.5 | `███████` |
 | 15 | `pokeprospector` | Pokemon | 100 | 32.4 | `███████` |
 
@@ -90,12 +90,12 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 |---|--:|---|
 | Trading Cards | 9,032 | `██████████████████` |
 | Sports Cards | 6,690 | `█████████████` |
-| Pokemon | 4,357 | `█████████` |
+| Pokemon | 4,348 | `█████████` |
 | Comics | 1,725 | `███` |
 | Coins | 1,679 | `███` |
-| Pop Culture | 1,652 | `███` |
+| Pop Culture | 1,662 | `███` |
 | Sneakers | 1,616 | `███` |
 
 ---
 
-<sub>Updated 2026-11-10 04:05 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-11-10 12:34 UTC · times shown in America/New_York · demo data</sub>
