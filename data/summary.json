@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-11T09:19:01+00:00",
+ "generated": "2026-11-11T17:52:06+00:00",
  "tz": "America/New_York",
  "samples": 116,
- "days_covered": 27.8,
+ "days_covered": 27.9,
  "grid": [
   {
    "d": 0,
@@ -463,10 +463,10 @@
   {
    "d": 2,
    "h": 9,
-   "n": 2,
-   "shows": 2.5,
-   "viewers": 18.0,
-   "vps": 7.2
+   "n": 1,
+   "shows": 2.0,
+   "viewers": 9.0,
+   "vps": 4.5
   },
   {
    "d": 2,
@@ -487,10 +487,10 @@
   {
    "d": 2,
    "h": 12,
-   "n": 2,
-   "shows": 4.5,
-   "viewers": 93.0,
-   "vps": 20.7
+   "n": 3,
+   "shows": 4.3,
+   "viewers": 88.3,
+   "vps": 20.5
   },
   {
    "d": 2,
@@ -1415,10 +1415,10 @@
   },
   {
    "h": 9,
-   "n": 5,
+   "n": 4,
    "shows": 2.8,
-   "viewers": 22.4,
-   "vps": 8.0
+   "viewers": 21.2,
+   "vps": 7.6
   },
   {
    "h": 10,
@@ -1436,10 +1436,10 @@
   },
   {
    "h": 12,
-   "n": 5,
-   "shows": 4.8,
-   "viewers": 109.4,
-   "vps": 22.8
+   "n": 6,
+   "shows": 4.7,
+   "viewers": 104.3,
+   "vps": 22.2
   },
   {
    "h": 13,
@@ -1538,8 +1538,8 @@
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 213,
-   "avg": 40.6,
-   "shows": 49
+   "avg": 41.2,
+   "shows": 48
   },
   {
    "name": "slabsanddabs",
@@ -1559,8 +1559,8 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 167,
-   "avg": 34.0,
-   "shows": 49
+   "avg": 34.5,
+   "shows": 50
   },
   {
    "name": "sneakerstacks",
@@ -1580,8 +1580,8 @@
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 144,
-   "avg": 39.3,
-   "shows": 44
+   "avg": 38.6,
+   "shows": 45
   },
   {
    "name": "ripcityrips",
@@ -1594,15 +1594,8 @@
    "name": "vintagevault614",
    "category": "Sports Cards",
    "peak": 118,
-   "avg": 35.8,
-   "shows": 41
-  },
-  {
-   "name": "charizardcorner",
-   "category": "Pokemon",
-   "peak": 112,
-   "avg": 27.7,
-   "shows": 37
+   "avg": 35.2,
+   "shows": 42
   },
   {
    "name": "coinsbykyle",
@@ -1610,6 +1603,13 @@
    "peak": 112,
    "avg": 30.8,
    "shows": 54
+  },
+  {
+   "name": "charizardcorner",
+   "category": "Pokemon",
+   "peak": 112,
+   "avg": 28.1,
+   "shows": 36
   },
   {
    "name": "funkofinds",
@@ -1633,15 +1633,15 @@
   },
   {
    "name": "Sports Cards",
-   "viewers": 6584
+   "viewers": 6638
   },
   {
    "name": "Pokemon",
-   "viewers": 4299
+   "viewers": 4287
   },
   {
    "name": "Comics",
-   "viewers": 1728
+   "viewers": 1735
   },
   {
    "name": "Coins",
@@ -1649,7 +1649,7 @@
   },
   {
    "name": "Pop Culture",
-   "viewers": 1646
+   "viewers": 1649
   },
   {
    "name": "Sneakers",
