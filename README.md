@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (799 viewers platform-wide) |
 | Most competition | **9pm** (16.0 shows live at once) |
-| Samples collected | **116** over 27.7 days |
+| Samples collected | **116** over 27.8 days |
 
 ## When to stream
 
@@ -18,7 +18,7 @@ Viewers per competing show, by day and hour. Denser blocks are better slots — 
      12a   3a    6a    9a    12p   3p    6p    9p
 Mon  ░░              ░░····        ░░    ▒▒▓▓      ░░
 Tue  ░░░░          ····    ░░░░░░  ░░░░▒▒▓▓  ▓▓▒▒    
-Wed        ░░··        ··    ░░  ░░      ▒▒▒▒        
+Wed          ··        ··    ░░  ░░      ▒▒▒▒        
 Thu  ░░▒▒          ····    ··░░░░  ░░  ░░▒▒██▓▓      
 Fri    ░░  ··        ····░░      ░░░░░░▒▒  ▒▒▓▓      
 Sat  ▒▒░░····    ··  ··    ▒▒    ░░  ▒▒  ▒▒▓▓▓▓      
@@ -41,8 +41,8 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 12am  █████████              23.4
  1am  ████████               20.0
  2am  ██████                 14.0
- 3am  █████                  11.5
- 4am  █                      2.3
+ 3am  ███                    7.2
+ 4am  █                      2.5
  5am  █                      0
  6am  ██                     4.0
  7am  ████                   9.4
@@ -82,7 +82,7 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 | 12 | `charizardcorner` | Pokemon | 112 | 27.7 | `███████` |
 | 13 | `coinsbykyle` | Coins | 112 | 30.8 | `███████` |
 | 14 | `funkofinds` | Pop Culture | 101 | 32.3 | `███████` |
-| 15 | `pokeprospector` | Pokemon | 100 | 31.5 | `███████` |
+| 15 | `cardvaultbreaks` | Trading Cards | 100 | 35.6 | `███████` |
 
 ## Where the audience is
 
@@ -90,7 +90,7 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 |---|--:|---|
 | Trading Cards | 8,820 | `██████████████████` |
 | Sports Cards | 6,584 | `█████████████` |
-| Pokemon | 4,325 | `█████████` |
+| Pokemon | 4,299 | `█████████` |
 | Comics | 1,728 | `████` |
 | Coins | 1,665 | `███` |
 | Pop Culture | 1,646 | `███` |
@@ -98,4 +98,4 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 
 ---
 
-<sub>Updated 2026-11-11 01:54 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-11-11 09:19 UTC · times shown in America/New_York · demo data</sub>
