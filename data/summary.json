@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-14T02:23:25+00:00",
+ "generated": "2026-11-14T11:25:30+00:00",
  "tz": "America/New_York",
  "samples": 112,
- "days_covered": 27.8,
+ "days_covered": 27.9,
  "grid": [
   {
    "d": 0,
@@ -983,10 +983,10 @@
   {
    "d": 5,
    "h": 2,
-   "n": 1,
-   "shows": 1.0,
-   "viewers": 14.0,
-   "vps": 14.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "d": 5,
@@ -1015,10 +1015,10 @@
   {
    "d": 5,
    "h": 6,
-   "n": 1,
+   "n": 2,
    "shows": 1.0,
-   "viewers": 3.0,
-   "vps": 3.0
+   "viewers": 9.0,
+   "vps": 9.0
   },
   {
    "d": 5,
@@ -1366,10 +1366,10 @@
   },
   {
    "h": 2,
-   "n": 1,
-   "shows": 1.0,
-   "viewers": 14.0,
-   "vps": 14.0
+   "n": 0,
+   "shows": 0,
+   "viewers": 0,
+   "vps": 0
   },
   {
    "h": 3,
@@ -1394,10 +1394,10 @@
   },
   {
    "h": 6,
-   "n": 2,
+   "n": 3,
    "shows": 1.0,
-   "viewers": 4.0,
-   "vps": 4.0
+   "viewers": 7.7,
+   "vps": 7.7
   },
   {
    "h": 7,
@@ -1580,8 +1580,8 @@
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 140,
-   "avg": 36.7,
-   "shows": 44
+   "avg": 36.2,
+   "shows": 45
   },
   {
    "name": "sneakerstacks",
@@ -1594,8 +1594,8 @@
    "name": "charizardcorner",
    "category": "Pokemon",
    "peak": 112,
-   "avg": 26.9,
-   "shows": 34
+   "avg": 27.3,
+   "shows": 33
   },
   {
    "name": "coinsbykyle",
@@ -1629,7 +1629,7 @@
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 8092
+   "viewers": 8107
   },
   {
    "name": "Sports Cards",
@@ -1637,7 +1637,7 @@
   },
   {
    "name": "Pokemon",
-   "viewers": 4018
+   "viewers": 4004
   },
   {
    "name": "Comics",

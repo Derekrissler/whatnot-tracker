@@ -8,7 +8,7 @@
 |---|---|
 | Biggest audience | **8pm** (786 viewers platform-wide) |
 | Most competition | **9pm** (14.7 shows live at once) |
-| Samples collected | **112** over 27.8 days |
+| Samples collected | **112** over 27.9 days |
 
 ## When to stream
 
@@ -21,7 +21,7 @@ Tue  ░░░░          ····    ░░░░░░  ░░░░▒▒▓
 Wed          ··        ··    ░░  ░░      ▒▒▒▒        
 Thu  ░░▒▒          ····    ··  ░░  ░░  ▒▒▒▒██▒▒      
 Fri    ░░  ··        ····░░▒▒    ░░░░░░    ▒▒▓▓▒▒    
-Sat  ▒▒░░····    ··  ··    ▒▒    ░░  ▒▒  ▒▒▓▓▓▓      
+Sat  ▒▒░░  ··    ··  ··    ▒▒    ░░  ▒▒  ▒▒▓▓▓▓      
 Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  ▓▓  ██      
 
      low  · ░ ▒ ▓ █  high
@@ -40,11 +40,11 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 ```
 12am  ██████████             24.0
  1am  ████████               19.9
- 2am  ██████                 14.0
+ 2am  █                      0
  3am  ██                     5.0
  4am  █                      2.0
  5am  █                      0
- 6am  ██                     4.0
+ 6am  ███                    7.7
  7am  ███                    6.8
  8am  █████                  13.4
  9am  ███                    7.0
@@ -76,9 +76,9 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 | 6 | `thehobbyhouse` | Trading Cards | 167 | 38.2 | `███████████` |
 | 7 | `thecardcave` | Trading Cards | 152 | 41.7 | `██████████` |
 | 8 | `comiccryptllc` | Comics | 144 | 37.9 | `██████████` |
-| 9 | `ripcityrips` | Trading Cards | 140 | 36.7 | `█████████` |
+| 9 | `ripcityrips` | Trading Cards | 140 | 36.2 | `█████████` |
 | 10 | `sneakerstacks` | Sneakers | 130 | 36.4 | `█████████` |
-| 11 | `charizardcorner` | Pokemon | 112 | 26.9 | `███████` |
+| 11 | `charizardcorner` | Pokemon | 112 | 27.3 | `███████` |
 | 12 | `coinsbykyle` | Coins | 112 | 31.8 | `███████` |
 | 13 | `vintagevault614` | Sports Cards | 105 | 31.9 | `███████` |
 | 14 | `funkofinds` | Pop Culture | 101 | 33.1 | `███████` |
@@ -88,9 +88,9 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 
 | Category | Viewer-samples | |
 |---|--:|---|
-| Trading Cards | 8,092 | `██████████████████` |
+| Trading Cards | 8,107 | `██████████████████` |
 | Sports Cards | 6,445 | `██████████████` |
-| Pokemon | 4,018 | `█████████` |
+| Pokemon | 4,004 | `█████████` |
 | Comics | 1,668 | `████` |
 | Coins | 1,591 | `████` |
 | Pop Culture | 1,588 | `████` |
@@ -98,4 +98,4 @@ Sun  ░░··  ··    ······    ░░▒▒▒▒▓▓▒▒░░  �
 
 ---
 
-<sub>Updated 2026-11-14 02:23 UTC · times shown in America/New_York · demo data</sub>
+<sub>Updated 2026-11-14 11:25 UTC · times shown in America/New_York · demo data</sub>
