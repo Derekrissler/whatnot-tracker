@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-26T04:07:49+00:00",
+ "generated": "2026-11-26T13:50:34+00:00",
  "tz": "America/New_York",
- "samples": 92,
- "days_covered": 27.9,
+ "samples": 91,
+ "days_covered": 27.7,
  "grid": [
   {
    "d": 0,
@@ -591,10 +591,10 @@
   {
    "d": 3,
    "h": 1,
-   "n": 2,
-   "shows": 2.5,
-   "viewers": 74.5,
-   "vps": 29.8
+   "n": 1,
+   "shows": 2.0,
+   "viewers": 44.0,
+   "vps": 22.0
   },
   {
    "d": 3,
@@ -648,9 +648,9 @@
    "d": 3,
    "h": 8,
    "n": 1,
-   "shows": 2.0,
-   "viewers": 21.0,
-   "vps": 10.5
+   "shows": 1.0,
+   "viewers": 10.0,
+   "vps": 10.0
   },
   {
    "d": 3,
@@ -1359,10 +1359,10 @@
   },
   {
    "h": 1,
-   "n": 10,
+   "n": 9,
    "shows": 3.0,
-   "viewers": 52.9,
-   "vps": 17.6
+   "viewers": 47.1,
+   "vps": 15.7
   },
   {
    "h": 2,
@@ -1409,9 +1409,9 @@
   {
    "h": 8,
    "n": 4,
-   "shows": 2.2,
-   "viewers": 25.8,
-   "vps": 11.7
+   "shows": 2.0,
+   "viewers": 23.0,
+   "vps": 11.5
   },
   {
    "h": 9,
@@ -1538,8 +1538,8 @@
    "name": "buckeyebreaks",
    "category": "Sports Cards",
    "peak": 213,
-   "avg": 42.5,
-   "shows": 37
+   "avg": 43.7,
+   "shows": 35
   },
   {
    "name": "funkofinds",
@@ -1566,8 +1566,8 @@
    "name": "midwestmemorabilia",
    "category": "Sports Cards",
    "peak": 167,
-   "avg": 38.2,
-   "shows": 44
+   "avg": 37.7,
+   "shows": 43
   },
   {
    "name": "thehobbyhouse",
@@ -1594,8 +1594,8 @@
    "name": "ripcityrips",
    "category": "Trading Cards",
    "peak": 118,
-   "avg": 37.3,
-   "shows": 34
+   "avg": 38.1,
+   "shows": 33
   },
   {
    "name": "pokeprospector",
@@ -1605,13 +1605,6 @@
    "shows": 32
   },
   {
-   "name": "charizardcorner",
-   "category": "Pokemon",
-   "peak": 112,
-   "avg": 36.2,
-   "shows": 29
-  },
-  {
    "name": "comiccryptllc",
    "category": "Comics",
    "peak": 112,
@@ -1619,25 +1612,32 @@
    "shows": 37
   },
   {
+   "name": "charizardcorner",
+   "category": "Pokemon",
+   "peak": 112,
+   "avg": 37.0,
+   "shows": 28
+  },
+  {
    "name": "gradedgoods",
    "category": "Pokemon",
    "peak": 112,
-   "avg": 41.4,
-   "shows": 37
+   "avg": 40.6,
+   "shows": 38
   }
  ],
  "categories": [
   {
    "name": "Trading Cards",
-   "viewers": 6873
+   "viewers": 6864
   },
   {
    "name": "Sports Cards",
-   "viewers": 6151
+   "viewers": 6048
   },
   {
    "name": "Pokemon",
-   "viewers": 3799
+   "viewers": 3795
   },
   {
    "name": "Sneakers",
